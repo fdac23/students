@@ -1,0 +1,1 @@
+I am Ben Klein, the TA for this class. I'll be participating as a student as well though, but feel free to ping me for any technical problems (git, linux, docker, etc) on Discord, GitHub, or email me `@vols.utk.edu`.

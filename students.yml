@@ -100,7 +100,10 @@ pbowlin1:
   github: parkerbowling
   lastname: Bowling
 rlinder:
+  firstname: Rhema
   github: rhema
+  lastname: Linder
+  port: 7702
 rseamons:
   firstname: Ryan
   github: rs1856tn

@@ -26,6 +26,7 @@ bklein3:
   firstname: Ben
   github: robobenklein
   lastname: Klein
+  port: 7701
 clee95:
   firstname: Christopher
   github: cjlee95
@@ -98,6 +99,8 @@ pbowlin1:
   firstname: Parker
   github: parkerbowling
   lastname: Bowling
+rlinder:
+  github: rhema
 rseamons:
   firstname: Ryan
   github: rs1856tn

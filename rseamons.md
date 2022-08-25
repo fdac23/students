@@ -1,0 +1,1 @@
+Hello my name is Ryan Seamons and I am a senior Computer Science student. In terms of computer science I am interested in cybersecurity and data analytics with an emphasis in investment strategy. My personal hobbies are golf and sports.

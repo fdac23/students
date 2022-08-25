@@ -1,0 +1,1 @@
+I am Tristan Ainley. I am currently a super senior (6th year) in Computer Science and I am from the southern Nashville area. I currently work part-time at Hologram Electronics as a Logistics Specialist. I enjoy playing games but I'm particularly interested in software development and data analysis. Regarding programming languages, I am proficient in Python, C++, and HTML/JS. 

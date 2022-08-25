@@ -1,0 +1,1 @@
+I am Taylor Rogers, a senior majoring in computer science. I am pursuing minors in both machine learning and information science, and my most notable interests are in baseball. I am eager to connect what I learn in CS and this course with my interests. I look forward to seeing the various applications/topics people explore in this class! 

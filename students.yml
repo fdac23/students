@@ -23,6 +23,11 @@ ahillhou:
   github: ahillhou
   lastname: Hillhouse
   port: 7707
+audris:
+  firstname: Audris
+  github: audrism
+  lastname: Mockus
+  port: 7700
 awelden2:
   firstname: Andrew
   github: awelden0

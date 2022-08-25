@@ -2,26 +2,32 @@ ababjac:
   firstname: Ashley
   github: ababjac
   lastname: Babjac
+  port: 7703
 abahour2:
   firstname: Abdurhman
   github: Abdurh-man
   lastname: Bahour
+  port: 7704
 abrock14:
   firstname: Alexander
   github: ShrimpyJ
   lastname: Brock
+  port: 7705
 acook46:
   firstname: Adam
   github: ajcook247
   lastname: Cook
+  port: 7706
 ahillhou:
   firstname: Andy
   github: ahillhou
   lastname: Hillhouse
+  port: 7707
 awelden2:
   firstname: Andrew
   github: awelden0
   lastname: Welden
+  port: 7708
 bklein3:
   firstname: Ben
   github: robobenklein
@@ -31,74 +37,92 @@ clee95:
   firstname: Christopher
   github: cjlee95
   lastname: Lee
+  port: 7709
 cwang93:
   firstname: Charles
   github: mrchausgit
   lastname: Wang
+  port: 7710
 dscott57:
   firstname: Danny
   github: DD-Scott
   lastname: Scott
+  port: 7711
 jblanch8:
   firstname: Justin
   github: jblanch8
   lastname: Blanchard
+  port: 7712
 jclar168:
   firstname: Joseph
   github: jclar168
   lastname: Clark
+  port: 7713
 jim5:
   firstname: Joonyoung
   github: troy51538
   lastname: Im
+  port: 7714
 jmandzak:
   firstname: Josh
   github: jmandzak
   lastname: Mandzak
+  port: 7715
 jrodeghi:
   firstname: Joel
   github: JRodeghi
   lastname: Rodeghiero
+  port: 7716
 jsadik:
   firstname: John
   github: John-Sadik
   lastname: Sadik
+  port: 7717
 jstaman:
   firstname: Jared
   github: jstaman5
   lastname: Staman
+  port: 7718
 kmaclin1:
   firstname: Kameron
   github: Kmac0103
   lastname: Maclin
+  port: 7719
 ljakstas:
   firstname: Lukas
   github: ljakstas
   lastname: Jakstas
+  port: 7720
 lsharpe8:
   firstname: Lily
   github: lsharpe8
   lastname: Sharpe
+  port: 7721
 lwrinkle:
   firstname: Logan
   github: LagoonyToons
   lastname: Wrinkle
+  port: 7722
 mdeleon1:
   firstname: Marco
   github: mdeleon7
   lastname: DeLeon
+  port: 7723
 mdenise:
   firstname: Mary
   github: marydenise
   lastname: Denise
+  port: 7724
 npatel79:
   firstname: Neh
   github: napatel79
   lastname: Patel
+  port: 7725
 pbowlin1:
   firstname: Parker
   github: parkerbowling
   lastname: Bowling
+  port: 7726
 rlinder:
   firstname: Rhema
   github: rhema
@@ -108,35 +132,44 @@ rseamons:
   firstname: Ryan
   github: rs1856tn
   lastname: Seamons
+  port: 7727
 rsexton8:
   firstname: Rhett
   github: rsexton8
   lastname: Sexton
+  port: 7728
 smishr11:
   firstname: Swasti
   github: pixelatinate
   lastname: Mishra
+  port: 7729
 spunjani:
   firstname: Soofi
   github: soofinator
   lastname: Punjani
+  port: 7730
 tainley:
   firstname: Tristan
   github: tristan-ainley
   lastname: Ainley
+  port: 7731
 tcultice:
   firstname: Tyler
   github: tcultice
   lastname: Cultice
+  port: 7732
 troger28:
   firstname: Taylor
   github: trogers19
   lastname: Rogers
+  port: 7733
 wparham1:
   firstname: William
   github: wcparham1
   lastname: Parham
+  port: 7734
 zmalkmus:
   firstname: Zack
   github: zmalkmus
   lastname: Malkmus
+  port: 7735

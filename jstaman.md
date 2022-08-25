@@ -1,0 +1,1 @@
+I am Jared Staman. I am a first year Masters student in Computer Science. I am also a GTA for CS 102. I have experience using Python and have done a good bit of machine learning with it. I am interested in doing data analysis in sports. Specifically, I have been enjoying frisbee golf lately.

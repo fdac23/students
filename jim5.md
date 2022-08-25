@@ -1,0 +1,1 @@
+My name is Joonyoung Im and I'm a senior majoring in Computer Science. I worked at a startup in Knoxville called Courseflow for the past 5 months. Through the internship my interest towards web-development increased a lot and I would like to continue working with frameworks related to web-dev.

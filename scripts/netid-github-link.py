@@ -24,3 +24,5 @@ with roboyml.open(studentfile) as students:
       students[netid] = {}
     if "github" not in students[netid]:
       students[netid]["github"] = gh_user.login
+
+print(f"Ratelimit: {gh.rate_limiting}")

@@ -1,12 +1,32 @@
 awelden2:
+  firstname: Andrew
   github: awelden0
+  lastname: Welden
 cwang93:
+  firstname: Charles
   github: mrchausgit
+  lastname: Wang
 dscott57:
+  firstname: Danny
   github: DD-Scott
+  lastname: Scott
 jclar168:
+  firstname: Joseph
   github: jclar168
+  lastname: Clark
+jstaman:
+  firstname: Jared
+  github: jstaman5
+  lastname: Staman
 ljakstas:
+  firstname: Lukas
   github: ljakstas
+  lastname: Jakstas
+tainley:
+  firstname: Tristan
+  github: tristan-ainley
+  lastname: Ainley
 tcultice:
+  firstname: Tyler
   github: tcultice
+  lastname: Cultice

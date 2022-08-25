@@ -1,7 +1,35 @@
+ababjac:
+  firstname: Ashley
+  github: ababjac
+  lastname: Babjac
+abahour2:
+  firstname: Abdurhman
+  github: Abdurh-man
+  lastname: Bahour
+abrock14:
+  firstname: Alexander
+  github: ShrimpyJ
+  lastname: Brock
+acook46:
+  firstname: Adam
+  github: ajcook247
+  lastname: Cook
+ahillhou:
+  firstname: Andy
+  github: ahillhou
+  lastname: Hillhouse
 awelden2:
   firstname: Andrew
   github: awelden0
   lastname: Welden
+bklein3:
+  firstname: Ben
+  github: robobenklein
+  lastname: Klein
+clee95:
+  firstname: Christopher
+  github: cjlee95
+  lastname: Lee
 cwang93:
   firstname: Charles
   github: mrchausgit
@@ -10,18 +38,74 @@ dscott57:
   firstname: Danny
   github: DD-Scott
   lastname: Scott
+jblanch8:
+  firstname: Justin
+  github: jblanch8
+  lastname: Blanchard
 jclar168:
   firstname: Joseph
   github: jclar168
   lastname: Clark
+jim5:
+  firstname: Joonyoung
+  github: troy51538
+  lastname: Im
+jmandzak:
+  firstname: Josh
+  github: jmandzak
+  lastname: Mandzak
+jrodeghi:
+  firstname: Joel
+  github: JRodeghi
+  lastname: Rodeghiero
+jsadik:
+  firstname: John
+  github: John-Sadik
+  lastname: Sadik
 jstaman:
   firstname: Jared
   github: jstaman5
   lastname: Staman
+kmaclin1:
+  firstname: Kameron
+  github: Kmac0103
+  lastname: Maclin
 ljakstas:
   firstname: Lukas
   github: ljakstas
   lastname: Jakstas
+lwrinkle:
+  firstname: Logan
+  github: LagoonyToons
+  lastname: Wrinkle
+mdenise:
+  firstname: Mary
+  github: marydenise
+  lastname: Denise
+npatel79:
+  firstname: Neh
+  github: napatel79
+  lastname: Patel
+pbowlin1:
+  firstname: Parker
+  github: parkerbowling
+  lastname: Bowling
+rseamons:
+  firstname: Ryan
+  github: rs1856tn
+  lastname: Seamons
+rsexton8:
+  firstname: Rhett
+  github: rsexton8
+  lastname: Sexton
+smishr11:
+  firstname: Swasti
+  github: pixelatinate
+  lastname: Mishra
+spunjani:
+  firstname: Soofi
+  github: soofinator
+  lastname: Punjani
 tainley:
   firstname: Tristan
   github: tristan-ainley
@@ -30,3 +114,15 @@ tcultice:
   firstname: Tyler
   github: tcultice
   lastname: Cultice
+troger28:
+  firstname: Taylor
+  github: trogers19
+  lastname: Rogers
+wparham1:
+  firstname: William
+  github: wcparham1
+  lastname: Parham
+zmalkmus:
+  firstname: Zack
+  github: zmalkmus
+  lastname: Malkmus

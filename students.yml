@@ -37,10 +37,12 @@ beken:
   firstname: Burcum
   github: burcumeken
   lastname: Eken
+  port: 7737
 bkammerd:
   firstname: Brandon
   github: kammerdienerb
   lastname: Kammerdiener
+  port: 7738
 bklein3:
   firstname: Ben
   github: robobenklein
@@ -50,10 +52,12 @@ chagens:
   firstname: Caleb
   github: Chagens
   lastname: Hagens
+  port: 7739
 cjohn260:
   firstname: Cole
   github: colepjohn
   lastname: Johnston
+  port: 7740
 clee95:
   firstname: Christopher
   github: cjlee95
@@ -68,10 +72,12 @@ delzinga:
   firstname: David
   github: David-Elzinga
   lastname: Elzinga
+  port: 7741
 dhuang14:
   firstname: David
   github: dhuang0212
   lastname: Huang
+  port: 7742
 dscott57:
   firstname: Danny
   github: DD-Scott
@@ -81,6 +87,7 @@ elidberb:
   firstname: Elijah
   github: elidberb
   lastname: Berberette
+  port: 7743
 jblanch8:
   firstname: Justin
   github: jblanch8
@@ -130,6 +137,7 @@ lpearcy1:
   firstname: Leigh
   github: leighpearcy
   lastname: Pearcy
+  port: 7744
 lsharpe8:
   firstname: Lily
   github: lsharpe8
@@ -169,6 +177,7 @@ rschenck:
   firstname: Robert
   github: RCSIII
   lastname: Schenck
+  port: 7745
 rseamons:
   firstname: Ryan
   github: rs1856tn
@@ -188,6 +197,7 @@ sblank11:
   firstname: Susan
   github: SKBlank
   lastname: Blankenship
+  port: 7746
 smishr11:
   firstname: Swasti
   github: pixelatinate
@@ -197,6 +207,7 @@ spate118:
   firstname: Saahil
   github: spate118
   lastname: Patel
+  port: 7747
 spunjani:
   firstname: Soofi
   github: soofinator
@@ -216,6 +227,7 @@ tkhan7:
   firstname: Taha
   github: taha59
   lastname: Khan
+  port: 7748
 troger28:
   firstname: Taylor
   github: trogers19

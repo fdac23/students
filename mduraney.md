@@ -1,0 +1,1 @@
+I am Matthew Duraney and I am a senior majoring in Computer Science with a minor in Data Science. I already have some background in Data Science so I chose this course to further develop my knowledge and programming skills in Data Science. One of my biggest interests is sports so I would be really interested in analyzing some kind of sports data.

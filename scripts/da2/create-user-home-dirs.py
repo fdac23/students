@@ -17,6 +17,7 @@ with roboyml.open(studentfile, readonly=True) as students:
     def set_file_owner_to_student(path):
       shutil.chown(path, user=netid, group=chown_group)
     da_home_dir = Path("/data/dahome/{netid}")
+    print(f"Working on {da_home_dir} ...")
     (da_home_dir / ".ssh").mkdir(parents=True, exist_ok=True)
     set_file_owner_to_student(da_home_dir)
     set_file_owner_to_student(da_home_dir / ".ssh")
@@ -34,6 +35,7 @@ with roboyml.open(studentfile, readonly=True) as students:
         keys_to_add.append(k)
     # only write/touch file if we need to modify it:
     if keys_to_add:
+      print(f"Need to add {len(keys_to_add)} keys ...")
       # open in append mode:
       with ssh_authorized_keys.open("a") as sak_file:
         if not sak_text.endswith('\n'):

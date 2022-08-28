@@ -14,13 +14,13 @@ if os.getuid() != 0:
 
 with roboyml.open(studentfile, readonly=True) as students:
   for netid, student in students.items():
-    def set_file_owner_to_student(path):
-      shutil.chown(path, user=netid, group=chown_group)
+    def set_file_owner_to_student(path, group=chown_group):
+      shutil.chown(path, user=netid, group=group)
     da_home_dir = Path(f"/data/dahome/{netid}")
     print(f"Working on {da_home_dir} ...")
-    (da_home_dir / ".ssh").mkdir(parents=True, exist_ok=True)
+    (da_home_dir / ".ssh").mkdir(mode=0o755, parents=True, exist_ok=True)
     set_file_owner_to_student(da_home_dir)
-    set_file_owner_to_student(da_home_dir / ".ssh")
+    set_file_owner_to_student(da_home_dir / ".ssh", group=netid)
     (da_home_dir / ".ssh").chmod(0o700)
 
     ssh_authorized_keys = da_home_dir / ".ssh" / "authorized_keys"
@@ -45,5 +45,5 @@ with roboyml.open(studentfile, readonly=True) as students:
         )
         for k in keys_to_add:
           sak_file.write(f"{k} # from github account {student['github']}\n")
-      set_file_owner_to_student(ssh_authorized_keys)
+      set_file_owner_to_student(ssh_authorized_keys, group=netid)
       ssh_authorized_keys.chmod(0o700)

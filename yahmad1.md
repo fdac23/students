@@ -1,0 +1,1 @@
+Hi, my name is Yamin Ahmad. I am a 4th year Computer Science student. I've enjoyed taking machine learning and cybersecurity courses in recent years, and would love to understand the data behind a lot of Computer Science fields better. I hope this course allows me to become a better software engineer and understand the field of data science better.

@@ -1,7 +1,10 @@
 
 from github import Github
+from dotenv import load_dotenv
 
 from settings import *
+
+load_dotenv()
 
 gh = Github(os.environ.get("GITHUB_TOKEN"))
 

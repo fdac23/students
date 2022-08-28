@@ -21,3 +21,14 @@ Pulls SSH keys from the github api for each student and puts the keys in the stu
 ```bash
 python scripts/get-ssh-keys.py
 ```
+
+# da2 admin actions
+
+Create user dirs and import ssh keys from the yml:
+
+```bash
+# REQUIRES ROOT, ONLY RUN ON DA2:
+# Ensure you are in the repository directory!
+sudo python3 scripts/da2/create-user-home-dirs.py
+```
+

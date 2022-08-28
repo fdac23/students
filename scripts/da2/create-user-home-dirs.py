@@ -41,7 +41,10 @@ with roboyml.open(studentfile, readonly=True) as students:
       print(f"### WARN: {netid} has no keys to add, skipping.")
       continue
 
-    sak_text = ssh_authorized_keys.read_text()
+    if ssh_authorized_keys.exists():
+      sak_text = ssh_authorized_keys.read_text()
+    else:
+      sak_text = "\n"
     keys_to_add = []
     for k in student["keys"]:
       if k not in sak_text:

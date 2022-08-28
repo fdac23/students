@@ -49,5 +49,5 @@ with roboyml.open(studentfile) as students:
 
     # container checks:
     if container.status != "running":
-      print(f"### WARN: Container {container_name} is not running! It's currently {container.status}."
+      print(f"### WARN: Container {container_name} is not running! It's currently {container.status}.")
 

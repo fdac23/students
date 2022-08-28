@@ -1,3 +1,14 @@
+Quick copy-paste in order: (assuming your `python` is 3.6+)
+
+```bash
+python scripts/netid-github-link.py
+python scripts/student-names-from-bios.py
+python scripts/assign-docker-ports.py
+python scripts/make-ports-md.py > Ports.md
+# on da2: (remember to commit/push/pull this repo with new changes)
+sudo python3 scripts/da2/create-user-home-dirs.py
+```
+
 # Ordering for populating students.yml
 
 ```bash

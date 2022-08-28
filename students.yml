@@ -23,6 +23,10 @@ ahillhou:
   github: ahillhou
   lastname: Hillhouse
   port: 7707
+amcdan23:
+  firstname: Adam
+  github: adam-mcdaniel
+  lastname: McDaniel
 audris:
   firstname: Audris
   github: audrism
@@ -33,6 +37,10 @@ awelden2:
   github: awelden0
   lastname: Welden
   port: 7708
+batkhamj:
+  firstname: Brandon
+  github: batkhamj
+  lastname: Atkhamjonov
 beken:
   firstname: Burcum
   github: burcumeken
@@ -48,6 +56,10 @@ bklein3:
   github: robobenklein
   lastname: Klein
   port: 7701
+cbrook53:
+  firstname: Chandler
+  github: CBrooks36
+  lastname: Brooks
 chagens:
   firstname: Caleb
   github: Chagens
@@ -83,6 +95,10 @@ dscott57:
   github: DD-Scott
   lastname: Scott
   port: 7711
+dseals3:
+  firstname: Damian
+  github: dseals3
+  lastname: Seals
 elidberb:
   firstname: Elijah
   github: elidberb
@@ -128,6 +144,10 @@ jstaman:
   github: jstaman5
   lastname: Staman
   port: 7718
+klee50:
+  firstname: Karen
+  github: kare-ren
+  lastname: Hughes
 kmaclin1:
   firstname: Kameron
   github: Kmac0103

@@ -355,6 +355,10 @@ sblank11:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDfD0olLS01h49hPT481GQIB4H3W/dcNqNJ4XaJx6MjYA0iDIsHiP131HxLsIur58oV7UciMWjbUMNv5RexcOviHxMNRhllnIzoQZeAyhCH5DSQ1MhMUx/nAW4IDyEJI84wyLHNR5NQasay6+WJbdLLI/uHLQ4c23wb7KJGSNNxKu5PPXnIKl/FgrbkOQ5qPEZMpXre69F9lkPj3D8NK0kDXq8VVEKJEkGzyTrV+UlUgtaOBkD2sYoIKT1bywSme3JAV1WEDdX9RCgjrmdL0tpcgqWTTlGjRLizKOwl3cE2fL/IRjbrwz6dzmd11TY+b36yhpUP+CWTUmlJeavZirmgAJaC+eRsXRPPZOsCogES6cumoZiSgJldRtHKsjpDgunUMv9Hi365yqyRfhFYgK48L03S2b9wb/ndhYRZQCyj8pLGSyy3NCBj6nGdpqdsvO3AjMIXow+Hb3gbJXbUPs23byyT2/vrECne/aw2rmY5wg0lxUN9H92iMF2gN03og/OulksrJJAn9FolVZjlVkGTG/WMahzu3D5DPIj1wnGMqn5y6xtvB+Cg2f+z2MgqSEEXVtvU9fHduukK/ilIhDtl19iApliiPkFZTiuy5z9FkHhv9WMOh6juAlY16USVGq8faB1FZP/zMTsUHH/+xwrqtf7eKnCVdAFvdqeKc25zAQ==
   lastname: Blankenship
   port: 7746
+sjohn248:
+  firstname: Seth
+  github: sjohn248
+  lastname: Johnson
 smishr11:
   firstname: Swasti
   github: pixelatinate

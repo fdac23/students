@@ -53,7 +53,7 @@ with roboyml.open(studentfile, readonly=True) as students:
     if keys_to_add:
       print(f"Need to add {len(keys_to_add)} keys ...")
       # open in append mode:
-      with ssh_authorized_keys.open("a") as sak_file:
+      with ssh_authorized_keys.open("a+") as sak_file:
         if not sak_text.endswith('\n'):
           sak_file.write("\n")
         sak_file.write(

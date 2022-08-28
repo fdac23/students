@@ -16,7 +16,7 @@ with roboyml.open(studentfile, readonly=True) as students:
   for netid, student in students.items():
     def set_file_owner_to_student(path):
       shutil.chown(path, user=netid, group=chown_group)
-    da_home_dir = Path("/data/dahome/{netid}")
+    da_home_dir = Path(f"/data/dahome/{netid}")
     print(f"Working on {da_home_dir} ...")
     (da_home_dir / ".ssh").mkdir(parents=True, exist_ok=True)
     set_file_owner_to_student(da_home_dir)

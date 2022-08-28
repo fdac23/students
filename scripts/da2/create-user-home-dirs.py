@@ -4,7 +4,7 @@ import os
 import shutil
 from pathlib import Path
 
-from .. import roboyml
+import roboyml
 from settings import *
 
 chown_group = "da"

@@ -4,7 +4,7 @@ import os
 import shutil
 from pathlib import Path
 
-import roboyml
+from .. import roboyml
 from settings import *
 
 chown_group = "da"
@@ -21,7 +21,7 @@ with roboyml.open(studentfile, readonly=True) as students:
     set_file_owner_to_student(da_home_dir)
     set_file_owner_to_student(da_home_dir / ".ssh")
     (da_home_dir / ".ssh").chmod(0o700)
-    
+
     ssh_authorized_keys = da_home_dir / ".ssh" / "authorized_keys"
     if not len(student["keys"]):
       print(f"### WARN: {netid} has no keys to add, skipping.")

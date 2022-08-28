@@ -35,7 +35,7 @@ with roboyml.open(studentfile) as students:
           name=container_name,
           oom_kill_disable=False,
           oom_score_adj=500, # prefer to kill the container instead of something on the host (-1000 to 1000)
-          ports={ student["port"]: 22 }, # host:container
+          ports={ 22: student["port"] }, # container : host
           stdin_open=True, # the '-i' argument to docker run
           volumes=[
             "/data:/local",

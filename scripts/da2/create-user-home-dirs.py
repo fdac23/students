@@ -41,7 +41,7 @@ with roboyml.open(studentfile, readonly=True) as students:
         if not sak_text.endswith('\n'):
           sak_file.write("\n")
         sak_file.write(
-          f"# Added by robobenklein's class scripts on {datetime.now().strftime('%Y-%m-%d %T')} :\n"
+          f"# Added by robobenklein's class scripts on {datetime.now().strftime('%Y-%m-%d')}:\n"
         )
         for k in keys_to_add:
           sak_file.write(f"{k} # from github account {student['github']}\n")

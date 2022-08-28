@@ -16,7 +16,7 @@ with roboyml.open(studentfile) as students:
       continue
     with bio.open('r') as f:
       bio_text = f.read()
-    r_m = re.search(find_name_re, bio_text)
+    r_m = re.search(find_name_re, bio_text, flags=re.MULTILINE)
     if r_m is None:
         print(f"### ERROR: {netid}.md did not match")
         continue

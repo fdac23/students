@@ -6,12 +6,12 @@ python scripts/student-names-from-bios.py # reads bio markdown files to get 'fir
 python scripts/assign-docker-ports.py # assigns ports to students for their docker containers
 ```
 
-# ports.md
+# Ports.md
 
 Updating the markdown file with data from the yml:
 
 ```bash
-python scripts/make-ports-md.py > ports.md
+python scripts/make-ports-md.py > Ports.md
 ```
 
 # SSH keys

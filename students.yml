@@ -41,6 +41,7 @@ amcdan23:
   github: adam-mcdaniel
   keys: []
   lastname: McDaniel
+  port: 7752
 audris:
   firstname: Audris
   github: audrism
@@ -62,6 +63,7 @@ batkhamj:
   keys:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHCFhXjY9X1sdYZE5dYLbStCBiQIIev5Gi2Mg7YwzjD8
   lastname: Atkhamjonov
+  port: 7753
 beken:
   firstname: Burcum
   github: burcumeken
@@ -99,6 +101,7 @@ cbrook53:
   keys:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICy+61/n4aWQ7Csn9torx+MpMnDNByUPaoi72hYMDdDM
   lastname: Brooks
+  port: 7754
 chagens:
   firstname: Caleb
   github: Chagens
@@ -159,6 +162,7 @@ dseals3:
   keys:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDXn/9eBP83JxDpHU3no2s7to9KbJ5QwFygDwZacv6D+DCVnpAJ7jKEjgIuJEC83vFtKeFiflNb2njUfwAcyQLgUIlr2yPgvI+8zpjeJk/Tz9Czqex1+3zNx4SPTXFdvJR9TnIMVymCRhShloBgPomdhE0YJP2TN1tnDRFjhhcJZdw3qiP52Co+nDsGMzPuh5kEQ63LFm2RmjErSbXtMclqFInHxD4dTFaws5Y56/MxmfOVKk6qWJJi0M7Hd/BcwJIblr71C35XXtA8GCl8meF8uLILycj97SdWK056n9bh7P0iN5cO5Lx1teObRaNEoFr8BiopxIfvPDYZ5CAOkWX72eWXFhzCGxSk8acFKh0ED2wvK0y+zovxykh7nyvwS0u222iGu38FkCZzLXWuUdZE6HuywAovqDo3Fs1rAHM5HCOFnIZ9OvpGdpFni01Y1t9jbGwBPUc1hv3IjvbRj4i+dN4WDNUD7dTomefB1Ky8XYLehai3M47fN/DRjmabxLk=
   lastname: Seals
+  port: 7755
 elidberb:
   firstname: Elijah
   github: elidberb
@@ -227,6 +231,7 @@ klee50:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICHOoZnRzq3r+UrPHzuuPF2RxFWzH916vqmbu2U3aIVd
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFM7HMjinnVta04b5dmrzFWYt/wLWzhKuU/csUM4Coi7
   lastname: Hughes
+  port: 7756
 kmaclin1:
   firstname: Kameron
   github: Kmac0103

@@ -88,6 +88,11 @@ elidberb:
   github: elidberb
   lastname: Berberette
   port: 7743
+gkirk:
+  firstname: Grayson
+  github: graysonakirk
+  lastname: Kirk
+  port: 7749
 jblanch8:
   firstname: Justin
   github: jblanch8
@@ -158,6 +163,11 @@ mdenise:
   github: marydenise
   lastname: Denise
   port: 7724
+mduraney:
+  firstname: Matthew
+  github: mduraney
+  lastname: Duraney
+  port: 7750
 npatel79:
   firstname: Neh
   github: napatel79
@@ -238,6 +248,11 @@ wparham1:
   github: wcparham1
   lastname: Parham
   port: 7734
+yahmad1:
+  firstname: Yamin
+  github: yahmad1-vols
+  lastname: Ahmad
+  port: 7751
 zmalkmus:
   firstname: Zack
   github: zmalkmus

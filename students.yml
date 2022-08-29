@@ -95,6 +95,11 @@ bklein3:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJuts8e0nKtZHNjM3YtnX9c07syHYYvFx+xteN6hUCIs
   lastname: Klein
   port: 7701
+cbeckfor:
+  github: charlotte-b8086
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHBOCH2ybO4/5ZuxSYR+IjbpBLI0vNVkkwQsJ/432Ooj
+  port: 7758
 cbrook53:
   firstname: Chandler
   github: CBrooks36
@@ -163,10 +168,18 @@ dseals3:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDXn/9eBP83JxDpHU3no2s7to9KbJ5QwFygDwZacv6D+DCVnpAJ7jKEjgIuJEC83vFtKeFiflNb2njUfwAcyQLgUIlr2yPgvI+8zpjeJk/Tz9Czqex1+3zNx4SPTXFdvJR9TnIMVymCRhShloBgPomdhE0YJP2TN1tnDRFjhhcJZdw3qiP52Co+nDsGMzPuh5kEQ63LFm2RmjErSbXtMclqFInHxD4dTFaws5Y56/MxmfOVKk6qWJJi0M7Hd/BcwJIblr71C35XXtA8GCl8meF8uLILycj97SdWK056n9bh7P0iN5cO5Lx1teObRaNEoFr8BiopxIfvPDYZ5CAOkWX72eWXFhzCGxSk8acFKh0ED2wvK0y+zovxykh7nyvwS0u222iGu38FkCZzLXWuUdZE6HuywAovqDo3Fs1rAHM5HCOFnIZ9OvpGdpFni01Y1t9jbGwBPUc1hv3IjvbRj4i+dN4WDNUD7dTomefB1Ky8XYLehai3M47fN/DRjmabxLk=
   lastname: Seals
   port: 7755
+dwill148:
+  firstname: Dakota
+  github: Dakobrah
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDKNhujnycEAodapRg+BPLXAr2ExfDklXTSgtg8HMwRG
+  lastname: Williams
+  port: 7759
 elidberb:
   firstname: Elijah
   github: elidberb
-  keys: []
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPhwYT2imy2mmMT4VXxH6x5iM67ELFSR62oBVmlXLJgK
   lastname: Berberette
   port: 7743
 gkirk:
@@ -301,6 +314,13 @@ npatel79:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDQtad1wlKKs9LXvUH1zD6KVIyJlunP6lucWtMRyVpMsS7NJF8hfWYmAD0HEW+v79o6NAQDjh73xEa49FHFakvRNdWt7ENbDR4FY3IYg28eCmYzDNyEKkIN5b/+fRkVssO+Vt5j3KJaMLOtgSFgIsVfofbk3xQhErLA0dntRQnTnMWpx2Cdy41WxNcjED1xn+07JuKjmvYlzW8wVvoR+V/JaXaLGMPRHDVLnhaFSKDc0O+7aTJ8/Tu4DgbOO2fKmyn2ZcONOdTpNAc7pK0pzQ0+I/HDXVBkRKy16vHEfyfzZVP9G+9SYyfipFK4dFTY2LVPH6kM9aZ26rS9lnZeL9rqDWnaR9aEdwbUPZt3jhp9vjtG9Sr+tZqrU9+yq8fOjXMfB+m49Ykm74MiXksMC8w3BmWn0ZiLs2sAKaQRkpfXmAXMEUn22Hh5Vxqh6NSHkUdUYSgWf1R1AZZgTcRPtvQLPc9rpBIgVxdiyUx3zUMhAiyrfnr0MyzAtSfMQqDJcBk=
   lastname: Patel
   port: 7725
+pattle:
+  firstname: Paul
+  github: pattle-vols
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILAxmoOv6Y4fvcj/k1P3YjUhkT+bvVbOAyyAIjDRa3UB
+  lastname: Attle
+  port: 7760
 pbowlin1:
   firstname: Parker
   github: parkerbowling
@@ -410,6 +430,14 @@ tkhan7:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPH8PDqW8hzfpN+uGDAc/nPnBVuk4pBuiYalGW13jt+H
   lastname: Khan
   port: 7748
+tneuefei:
+  firstname: Thomas
+  github: Thomas-Neuefeind
+  keys:
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCeoaFLuVaSnqBFd2MoLh1c5PdQ3mPezhmzTsvQDJouyPne0q2ThPNh8qky5oRyvo4yX5oJVa7US6HkuLpz5q/3hNfE8ZTp/oa5Lm2hSZpTy95zwr/bY+WJ+ykqITNGvf9Qxodd+g+SNEbAZOwbE/WNmJLhST7OvsobR6h1gizn+e3G75CmSBjWLW00dU34Sts741V9UZnCzymeSk+jFYpxIzMzXlFDQZNVdibUbWP6Ey//29BmyUsk3JZbUasMy7plMrOgyGlcpHrQiI+rUYFldgG+fl6RqtxFw4qrK3bZHuiIot6ENw9wOWgy5E0cnVxvB9qxat4EzaQ1pWTMOJ0AQrztNmAsDUOKmYEQbQIYGSGG8VMaBV8GCC0/mL5mN6DhY+FrUM29BfXk1CJrAeaTO3+e8wpQmFD3eethfDQHR6paxOgAKCUrR74a1i3IIos9R5qn/qDtFDSarieEl5jn5bakQPUGC0XmhHlqdX5D4WybvAyXqtOWYoyGPGD5X4LdgdGJ69AInipMttc4gujlQmrO9b3+sHRK0f1O4lKhTny7Wwo2WEY2gNvxUzxvm32ayD48WHhsD9QeYC2I96+lc9JbCQvFBV1apRNUw5QnaLiBUP01UfsekS0ZFIN3GGZj84E85yE+8/o5CQFyyBdnEvR2MIsW+orTF9/WH3Cbow==
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMpcKgju8LBAptpTsPQUMarLaSTiYgZK35PLDg+g//Pm
+  lastname: Neuefeind
+  port: 7761
 troger28:
   firstname: Taylor
   github: trogers19

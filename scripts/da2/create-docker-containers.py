@@ -51,3 +51,6 @@ with roboyml.open(studentfile) as students:
     if container.status != "running":
       print(f"### WARN: Container {container_name} is not running! It's currently {container.status}.")
 
+    student["container"]["name"] = container_name
+    student["container"]["status"] = container.status
+

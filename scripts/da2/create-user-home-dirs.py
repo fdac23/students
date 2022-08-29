@@ -36,6 +36,8 @@ with roboyml.open(studentfile, readonly=True) as students:
         shell=True
     )
 
+    student["homedir"] = da_home_dir
+
     ssh_authorized_keys = da_home_dir / ".ssh" / "authorized_keys"
     if not len(student["keys"]):
       print(f"### WARN: {netid} has no keys to add, skipping.")

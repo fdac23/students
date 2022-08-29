@@ -71,6 +71,9 @@ audris:
   lastname: Mockus
   port: 7700
 awalsh15:
+  container:
+    name: fdac22_awalsh15
+    status: running
   firstname: Anderson
   github: AndersonWalsh
   keys:
@@ -139,6 +142,9 @@ bklein3:
   lastname: Klein
   port: 7701
 bmclaug6:
+  container:
+    name: fdac22_bmclaug6
+    status: running
   firstname: Brady
   github: bradymclaugh
   keys:
@@ -167,6 +173,9 @@ cbrook53:
   lastname: Brooks
   port: 7754
 cbrow216:
+  container:
+    name: fdac22_cbrow216
+    status: running
   firstname: Cade
   github: cadebrown
   keys:
@@ -506,6 +515,9 @@ rlinder:
   lastname: Linder
   port: 7702
 rpatel77:
+  container:
+    name: fdac22_rpatel77
+    status: running
   firstname: Ria
   github: patelria007
   keys:
@@ -664,6 +676,9 @@ troger28:
   lastname: Rogers
   port: 7733
 vhazlewo:
+  container:
+    name: fdac22_vhazlewo
+    status: running
   firstname: Victor
   github: uxvictor
   keys:

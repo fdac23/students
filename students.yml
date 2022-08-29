@@ -70,6 +70,11 @@ audris:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDY/hVRSw8VlRzf9MYraLFiemPWLmpGJSwYXM3c6Y44cjo2+0jK59QbXGOM03kht1JPUOex26TFRwMItYf6Q3BCApbB7LVVfdl+c/9ounWS+z0StavqRFOhQWJIaGc4YC6YfIVZyzu84mv6ED9CW011dLiG0AnaM0Z0vgBKg0+Dg9IehXvWyQ8x3+SVT1NIl+2K40ME856/EL/SRVs9QGAa4uTuLa6hlp2DnNWYoMQ3YUYVBlzo/Qna3VU74+Y0DbNZZLH+5KmTOiov1/AD7K37i5BmIte/pnGxBfLSpa8Pu2kvIONepIIicu0HAuCR+tYUXYyUIqKxWPdQQixfjegD
   lastname: Mockus
   port: 7700
+awalsh15:
+  firstname: Anderson
+  github: AndersonWalsh
+  lastname: Walsh
+  port: 7762
 awelden2:
   container:
     name: fdac22_awelden2
@@ -131,6 +136,11 @@ bklein3:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJuts8e0nKtZHNjM3YtnX9c07syHYYvFx+xteN6hUCIs
   lastname: Klein
   port: 7701
+bmclaug6:
+  firstname: Brady
+  github: bradymclaugh
+  lastname: McLaughlin
+  port: 7763
 cbeckfor:
   container:
     name: fdac22_cbeckfor
@@ -151,6 +161,11 @@ cbrook53:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICy+61/n4aWQ7Csn9torx+MpMnDNByUPaoi72hYMDdDM
   lastname: Brooks
   port: 7754
+cbrow216:
+  firstname: Cade
+  github: cadebrown
+  lastname: Brown
+  port: 7764
 chagens:
   container:
     name: fdac22_chagens
@@ -474,6 +489,11 @@ rlinder:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIWFSK08OimMcekjI++StluyBYFNyFUqjqplTwm8XV5v
   lastname: Linder
   port: 7702
+rpatel77:
+  firstname: Ria
+  github: patelria007
+  lastname: Patel
+  port: 7765
 rschenck:
   container:
     name: fdac22_rschenck
@@ -624,6 +644,11 @@ troger28:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHJY6rZAXK11bu+LHsUOo8q7PD+tOJ3uxPhNBdi6S181
   lastname: Rogers
   port: 7733
+vhazlewo:
+  firstname: Victor
+  github: uxvictor
+  lastname: Hazlewood
+  port: 7766
 wparham1:
   container:
     name: fdac22_wparham1

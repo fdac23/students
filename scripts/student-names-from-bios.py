@@ -6,7 +6,7 @@ from pathlib import Path
 import roboyml
 from settings import *
 
-find_name_re = r"^(Hi!?,? |Hello[, ]?(there)?,? ?)?(I'm |I am |[Mm]y name is )(?P<firstname>\w+)\W(?P<lastname>\w+)"
+find_name_re = r"^((Hi|Hey)!?,? |Hello[, ]?(there)?,? ?)?(I'm |I am |[Mm]y name is )(?P<firstname>\w+)\W(?P<lastname>\w+)"
 
 with roboyml.open(studentfile) as students:
   for netid, student in students.items():

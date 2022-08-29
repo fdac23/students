@@ -96,9 +96,11 @@ bklein3:
   lastname: Klein
   port: 7701
 cbeckfor:
+  firstname: Charlotte
   github: charlotte-b8086
   keys:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHBOCH2ybO4/5ZuxSYR+IjbpBLI0vNVkkwQsJ/432Ooj
+  lastname: Beckford
   port: 7758
 cbrook53:
   firstname: Chandler

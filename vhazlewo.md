@@ -1,4 +1,4 @@
-Victor Hazlewood
+I am Victor Hazlewood
 
 Victor Hazlewood is the Director of High Performance & Scientific Computing at UTK and I am also a Certified Security Professional with a CISSP.  I have worked in a varity of areas of information technology and high performance computing systems at Texas A&M, University of California San Diego, Oak Ridge National Laboratory and now at University of Tennessee, Knoxville.     I am working on my Masters and trying to get obtain a breadth of understanding in security, data analytics, and areas of growth in UTK research computing which includes ML/AI and bioinformatics.  
 

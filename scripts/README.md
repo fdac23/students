@@ -8,6 +8,7 @@ python scripts/make-ports-md.py > Ports.md
 python scripts/get-ssh-keys.py
 # on da2: (remember to commit/push/pull this repo with new changes)
 sudo python3 scripts/da2/create-user-home-dirs.py
+python3 scripts/da2/create-docker-containers.py
 ```
 
 # Ordering for populating students.yml
@@ -42,5 +43,11 @@ Create user dirs and import ssh keys from the yml:
 # REQUIRES ROOT, ONLY RUN ON DA2:
 # Ensure you are in the repository directory!
 sudo python3 scripts/da2/create-user-home-dirs.py
+```
+
+Starting the docker containers should NOT be run with root privs:
+
+```bash
+python3 scripts/da2/create-docker-containers.py
 ```
 

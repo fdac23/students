@@ -285,6 +285,13 @@ dwill148:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDKNhujnycEAodapRg+BPLXAr2ExfDklXTSgtg8HMwRG
   lastname: Williams
   port: 7759
+echavez2:
+  firstname: Emanuel
+  github: beanh0le
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIJrMoR/K4RybDzuvmTe6BSdqFVXmXPNiv087JfPIuuF
+  lastname: Chavez
+  port: 7767
 elidberb:
   container:
     name: fdac22_elidberb
@@ -481,6 +488,13 @@ npatel79:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDQtad1wlKKs9LXvUH1zD6KVIyJlunP6lucWtMRyVpMsS7NJF8hfWYmAD0HEW+v79o6NAQDjh73xEa49FHFakvRNdWt7ENbDR4FY3IYg28eCmYzDNyEKkIN5b/+fRkVssO+Vt5j3KJaMLOtgSFgIsVfofbk3xQhErLA0dntRQnTnMWpx2Cdy41WxNcjED1xn+07JuKjmvYlzW8wVvoR+V/JaXaLGMPRHDVLnhaFSKDc0O+7aTJ8/Tu4DgbOO2fKmyn2ZcONOdTpNAc7pK0pzQ0+I/HDXVBkRKy16vHEfyfzZVP9G+9SYyfipFK4dFTY2LVPH6kM9aZ26rS9lnZeL9rqDWnaR9aEdwbUPZt3jhp9vjtG9Sr+tZqrU9+yq8fOjXMfB+m49Ykm74MiXksMC8w3BmWn0ZiLs2sAKaQRkpfXmAXMEUn22Hh5Vxqh6NSHkUdUYSgWf1R1AZZgTcRPtvQLPc9rpBIgVxdiyUx3zUMhAiyrfnr0MyzAtSfMQqDJcBk=
   lastname: Patel
   port: 7725
+ntayefeh:
+  firstname: Nima
+  github: NimsTay
+  keys:
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC83Pif70lP6mdFysqwH15tZTf5vpL5gRg8KYsDs2vllBipo6wn9T4SZp5ktO3lSXQclCQ2pCX219oPOXDG9d7RVse93VccZxVpjBGVkjChPC5+KLBoNzehourCFOVGI/z335htiVacQTPIfDzNtFL16YGv6Sn020VM/wAkgIVLdDXIE8615lCDYPCbCSzsctQysgmqgi0HFCEbWdXDvv715miAmSK3v7U1MmIhk+9+xV1/bNnPYAfDQlt93kVt4PiWj0cxld45zKSEEekzmAGOWkrwc95NP83GXS9jNlx5p/g/Qkag072IU1DVJzpiwJ5EOwLjnlvgl2nD7YHZzGcvFMx16n9UZIpqNJOJWkhrLr03jxmGwZ3RCVV5dSBT4gYl0X8xzxoq97+cMF9g5HOtJ5NNvVgdQxDuJfoWo4OsrzJcUs4wHYw2DMOyedxZbw8ZOXbzGpzw75LkmSPzdZM9xP/WBDa8JOMyy8MAzVfbQIz/ALcCxpfxOLyhoZ7j8SuPehnqCIp8qn7fbNTac327ZU7/KoN0ZbXFtWttAQETozXWUbBlbGe93/Of3ncXYdCQVULHE8zD6lu2P90zzy6cnAMP8tMX4JeI/zSvW9eOCIH6nNqsVNIZxnwuq4W4P3o5xId06oo1+fjb8ZaiUs+ksu9DvsGz2fou0HzyED3p1w==
+  lastname: Tayefeh
+  port: 7768
 pattle:
   container:
     name: fdac22_pattle

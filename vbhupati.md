@@ -1,1 +1,1 @@
-
+Hello, my name is Varun Bhupatiraju. I'm currently in my senior year of my computer Science Degree. I've had to spend a lot of time cleaning up bad sensor data, so I hope I can learn a few techniques to deal with that I've also spent a good amount of time working with sql databases and have a big one I am currently working on some automation for. In my free time I enjoy developing modifcations for video games.

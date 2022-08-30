@@ -1,0 +1,1 @@
+I am Buddy Swan and I am a masters student doing research in Mechanical Engineering. I am also pursuing a computer science degree and am a senior. For my research I work with machining using industrial robots and would like to use knowledge from this class to improve my data processing skills. Outside of school I am interested in sports, video games, and politics.

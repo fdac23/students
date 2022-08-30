@@ -1,0 +1,2 @@
+
+Hello, my name is Taegun Harshbarger, and I am a senior in Computer Science. Over the summer, I did an internship with Amazon. I am currently an RA at the Voliday Inn on Papermill. It is very strange but also very nice. I really enjoy politics and music. Through this class, I want to learn git better and learn how to manipulate data.

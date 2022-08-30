@@ -279,6 +279,7 @@ cearhear:
   firstname: Carter
   github: cearhear
   lastname: Earheart-Brown
+  port: 7800
 chagens:
   container:
     name: fdac22_chagens
@@ -316,6 +317,7 @@ csmit402:
   firstname: Colby
   github: kerble
   lastname: Smith
+  port: 7801
 cwang93:
   container:
     name: fdac22_cwang93
@@ -484,6 +486,7 @@ jallbrit:
   firstname: John
   github: jallbrit
   lastname: Allbritten
+  port: 7802
 jamin:
   container:
     name: fdac22_jamin
@@ -1084,3 +1087,4 @@ zwilli13:
   firstname: Zach
   github: ZPWilliams
   lastname: Williams
+  port: 7803

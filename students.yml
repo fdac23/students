@@ -40,6 +40,7 @@ abrock14:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIITEuzZCP74+bNzjKgXP2SPMYLL9kiHaUNC6VHlbm+MY
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCum+oXQz4Va5CLarcL4Ysw7dEYr9pXkKGxzhZgV6YYJpOsC5j34luBC0qSOX0+p8uioaaZT3PpeIOUo7obUxFPuPrgFyPX7zBKg0pL/vxLN3DGiIS7gAcwXYMFysfsb/mW5kyNrVo60hZU+yX2TqOAo1GModp0g/p2/Xv2EF70/j4kOg08wJcRSunst7vEPr7Kc2JcDMV7fzUcH4f+cTHJQPx0SfHdhnMZ2iVJJG9pwByGitxSI57GPobkiTaMgCGHW0DAI3qttX5en84l3YMI9pF5Sk4MwDjhV8Rb7vLprWS686EEfAhQ5QdTxn52+F0qkVrGJ6k3HS4wCQV/EZ7L3SOEWUoynH/eVbYLKeKSo6sMB37fKe8ApfFc1jdtdl7XfhJ5cj7Ip8hqw++m/OdiVtg6F8uHejGnFA6FBs3YjDlqWIG3cxwLIot7U8RsHQgeKjnCXPJaYkcFd106iV6tSCxBkZF7Wklmn4WhC9M+y/cCO+0auyllus4Er13E5hM=
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDNBX8w+kQx2u9OfrLQOaUthUTOFS+wFnNwfgD+avdQ3vxzwh14+a2vi9LT8HWuawJHORiFDZK0ruUEr5uSrRhI/W5EG8OCl3I+9OXzlML3czs5TZJKnKi9URdJNt/ruKwdgG2kUykQSa3NIVB6iPpgW+E0Zm/sNpPRZJMx1uDYdrH4GlquwegilrItZ6IjbVWAOHcYq15ETZVOKwCoLn4pGT8+x4i6S5lbsJ/1K94824AmInluY/4Y2IZ5+RHQ3yipMVbLvtk/xXgwDyZRYRD1VQ7X30dicsNQF/3uAXzYWrL1dtI0xkNFimXPXUjXKtQulC2Vziy+IgIm7W14s3DG/mL/ey7wBLx58oLJdeKXkoKKat/Pr3VnjuT8YZjt25xBkG2AQqux/4g9OLiTTkJXxpS3bN24J7lTsjhxdrMIt4r34TK3Wd1Xo6r8Jw2kVJUEIrrZqMEJUP3uPb+PkGAThNqb+uZUGgA+3Nb0201qsBmdxvpSavGHNYuYCqz01D66pYWrlYSeiSAiqcy/UXmax5FpzomzfSNjFzeM4mkWvYufpG/vzBexogkIFfhIi8Qks1eDV8qtKjM3TYFZ138qrxbHhDDbh81jDgExbn5PIbyqbfHQ2VPZUOkaKh3C5EqiXE5QayRIfzjtAWVTq8EToYoKnPFYY0kVh624twMk0w==
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCpqH7loAT44XV5btMzZTfReProm5v7KAld8DN6T/BeP+gcmC18QuEM350juUe2P1G6uytoecP7eAGic5VXhN5fn/lf8w6mn+x+QNhbH+JwdfRLwJzH05zCf9/oWK3GEXG/ua9S/CzF9dXwzXbbChya7GWaLs7+i6EjqCFp3TIPuxga55jFQ0A44/hZOvqAzOaQW1f35MSTYlLDYqZJqmXlQuCJZIPkwnFYC5so4Uhazvw6+DZt6vSKJxewn1mcTER12k/T4kSyo6bRO+vilIklyGxnGo1lWiPzRiB6w8QCG90/TRJsZ4vf4CB7iitSul+u8szWY9rsM0Ybr8ImZeK/IBGlDFNVNU2+9PwEi1qRVW/SaZECu0L0kC/MnR9WMo/rYO+xHROgB7JrOflLeOSZxzJJGKQ5Vz8gWhTg+45/8c2bT1364VXjelrfDoDwQ8JOJeByHfwkXxN/Xa4v/AUStlldeHKbJkmt+Q5zxdBjsHoW+iZfcsJv8vmuNQK64b8=
   lastname: Brock
   port: 7705
 acook46:
@@ -278,6 +279,9 @@ cbrow216:
 cearhear:
   firstname: Carter
   github: cearhear
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMUnTJf19HbB8AnAdRNsEIvmZ8H2SxcbvalsB2MmLNy9
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINmVdmpzYamWL5Zpe1I2YvDokqiJDb/QD/dV9dXOH2KN
   lastname: Earheart-Brown
   port: 7800
 chagens:
@@ -316,6 +320,7 @@ clee95:
 csmit402:
   firstname: Colby
   github: kerble
+  keys: []
   lastname: Smith
   port: 7801
 cwang93:
@@ -485,6 +490,9 @@ imulet:
 jallbrit:
   firstname: John
   github: jallbrit
+  keys:
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDriAksfOorxz1PaQ322dC0Xbbr6Yyj3wqpnZG6cpsAroufBBNJ+38ba+WLiozOffRimD20z2KcZGlpkOfcOoz4ROzSLbQ7aBZ93PAxeyqmFgCqfhlCGr9A1RM0oxDf+Ho/kKLHgMchJ2E8nxs7w3zf8MrVucG+UmhaR0T17VcAzXxululQlX/LodBnlSlrt1Q9KnC7I+YhZI4OXOv1Z5yctjCqjkxS3XDbHi+F9alqC2ks7GWI6zFPzKzKOt1yrbQIfzmvYqOSW5WfWsyLeArvgBO03hpLOpWfC0SVFCRRclmYV/vHv0KdMnv+1OqZytRNWMrqlpu64T3+qmQieNr5
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDXZQW2rMS0IZRI2RESdGrd7ENmZOsrEbjF4Eu90IPZ32+wqST7DTKyFit6tkf3/H7jai3BaLT4O7OIEEIS7kWOBk2pxkgzDVn9WBe2OTZ4W7Dj5wGZUGghhJU52MNp/P2q0C9nPesyUrC/Oe1en/Li5EZwwW8EnuRyeF0RmT8CDHuAS2R0tmwLCjwURF/9nz3Evgc5zm9GlAvk1toa0gdCa7z9a+utdvysImb4YdpMsfi+SnM9NnJPHVtFm1DPUHwuW3meuePlh1T27XXx0JbUFoVQ6DVGPhtGgl91Vp4qjpRLuFoUW8w9j4eKRqPyGxuvrkYZ0aCtliULuqV/WL7puAJwB14J3w6DMTXyL4pGiVXEePtuTqXINjzon3FTSXQ3MAp3KKWcYiFWzb0YanvysRWjw88mO4tbteOztL53KIHKtY/0NJL7WnisJse3ZLCf2WmovVa5p+2duP3WxlOoYW/kak8Cb7g9IMGurw+oNueddLcmS4kwHEq6Bv3FOUM=
   lastname: Allbritten
   port: 7802
 jamin:
@@ -858,7 +866,8 @@ shoque:
     status: running
   firstname: Shahinul
   github: OnyHoque
-  keys: []
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID0xzhJht6wKupd/SE9tnA21J51unw9v0qkNzUNdwjh9
   lastname: Hoque
   port: 7777
 sjohn248:
@@ -1017,7 +1026,8 @@ whannon1:
     status: running
   firstname: William
   github: rathD25
-  keys: []
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBjJcabnz9eDlur1exr0fL2lb6+a9RO5XpFpKpBALYDB
   lastname: Hannon
   port: 7797
 wparham1:
@@ -1086,5 +1096,6 @@ zmalkmus:
 zwilli13:
   firstname: Zach
   github: ZPWilliams
+  keys: []
   lastname: Williams
   port: 7803

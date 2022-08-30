@@ -275,6 +275,10 @@ cbrow216:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC27+6DQiWGDk5lPHipvppzRBlstjHT93SUfyaUKFrIxHbspVCacc0unjYqi3I22kQh6vNfgrWSbSwJIa3jEC3kLo9rPPIMe84UzBJMppATx4bt08YeTmp+7DCLtD5j4NGFGMYOXOumVQhxrRWQy3tSOXh56U7Oxf4yTFBBUyCgZiB9NPW+9a6E5KMdfZNdL69oGsxUSytou4I5Yl483b56hN6MU4mEcLblO4GNdMwpnzILlsINmESjSEgRsEVrhtosTYbeGQCTwHtfZcMR2tjCoeaxBNOFDiRwuUbjeBvM9ewvA57pO8andQiHFAgv7qnWMynCki75lh/lXx1hOBCiNM61BDvG58V4fwWz34yvZITCx4wqR62QkdIHYBIKxRMZA1A2tftQl3k+2YngfSOHrCCpvEBMwWgeANCQ7796S9dAX1Ji6w61P+nmKYHSVkDnc572svqs+q79AbiOkLBCJSqrWkZh0g2WhXkZhW3AHUBmsx6iUVxFwYdkBq8ARFc=
   lastname: Brown
   port: 7764
+cearhear:
+  firstname: Carter
+  github: cearhear
+  lastname: Earheart-Brown
 chagens:
   container:
     name: fdac22_chagens
@@ -308,6 +312,10 @@ clee95:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOrNj37Ax/0zEfItDq2I/E59baemIBnCJKNdnop/wAzd
   lastname: Lee
   port: 7709
+csmit402:
+  firstname: Colby
+  github: kerble
+  lastname: Smith
 cwang93:
   container:
     name: fdac22_cwang93
@@ -472,6 +480,10 @@ imulet:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC60nxKFhew+hFw5GXZLAH1exmsYmaeMh/IGOqvbTTdsRFQRwpUshrVyN3jGmKDJzWfY+Ub8A3ZaZc7qoosfF7HF1YP+kDKQu2DntdSzXvTSxlSGmpOMaHrMFL/jQh9UptvMwlVtgBfztauNwAvb4Z2JgyDs12/INU5UkVk0TE3uHLh9qalLg+WI0QsVgzgwclQWFzISVWLWfP0Ie6tsXxVt+BELF8RToj1DaaYZaVQpSO67WSEsG1TDL0AL54lhuhUcS3UBqyHeA156rGKTagBg/ocSxUIy7vrkldcTwSRMT7/JSm4ngLlBXHiyYmSwgFKx3c2btzF2Q89rg834h5ukV9FVIS5Nf+ewBuvoCT+Df7LXh2nYepsK1x9Mfe/uA2tMsfJTdUl0p+z6kwHH4sokEk4YLqpiztkB6mEYHXlRW+zeUKLtc35YZ+xG4AaWzH2QG7dh4VTgn0Qe39nPXOh4/ptSL2J/SgmoI9DIXQNutsgSkgEdZthngULxesVQfc=
   lastname: Mulet
   port: 7788
+jallbrit:
+  firstname: John
+  github: jallbrit
+  lastname: Allbritten
 jamin:
   container:
     name: fdac22_jamin
@@ -1068,3 +1080,7 @@ zmalkmus:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG/QbuVgYYjIAn8uE8ZHUMuY1Bav8CenqVoPjMwGCLqN
   lastname: Malkmus
   port: 7735
+zwilli13:
+  firstname: Zach
+  github: ZPWilliams
+  lastname: Williams

@@ -305,6 +305,13 @@ elidberb:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPhwYT2imy2mmMT4VXxH6x5iM67ELFSR62oBVmlXLJgK
   lastname: Berberette
   port: 7743
+friya:
+  firstname: Farhin Farhad
+  github: friya15
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBDJqV6reLy314HcvCB1TJc/+aF7o1k8t4sGPkdcPrdA
+  lastname: Riya
+  port: 7769
 gkirk:
   container:
     name: fdac22_gkirk
@@ -365,6 +372,7 @@ jrodeghi:
   github: JRodeghi
   keys:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFpn3tPjgr4kCaJIiZYzkTRFMvMyu7Jtey2tUWFxrAWn
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDDmc2TuZ3QjmITzeKSRTd/2+glp9mkq0/uvpc5WmZ4Q1lBzr/333NaFhM784gl2U+jzaOgPDmjOgZnhhCPtQ6jLNyLoHIJCzq/9NnaU2thEKugTOGQeDcxzXOuQdWvPnwAXE0M200breoUjYMJax27sD51ufwmDOjjeQNcZou3jyf5xN6xl6x8CDe2jZ+ZtUSa0yHlyLsb3NxQMYqRW2QnD2fee2cZg0nxU1BLi3EjogR44jWGIyFx7k+7hrvz079iJDduCxg7o3SwoZlwdpnqivJsZzTppOAksLuFUmk2EE7DYvnhnSzV0rqXYtQPpHVN/buICj0pgeCI9o5A6nMB
   lastname: Rodeghiero
   port: 7716
 jsadik:

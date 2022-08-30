@@ -1,0 +1,1 @@
+Hi, I am Brandan Roachell. I'm a 4th year computer science student minoring in math interested in systems programming, robotics and computer vision, and data science and analytics. I hope to learn some interesting techniques for handling datasets and scraping the web for such datasets.

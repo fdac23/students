@@ -54,6 +54,7 @@ aenzor:
   firstname: Alexander
   github: aenzor
   lastname: Enzor
+  port: 7783
 aesser:
   firstname: Alex
   github: aeasy370
@@ -85,6 +86,7 @@ aphan2:
   firstname: An
   github: anphan7
   lastname: Phan
+  port: 7784
 audris:
   container:
     name: fdac22_audris
@@ -130,6 +132,7 @@ bbutle11:
   firstname: Braden
   github: BradenButler
   lastname: Butler
+  port: 7785
 beken:
   container:
     name: fdac22_beken
@@ -196,6 +199,7 @@ broachel:
   firstname: Brandan
   github: s4mpl
   lastname: Roachell
+  port: 7786
 bschwar7:
   container:
     name: fdac22_bschwar7
@@ -404,6 +408,7 @@ hfarahat:
   firstname: Hadeer
   github: hadeer-30
   lastname: Farahat
+  port: 7787
 hhaynie:
   container:
     name: fdac22_hhaynie
@@ -418,10 +423,12 @@ imulet:
   firstname: Ian
   github: imml3457
   lastname: Mulet
+  port: 7788
 jamin:
   firstname: Jay
   github: Jamin11
   lastname: Amin
+  port: 7789
 jblanch8:
   container:
     name: fdac22_jblanch8
@@ -498,6 +505,7 @@ jsun36:
   firstname: Jiawei
   github: leoked
   lastname: Wu
+  port: 7790
 klee50:
   container:
     name: fdac22_klee50
@@ -524,6 +532,7 @@ kyumhan:
   firstname: Kyung Min
   github: kyumhan
   lastname: Han
+  port: 7791
 ljakstas:
   container:
     name: fdac22_ljakstas
@@ -599,6 +608,7 @@ nmize1:
   firstname: Nick
   github: nmize1
   lastname: Mize
+  port: 7792
 npatel79:
   container:
     name: fdac22_npatel79
@@ -625,6 +635,7 @@ oameli:
   firstname: Shelah
   github: ShelahAmeli
   lastname: Ameli
+  port: 7793
 pattle:
   container:
     name: fdac22_pattle
@@ -724,6 +735,7 @@ rswan:
   firstname: Buddy
   github: BuddySwan
   lastname: Swan
+  port: 7794
 rwill166:
   container:
     name: fdac22_rwill166
@@ -879,10 +891,12 @@ vbhupati:
   firstname: Varun
   github: vvbhupatijraju
   lastname: Bhupatiraju
+  port: 7795
 vhanset:
   firstname: Victor
   github: vhanset
   lastname: Hanset
+  port: 7796
 vhazlewo:
   container:
     name: fdac22_vhazlewo
@@ -897,6 +911,7 @@ whannon1:
   firstname: William
   github: rathD25
   lastname: Hannon
+  port: 7797
 wparham1:
   container:
     name: fdac22_wparham1
@@ -923,10 +938,12 @@ zhamm:
   firstname: Zachary
   github: zhammgit
   lastname: Hamm
+  port: 7798
 zhayes2:
   firstname: Zackery
   github: zhayes00
   lastname: Hayes
+  port: 7799
 zlim2:
   container:
     name: fdac22_zlim2

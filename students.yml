@@ -286,6 +286,9 @@ dwill148:
   lastname: Williams
   port: 7759
 echavez2:
+  container:
+    name: fdac22_echavez2
+    status: created
   firstname: Emanuel
   github: beanh0le
   keys:
@@ -489,6 +492,9 @@ npatel79:
   lastname: Patel
   port: 7725
 ntayefeh:
+  container:
+    name: fdac22_ntayefeh
+    status: created
   firstname: Nima
   github: NimsTay
   keys:

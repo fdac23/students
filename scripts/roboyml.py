@@ -15,11 +15,12 @@ def save(file: Path, data):
         yaml.dump(data, f)
 
 @contextmanager
-def open(file: Path):
+def open(file: Path, readonly = False):
     try:
-        if not file.exists():
+        if not file.exists() and not readonly:
             file.touch()
         data = load(file)
         yield data
     finally:
-        save(file, data)
+        if not readonly:
+            save(file, data)

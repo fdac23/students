@@ -3,11 +3,6 @@ from pathlib import Path
 from datetime import timedelta, datetime
 import pytz
 
-from dotenv import load_dotenv
-from dateutil.parser import parse as dt_parse
-
-load_dotenv()
-
 teamfile = Path("teams.yml")
 studentfile = Path("students.yml")
 repofile = Path("repos.yml")

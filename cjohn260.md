@@ -1,0 +1,1 @@
+I am Cole Johnston and I am a senior studying computer science. I recently interned at Amazon and worked on a new Alexa project. I have a an interest in Artificial Intelligence and Machine Learning, which is why I took this course. I enjoy sports and stocks and hope to incorporate one of those things into a project for this class.

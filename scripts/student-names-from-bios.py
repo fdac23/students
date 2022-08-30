@@ -6,7 +6,7 @@ from pathlib import Path
 import roboyml
 from settings import *
 
-find_name_re = r"^(I am |(Hi,? |Hello,? )?[Mm]y name is )(?P<firstname>\w+)\W(?P<lastname>\w+)"
+find_name_re = r"^((Hi|Hey)!?,? |Hello[\., ]?(there)?,? ?)?(I'm |I am |[Mm]y name is )(?P<firstname>(([A-Z]\w+)[ ]?)+?)\W(?P<lastname>[A-Z]\w+)"
 
 with roboyml.open(studentfile) as students:
   for netid, student in students.items():
@@ -16,7 +16,7 @@ with roboyml.open(studentfile) as students:
       continue
     with bio.open('r') as f:
       bio_text = f.read()
-    r_m = re.search(find_name_re, bio_text)
+    r_m = re.search(find_name_re, bio_text, flags=re.MULTILINE)
     if r_m is None:
         print(f"### ERROR: {netid}.md did not match")
         continue

@@ -277,6 +277,9 @@ cbrow216:
   lastname: Brown
   port: 7764
 cearhear:
+  container:
+    name: fdac22_cearhear
+    status: running
   firstname: Carter
   github: cearhear
   keys:
@@ -318,6 +321,9 @@ clee95:
   lastname: Lee
   port: 7709
 csmit402:
+  container:
+    name: fdac22_csmit402
+    status: running
   firstname: Colby
   github: kerble
   keys: []
@@ -488,6 +494,9 @@ imulet:
   lastname: Mulet
   port: 7788
 jallbrit:
+  container:
+    name: fdac22_jallbrit
+    status: running
   firstname: John
   github: jallbrit
   keys:
@@ -1094,6 +1103,9 @@ zmalkmus:
   lastname: Malkmus
   port: 7735
 zwilli13:
+  container:
+    name: fdac22_zwilli13
+    status: running
   firstname: Zach
   github: ZPWilliams
   keys: []

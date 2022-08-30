@@ -1,0 +1,1 @@
+My name is Jiawei Wu. I'm a senior and double major in computer programming and math. I like Machine learning and game programming. Outside of class, I like to play video game, so in this class, I hope to intergrate game and data collection together to analyze/visualize game data.

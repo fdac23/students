@@ -52,6 +52,9 @@ acook46:
   lastname: Cook
   port: 7706
 aenzor:
+  container:
+    name: fdac22_aenzor
+    status: running
   firstname: Alexander
   github: aenzor
   keys:
@@ -60,6 +63,9 @@ aenzor:
   lastname: Enzor
   port: 7783
 aesser:
+  container:
+    name: fdac22_aesser
+    status: running
   firstname: Alex
   github: aeasy370
   keys:
@@ -87,6 +93,9 @@ amcdan23:
   lastname: McDaniel
   port: 7752
 aphan2:
+  container:
+    name: fdac22_aphan2
+    status: running
   firstname: An
   github: anphan7
   keys:
@@ -137,6 +146,9 @@ batkhamj:
   lastname: Atkhamjonov
   port: 7753
 bbutle11:
+  container:
+    name: fdac22_bbutle11
+    status: running
   firstname: Braden
   github: BradenButler
   keys: []
@@ -205,6 +217,9 @@ bmclaug6:
   lastname: McLaughlin
   port: 7763
 broachel:
+  container:
+    name: fdac22_broachel
+    status: running
   firstname: Brandan
   github: s4mpl
   keys:
@@ -367,6 +382,9 @@ dwill148:
   lastname: Williams
   port: 7759
 eander68:
+  container:
+    name: fdac22_eander68
+    status: running
   firstname: Evan
   github: e-vananderson
   keys:
@@ -416,6 +434,9 @@ gkirk:
   lastname: Kirk
   port: 7749
 hfarahat:
+  container:
+    name: fdac22_hfarahat
+    status: running
   firstname: Hadeer
   github: hadeer-30
   keys:
@@ -434,6 +455,9 @@ hhaynie:
   lastname: Haynie
   port: 7774
 imulet:
+  container:
+    name: fdac22_imulet
+    status: running
   firstname: Ian
   github: imml3457
   keys:
@@ -449,6 +473,9 @@ imulet:
   lastname: Mulet
   port: 7788
 jamin:
+  container:
+    name: fdac22_jamin
+    status: running
   firstname: Jay
   github: Jamin11
   keys:
@@ -528,6 +555,9 @@ jstaman:
   lastname: Staman
   port: 7718
 jsun36:
+  container:
+    name: fdac22_jsun36
+    status: running
   firstname: Jiawei
   github: leoked
   keys: []
@@ -556,6 +586,9 @@ kmaclin1:
   lastname: Maclin
   port: 7719
 kyumhan:
+  container:
+    name: fdac22_kyumhan
+    status: running
   firstname: Kyung Min
   github: kyumhan
   keys:
@@ -636,6 +669,9 @@ mduraney:
   lastname: Duraney
   port: 7750
 nmize1:
+  container:
+    name: fdac22_nmize1
+    status: running
   firstname: Nick
   github: nmize1
   keys:
@@ -665,6 +701,9 @@ ntayefeh:
   lastname: Tayefeh
   port: 7768
 oameli:
+  container:
+    name: fdac22_oameli
+    status: running
   firstname: Shelah
   github: ShelahAmeli
   keys: []
@@ -767,6 +806,9 @@ rsexton8:
   lastname: Sexton
   port: 7728
 rswan:
+  container:
+    name: fdac22_rswan
+    status: running
   firstname: Buddy
   github: BuddySwan
   keys: []
@@ -925,12 +967,18 @@ troger28:
   lastname: Rogers
   port: 7733
 vbhupati:
+  container:
+    name: fdac22_vbhupati
+    status: running
   firstname: Varun
   github: vvbhupatijraju
   keys: []
   lastname: Bhupatiraju
   port: 7795
 vhanset:
+  container:
+    name: fdac22_vhanset
+    status: running
   firstname: Victor
   github: vhanset
   keys:
@@ -949,6 +997,9 @@ vhazlewo:
   lastname: Hazlewood
   port: 7766
 whannon1:
+  container:
+    name: fdac22_whannon1
+    status: running
   firstname: William
   github: rathD25
   keys: []
@@ -977,6 +1028,9 @@ yahmad1:
   lastname: Ahmad
   port: 7751
 zhamm:
+  container:
+    name: fdac22_zhamm
+    status: running
   firstname: Zachary
   github: zhammgit
   keys:
@@ -984,6 +1038,9 @@ zhamm:
   lastname: Hamm
   port: 7798
 zhayes2:
+  container:
+    name: fdac22_zhayes2
+    status: running
   firstname: Zackery
   github: zhayes00
   keys:

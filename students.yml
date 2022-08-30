@@ -1,4 +1,7 @@
 aartates:
+  container:
+    name: fdac22_aartates
+    status: running
   firstname: Andrew
   github: Polsyn
   keys: []
@@ -118,6 +121,9 @@ beken:
   lastname: Eken
   port: 7737
 bgullet1:
+  container:
+    name: fdac22_bgullet1
+    status: running
   firstname: Bryson
   github: BGull00
   keys:
@@ -167,6 +173,9 @@ bmclaug6:
   lastname: McLaughlin
   port: 7763
 bschwar7:
+  container:
+    name: fdac22_bschwar7
+    status: running
   firstname: Benjamin
   github: Benjamin-Schwartz
   keys:
@@ -298,6 +307,9 @@ dseals3:
   lastname: Seals
   port: 7755
 dwhite75:
+  container:
+    name: fdac22_dwhite75
+    status: running
   firstname: Darius
   github: dwhite75
   keys:
@@ -318,7 +330,7 @@ dwill148:
 echavez2:
   container:
     name: fdac22_echavez2
-    status: created
+    status: running
   firstname: Emanuel
   github: beanh0le
   keys:
@@ -336,6 +348,9 @@ elidberb:
   lastname: Berberette
   port: 7743
 friya:
+  container:
+    name: fdac22_friya
+    status: running
   firstname: Farhin Farhad
   github: friya15
   keys:
@@ -353,6 +368,9 @@ gkirk:
   lastname: Kirk
   port: 7749
 hhaynie:
+  container:
+    name: fdac22_hhaynie
+    status: running
   firstname: Heather
   github: hackmasterheather
   keys:
@@ -539,7 +557,7 @@ npatel79:
 ntayefeh:
   container:
     name: fdac22_ntayefeh
-    status: created
+    status: running
   firstname: Nima
   github: NimsTay
   keys:
@@ -567,6 +585,9 @@ pbowlin1:
   lastname: Bowling
   port: 7726
 relgedaw:
+  container:
+    name: fdac22_relgedaw
+    status: running
   firstname: Ran
   github: RanElgedawy
   keys:
@@ -586,6 +607,9 @@ rlinder:
   lastname: Linder
   port: 7702
 robdgrif:
+  container:
+    name: fdac22_robdgrif
+    status: running
   firstname: Robert
   github: robdgrif
   keys:
@@ -659,6 +683,9 @@ sblank11:
   lastname: Blankenship
   port: 7746
 shoque:
+  container:
+    name: fdac22_shoque
+    status: running
   firstname: Shahinul
   github: OnyHoque
   keys: []
@@ -730,6 +757,9 @@ tcultice:
   lastname: Cultice
   port: 7732
 tharshba:
+  container:
+    name: fdac22_tharshba
+    status: running
   firstname: Taegun
   github: tharshba
   keys:
@@ -761,6 +791,9 @@ tneuefei:
   lastname: Neuefeind
   port: 7761
 tnitzsch:
+  container:
+    name: fdac22_tnitzsch
+    status: running
   firstname: Tyler
   github: PotassiumLover
   keys:
@@ -810,6 +843,9 @@ yahmad1:
   lastname: Ahmad
   port: 7751
 zlim2:
+  container:
+    name: fdac22_zlim2
+    status: running
   firstname: Zi Win
   github: zlim2
   keys:

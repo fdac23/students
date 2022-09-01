@@ -76,6 +76,9 @@ aesser:
   lastname: Esser
   port: 7781
 ahickm18:
+  container:
+    name: fdac22_ahickm18
+    status: running
   firstname: Alex
   github: bereket1197
   keys:
@@ -644,6 +647,9 @@ kyumhan:
   lastname: Han
   port: 7791
 lgangula:
+  container:
+    name: fdac22_lgangula
+    status: running
   firstname: Lohith
   github: LohithGangula
   keys:

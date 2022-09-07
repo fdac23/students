@@ -993,6 +993,9 @@ spunjani:
   lastname: Punjani
   port: 7730
 ssuresh6:
+  container:
+    name: fdac22_ssuresh6
+    status: running
   firstname: Suhil
   github: suhilsuresh
   keys:

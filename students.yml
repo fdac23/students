@@ -593,6 +593,9 @@ jmandzak:
   lastname: Mandzak
   port: 7715
 jmuncy2:
+  container:
+    name: fdac22_jmuncy2
+    status: running
   firstname: Jackson
   github: jmuncy2
   keys: []

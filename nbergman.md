@@ -1,4 +1,4 @@
-Niklas Bergman
+I am Niklas Bergman
 nbergman
 
 Hi everyone, my name is Nik and I am a third year computer science major. My hobbies include video games and the Model UN club on campus

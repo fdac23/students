@@ -9,6 +9,7 @@ aartates:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB6tTJzalfzIskBRV7KWMLnhY0mUGPoHwfUSM9ZFVcrb
   lastname: Artates
   port: 7770
+  team: LeagueBuildCalculator
 ababjac:
   container:
     name: fdac22_ababjac
@@ -21,6 +22,7 @@ ababjac:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC7Y6ONeBObfH8QbhAvMdTyVe9DEeAIUhxPXfOtNd+gyJF7Wy0lbrSa3UuHMi7E6hZnRh2Dy/I/ywYg87oLp2/ffJSfklkJerO5NJNxCPRelYOFsxanpVaMFS9ocFuYzwCnHp/dGmr4r9g18zri3zp8B8e9Q8V+i/8vIU4ySXzgJ3C0O3v03rJXuJGq6p8RcamNK0lGbHHXinfHrUSaZBiFH6fzB4iB+uQVVv+v1sGbspSFSmcK2WJh/aBE3LpEWw24ZOSObn5TaFc4jCOvJ2zM6IJtjZzYkFfp0ECFUHw7IxkIW86NsL+iWI7ct/xom7eHCBDTYFXz4HLilw90wF2XrOOL+rGx9UCt7G36tTo5RFof8SgpE35lPgzxla9nO/oUz8lH5djv3DRnc8VuNTVoL6Ccdwmob7w1XXw9dSZ18sXpK+LXtThespx1736ju/QaZOXQQcAMx+RXXAKXhr9qvrA7rj3HN3ZiSFhnjIFadV8u1OMdR2zwzLLK5OdBAGQrSobmh9JY+m1PsN/Qtlx+0aKY3wG+sr6jjvi9qz8qmq/w2KYBGTSzwdTPDGqosiyO1BK4lkrlJFfn8voGN2PE3SMGL42HbkNHGVnzYwNppYIBxGZhnNV73wQpv1ZwzfXRBPDh1tk4pd0RfA+WUYMO8MMRhDNtQqsHR1fTsNk1DQ==
   lastname: Babjac
   port: 7703
+  team: NFL-upset-prediction
 abahour2:
   container:
     name: fdac22_abahour2
@@ -44,6 +46,7 @@ abrock14:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCpqH7loAT44XV5btMzZTfReProm5v7KAld8DN6T/BeP+gcmC18QuEM350juUe2P1G6uytoecP7eAGic5VXhN5fn/lf8w6mn+x+QNhbH+JwdfRLwJzH05zCf9/oWK3GEXG/ua9S/CzF9dXwzXbbChya7GWaLs7+i6EjqCFp3TIPuxga55jFQ0A44/hZOvqAzOaQW1f35MSTYlLDYqZJqmXlQuCJZIPkwnFYC5so4Uhazvw6+DZt6vSKJxewn1mcTER12k/T4kSyo6bRO+vilIklyGxnGo1lWiPzRiB6w8QCG90/TRJsZ4vf4CB7iitSul+u8szWY9rsM0Ybr8ImZeK/IBGlDFNVNU2+9PwEi1qRVW/SaZECu0L0kC/MnR9WMo/rYO+xHROgB7JrOflLeOSZxzJJGKQ5Vz8gWhTg+45/8c2bT1364VXjelrfDoDwQ8JOJeByHfwkXxN/Xa4v/AUStlldeHKbJkmt+Q5zxdBjsHoW+iZfcsJv8vmuNQK64b8=
   lastname: Brock
   port: 7705
+  team: car_stats
 acook46:
   container:
     name: fdac22_acook46
@@ -54,6 +57,7 @@ acook46:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJKPJHw5ysdVQdzbJMMv/+K+77XiZSVssRPGiFxdNwgT
   lastname: Cook
   port: 7706
+  team: ai-book
 aenzor:
   container:
     name: fdac22_aenzor
@@ -66,6 +70,7 @@ aenzor:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN0sN3u9ymnpT3hM6OEm/0xNA3ms10fc4SK94Atd9smo
   lastname: Enzor
   port: 7783
+  team: Science_fiction_analysis
 aesser:
   container:
     name: fdac22_aesser
@@ -78,6 +83,7 @@ aesser:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFO4vUcghEiwF0u/PGjJl42L7hhMYJ0drG0wFTTcha+Y
   lastname: Esser
   port: 7781
+  team: Rating_day_trading
 ahickm18:
   container:
     name: fdac22_ahickm18
@@ -90,6 +96,7 @@ ahickm18:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIILrA3Om+DsQRjNay6XRQUnt00q7EycMeJk++5m8I6Lm
   lastname: Hickman
   port: 7804
+  team: Solar_Panel_Readings_Analysis_and_Prediction
 ahillhou:
   container:
     name: fdac22_ahillhou
@@ -101,6 +108,7 @@ ahillhou:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJcCrl89ZeDimxOCJkLUx2mrMLbmCpIyHqaXHzsOUjA6
   lastname: Hillhouse
   port: 7707
+  team: UTK-ResearchComputing-Job-Trace-and-Storage-Analysis
 amcdan23:
   container:
     name: fdac22_amcdan23
@@ -111,6 +119,7 @@ amcdan23:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFcv6nZclx1zKvXDEvSX6lxEP8lDNe/ZNpxKQ/cFsvJy
   lastname: McDaniel
   port: 7752
+  team: reddit-analysis
 aphan2:
   container:
     name: fdac22_aphan2
@@ -144,6 +153,7 @@ awalsh15:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDYYDvyqDapfV9rZlUD6ikZmqoIGSNoKRMp31TZ344gW3BlXv3iKa0xV7ZQBds/IO6qmyUZ6JMFNPD3xOEWL3owA0B1PxYmUylAqC/PH0ao1mDK+KHmY0Ur9tAAPOw6MfHalCDL/PWwxVFio3llZPbtc+XeoxOuiTi+MRbAjIZsdteU3lk9D+ZOJDHmE04X/AEw+w8Q8iXuxqAvOfhxaP5hZvHb6W5yYRP+VD3a/KNzhuwfyX5o0ff40TDZkPj4M6TzWWgbPt7CosSiE+8luEi1xY7s53YKLC30dQgbVhoX//CHYEu76ayvdm2p+XbCWZFlKCjjuj/gAEas/59OVs3l
   lastname: Walsh
   port: 7762
+  team: cardiac-health-analysis
 awelden2:
   container:
     name: fdac22_awelden2
@@ -156,6 +166,7 @@ awelden2:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGuzhB7D+5Q640VGyN9Z8p6b2sq4WRMbeRGv2dhnOGcX
   lastname: Welden
   port: 7708
+  team: UTK-ResearchComputing-Job-Trace-and-Storage-Analysis
 batkhamj:
   container:
     name: fdac22_batkhamj
@@ -167,6 +178,7 @@ batkhamj:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKaf4C/+GWx6F6iGOIHADrclAbzleWjlfLYHCWHglAst
   lastname: Atkhamjonov
   port: 7753
+  team: LeagueBuildCalculator
 bbutle11:
   container:
     name: fdac22_bbutle11
@@ -200,6 +212,7 @@ bgullet1:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINEGN3PGHcGV4R4qJ8R02NkrOCcBoLAFatIrJ4grdwO7
   lastname: Gullett
   port: 7771
+  team: cardiac-health-analysis
 bkammerd:
   container:
     name: fdac22_bkammerd
@@ -221,6 +234,7 @@ bkammerd:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCqLDwSJ9u7QRLm5tyo56IK0YdFN8NBOwKzkgrs90MG2FDX62F3n6jieGS43FTPGFW1CXm1xgAid9iEcPHwKSnnVZVoGXNVza9Pu8PyOrHm7cO5oiQZmLIACyXmTVNNQSsz9nGkBQu0a2c1XE/uRTCYNbY5M2qxiplgLMz9nrVzSDbxez3lss4oxD7LmCbuHFDDgiZ2swjsYBD5MPlImLCquCKdKNll4vBMMWDWoyelEHjkAQXOgkD2zYH080AD9X+jk5mipcutQMsWuJTUyHL8gGnZ7UbSKTfl7YYcWetnTPq8UiGXg9k7FkhLy8iDfqJCs45VwOEGRxwwaq+VqdLiG7Sspg2dLciHXTiNBTMIkMb3EjnfFNSOXz8sv5JgAuZQJ+NRv+gF2mEQtipN9W2HpEimpuoeQ4MfSjTtw70tHXjFyf0HMCAYdGFLU8Bht8ICWYYLkELs9HCWl2lChcfqivq/HKCAFrtaCiEv8ELUqH1n7WYuZcXHCigiFCWPn2E=
   lastname: Kammerdiener
   port: 7738
+  team: car_stats
 bklein3:
   container:
     name: fdac22_bklein3
@@ -243,6 +257,7 @@ bmclaug6:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDcPStA535NyvF48weXr1x+PiVNp3rlzS3KCuL2mEdEtIAFyyvjlAzhp1oR0e7ZWUMIkBu5D7tKUU5FatFfjQpyEkC3WQ30b63j+5fRfgddEnvA+48bJV3G1qBxvgrYGuPFIeBLaUdgCONVu4ktioj/Vpacrd021I6hBy00IV+AHBXTGOlIKTb/sacQYhi5CmTtaR8cqHADWjLFVXvAcgJQ8OVDodS83Y/ecMc7HwOx/H+Gorp2LJooH8bDob66ckonXPqqaVerdP2UYvIJ9IK6dJkqH5nGuiv9FkGf1T39ML7R78sdRILix/dn3wXx12YAr5sNtiEX0Dv3ncGXhSyNXK3j4f6rK9R9a2Ndx/uu3En19xJ5RhbBILfcvpHD/HM7VZrgkvpS86iOq4Cn2Q/JmDtaNF6kt1KBWERha9kUIPW9YaxKio6q63QZwXaFocmxlo3hw153UfWNcy7cOWChHFKCO40BYcE7JffGBixXyxLiphVb7Q6lPSvVUzsycvwyF9Kl9hBRQSj2NdRQZELoV0+tHR9ON9jGx9AlvM50+3FpNz9ymlrW+s7y2PuVUfR3gGbrz4bqa0zqbY9jVO18W/d8exGpoq3aIATXH8FCJBgUzRQp48T9dXl4aS/XFnAPgwLIUz7+yVpTq82kiHHZHj8rwYbAvj+mAja/9AS8SQ==
   lastname: McLaughlin
   port: 7763
+  team: SteamReviewAnalysis
 broachel:
   container:
     name: fdac22_broachel
@@ -253,6 +268,7 @@ broachel:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHVxmAg+jpNs5kvqGGU8TZDPR/miNRXUfOlKPA8Rkmqw
   lastname: Roachell
   port: 7786
+  team: clickbait_detector
 bschwar7:
   container:
     name: fdac22_bschwar7
@@ -274,6 +290,7 @@ cbeckfor:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHBOCH2ybO4/5ZuxSYR+IjbpBLI0vNVkkwQsJ/432Ooj
   lastname: Beckford
   port: 7758
+  team: animal_detection
 cbrook53:
   container:
     name: fdac22_cbrook53
@@ -284,6 +301,7 @@ cbrook53:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICy+61/n4aWQ7Csn9torx+MpMnDNByUPaoi72hYMDdDM
   lastname: Brooks
   port: 7754
+  team: GenrePopularity
 cbrow216:
   container:
     name: fdac22_cbrow216
@@ -302,6 +320,7 @@ cbrow216:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC27+6DQiWGDk5lPHipvppzRBlstjHT93SUfyaUKFrIxHbspVCacc0unjYqi3I22kQh6vNfgrWSbSwJIa3jEC3kLo9rPPIMe84UzBJMppATx4bt08YeTmp+7DCLtD5j4NGFGMYOXOumVQhxrRWQy3tSOXh56U7Oxf4yTFBBUyCgZiB9NPW+9a6E5KMdfZNdL69oGsxUSytou4I5Yl483b56hN6MU4mEcLblO4GNdMwpnzILlsINmESjSEgRsEVrhtosTYbeGQCTwHtfZcMR2tjCoeaxBNOFDiRwuUbjeBvM9ewvA57pO8andQiHFAgv7qnWMynCki75lh/lXx1hOBCiNM61BDvG58V4fwWz34yvZITCx4wqR62QkdIHYBIKxRMZA1A2tftQl3k+2YngfSOHrCCpvEBMwWgeANCQ7796S9dAX1Ji6w61P+nmKYHSVkDnc572svqs+q79AbiOkLBCJSqrWkZh0g2WhXkZhW3AHUBmsx6iUVxFwYdkBq8ARFc=
   lastname: Brown
   port: 7764
+  team: ai-book
 cearhear:
   container:
     name: fdac22_cearhear
@@ -313,6 +332,7 @@ cearhear:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINmVdmpzYamWL5Zpe1I2YvDokqiJDb/QD/dV9dXOH2KN
   lastname: Earheart-Brown
   port: 7800
+  team: GenrePopularity
 chagens:
   container:
     name: fdac22_chagens
@@ -325,6 +345,7 @@ chagens:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDda7dqkS6YBPPj//Y8ferpXiwDBBxw1fNTauQAsvGbH6BU/+i+tX3RBYBYCftoEQtRVFz0E97gx2ati8L3wrQ4xxG05wp/bXTjsjZY2DvS14n48Av2Ufsw22dt1wkSuU0ifn4Vkf4Qm/n/zIRuqVVtWDFkobHkVoLtgzgC16J+MWV9RfoT9VzXYGBlySx3Q/nfKhGy0DVj/DgwVAgzACC+192cbYvOtG1z+m7Xu1nlu2osVKY173VMq4VgLwy+wsqosGYQ26yWhMXrrZDu32QD495lEcWGu+2I6soCgt/VXAo/wp3H77AOI+yD71v3vtcQ2wPNLxse9evE8jHKGSi/sG6ZVAmffOU50IkvBCQj/Azt8p846izbRLxdpN9++rbTeyvKOjBNgj5MU1Cgnt2wTDK1rY7HSYH72rRSHk5VtDVpRC2bf+R32rQCEyWPEjlQTPJwNQnHZ0I3liTVJDzsLrm5vA0gzOhHAIzLFeEf9SXH9JDs0lJ3Mro0rR4DsLU=
   lastname: Hagens
   port: 7739
+  team: Science_fiction_analysis
 cjohn260:
   container:
     name: fdac22_cjohn260
@@ -335,6 +356,7 @@ cjohn260:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDHg7Q8wg5169xL7vtK6dSFVxFPU3E9U95Kq/Qwrx5WXYSgC42Qh3hra4gqXfrbbtwdueo0KY5DJcbWqmOzU+KO4WjxtybN2e63psDT5+/ENlO9Yxm25Rz/2/zqO7C2ULP/o383muA+vEym2sVoifFnfus5bNAFoTv9j84OgjlkJlRy4fiGWeatfb03BarvISErvGICjtPlI8wyMO2DTWu3Fx7cz1C0c5tLDBCBU34d/jDu6JneXIOO6mfmuszW36V9HEfOR+E+tZaVfWDRa3Tp6e1cGiHIXenfAlCNo1secuPU04gfIOGG+wr9IluMKc1CMUSbUfSEAWPDY34zgNihVeXBLvYggIQ2UKVjSgVYJowRoeRZWrlT58nNe4znpL/dKyG991jfs9YStgLj+IyKaTBS0VHylA+jV8xzBb0+Ag5zXRGDNgPMRAio+aJH8o5WNs3ii30xQkf9AhCv1RvliKXZx27YYG1XrvGfNN2lZPj5wZf5zD/8byYSablAIkE=
   lastname: Johnston
   port: 7740
+  team: baseball_over_the_years
 clee95:
   container:
     name: fdac22_clee95
@@ -357,6 +379,7 @@ csmit402:
   keys: []
   lastname: Smith
   port: 7801
+  team: reddit-analysis
 cwang93:
   container:
     name: fdac22_cwang93
@@ -377,6 +400,7 @@ delzinga:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEpBcUtNe5eqURJl+4RiLR0RtW/LB9M4lrtVY6839zbU
   lastname: Elzinga
   port: 7741
+  team: animal_detection
 dhuang14:
   container:
     name: fdac22_dhuang14
@@ -401,6 +425,7 @@ dscott57:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIENda1NGtY+Xl1BluYY/qH9z9ENLHK75SaDGDOj/lhNO
   lastname: Scott
   port: 7711
+  team: Social_Media_Sentiment
 dseals3:
   container:
     name: fdac22_dseals3
@@ -433,6 +458,7 @@ dwill148:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII8jEDXxkx5IiYW/PmxsLvVE8Ax4v6LzvXxw2e2HCxPG
   lastname: Williams
   port: 7759
+  team: ai-book
 eander68:
   container:
     name: fdac22_eander68
@@ -445,6 +471,7 @@ eander68:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH46aFTSksQx8o7/7U+T1nTfpR37hCoH7sI1jHoVb/4A
   lastname: Anderson
   port: 7782
+  team: SteamReviewAnalysis
 echavez2:
   container:
     name: fdac22_echavez2
@@ -465,6 +492,7 @@ elidberb:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPhwYT2imy2mmMT4VXxH6x5iM67ELFSR62oBVmlXLJgK
   lastname: Berberette
   port: 7743
+  team: clickbait_detector
 friya:
   container:
     name: fdac22_friya
@@ -485,6 +513,7 @@ gkirk:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEPNPH/SczMigjMZJojuWpt1OA0wJFS/6jwoSU31MYJE
   lastname: Kirk
   port: 7749
+  team: SpamMessageAnalysis
 hfarahat:
   container:
     name: fdac22_hfarahat
@@ -496,6 +525,7 @@ hfarahat:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQClfvUUok+PzsL5OVQk0xqRGEx2DnQynLQ2iSoVz7g191WZMvNZ6CpZdxuwDRywCobucMZ35sM6aF+B94kGQdqhCsPwkMuNoKP0RIX7QaI5GuJO5A7oCbi73t48z+ckIggug+ZuXESLiwi2W1qbeVl2+fMmhE22xMbZNiA3KdsGOOqwMa52Lo20KpWao2leWYdXOtMTOv0smadECIuCPsB4tT7CiS2zfgLVM7wm7uf3dgBeKdP0ppYniTNNz7MzDPIatsEzYbg6TsCldvOvRVV9u/2DKraSMJ78OL7EdH/MsOayww1576+LFDA4YRt/wVgLO5V3hLz/rJ07JGjNsd4x
   lastname: Farahat
   port: 7787
+  team: Social_Media_Sentiment
 hhaynie:
   container:
     name: fdac22_hhaynie
@@ -508,6 +538,7 @@ hhaynie:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCjG7ZAxOoQf0m5HDYJH5KR9tS5GDC/KoGlGLnVjgxtJpvJ+DSMngPGXc01O5lVvO1jFCNzVHoiyxWi23ZwHfWppOc/ZfLCAg/kUZEvqagTK7l8XJrpiQU+FHbV704lqpvzINQnjyHXordJsZThRvB9m2augdnOMu+zAGAYgGO5ANjKSfkt8w7N/60JrMStUVR3zrEdhdYpnxewGoX+M6XcxJS0qmM0XNFNdDpTQ5c1Igo0q04VkzVI+b04005dzguJFox4yVkTYUfhhjXFhJhQJTuXDA0r6+biFHzwWyiGqWxVIeIvARSqa7BHrkHE2x4zTJ6Em46+CuDH2gUThx/KkktiauAQmnTs3i46zbeLslM0uQPC7Mkw8+N4x0+Jfq4nWk23KcQODRwovzC1bHoLN8ziXjF6sXt1MrLN24WGkHU8/HVp3fWA7QJ2d/cjOeXnhCEBaW1lKbo3/km4KSYwjtMqIAIMTzxsV9tMU+bWX1716PFtgd37S7hEan+2KCKXdX63rjlJ/lF4FnrSeop130oZ+9SwQuBtfaOvrg4l0cQie356CtlomVbtNvhNYQ5TGbwjdaeC6r4SDxtFL/UIy55RwVDcvw8GAjoN/2RjdNDjRHqP+TJf50ekwlSt/gCF80E0P6ynQGLgrHqQ8J0C6NEVjxH8t+9YeBiWn7HFvQ==
   lastname: Haynie
   port: 7774
+  team: SpamMessageAnalysis
 imulet:
   container:
     name: fdac22_imulet
@@ -527,6 +558,7 @@ imulet:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDEkkWJfxZy6HUyzVqcR3y2aGuwlbzc0dZanxx+Vi2l/CdNNwJvwIsupiUti3IwZBMsqspV/f27pllwdoMn6TQMfb9U5c5PG1Keodf8VgEP1z9r5Qh0Bp+XNrmnGpyPKHhOhoioimYPWItZVbQNH4Ii3hqQLZjkJ9xq6RA/emSeYmcLqLYTv1MPj5QLG1U5CcpV9qcqY5xFRvQC2VSmHGW0KQnv00U2XK/SbZFfyov8Vlt04HVj0kaOQFw28j+90fotvdTY4E+ccyMUzo6nqti392f0g+87GGaAakYRer+KCCyvkM35HKioSf4XKTWnKdjL45LtFBOAtoDrFkmoKQ/I5aCfef7NizpKiA3J4utM9JLHlL755dMYvwct8h/AJfkAr+wuDUHx1nNKDtw2usFCnN4GhbfkwaMpicJST/3YwO5belBKKoZMm9lV3R+QeNvZ6ExDX0ao+tn6PaYiyG8l73IOA6A8PAQehrvWHnBiyX6qtcWH65ByhYsZrf+WtVk=
   lastname: Mulet
   port: 7788
+  team: car_stats
 jallbrit:
   container:
     name: fdac22_jallbrit
@@ -538,6 +570,7 @@ jallbrit:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDXZQW2rMS0IZRI2RESdGrd7ENmZOsrEbjF4Eu90IPZ32+wqST7DTKyFit6tkf3/H7jai3BaLT4O7OIEEIS7kWOBk2pxkgzDVn9WBe2OTZ4W7Dj5wGZUGghhJU52MNp/P2q0C9nPesyUrC/Oe1en/Li5EZwwW8EnuRyeF0RmT8CDHuAS2R0tmwLCjwURF/9nz3Evgc5zm9GlAvk1toa0gdCa7z9a+utdvysImb4YdpMsfi+SnM9NnJPHVtFm1DPUHwuW3meuePlh1T27XXx0JbUFoVQ6DVGPhtGgl91Vp4qjpRLuFoUW8w9j4eKRqPyGxuvrkYZ0aCtliULuqV/WL7puAJwB14J3w6DMTXyL4pGiVXEePtuTqXINjzon3FTSXQ3MAp3KKWcYiFWzb0YanvysRWjw88mO4tbteOztL53KIHKtY/0NJL7WnisJse3ZLCf2WmovVa5p+2duP3WxlOoYW/kak8Cb7g9IMGurw+oNueddLcmS4kwHEq6Bv3FOUM=
   lastname: Allbritten
   port: 7802
+  team: ai-book
 jamin:
   container:
     name: fdac22_jamin
@@ -549,6 +582,7 @@ jamin:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEKg4zC2VF5Tg97bcFyK3GHZCle3r3y35cfzqknlIDyV
   lastname: Amin
   port: 7789
+  team: Rating_day_trading
 jblanch8:
   container:
     name: fdac22_jblanch8
@@ -560,6 +594,7 @@ jblanch8:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFb8f1LvvGhuT9EBJL6jcZcb3bX/sDPA206oiE9+lakL
   lastname: Blanchard
   port: 7712
+  team: league_winrate_calculator
 jclar168:
   container:
     name: fdac22_jclar168
@@ -570,6 +605,7 @@ jclar168:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFY3krEDqblnkbd359gjxDRlYvv6O7gXFjiZSt081NAU
   lastname: Clark
   port: 7713
+  team: driving_stress_detection_model
 jim5:
   container:
     name: fdac22_jim5
@@ -593,6 +629,7 @@ jmandzak:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFrDq1QgZQxXnSljPBOvruQl2bT1vVe0r8XJsQran02r
   lastname: Mandzak
   port: 7715
+  team: NFL-upset-prediction
 jmuncy2:
   container:
     name: fdac22_jmuncy2
@@ -614,6 +651,7 @@ jrodeghi:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDDmc2TuZ3QjmITzeKSRTd/2+glp9mkq0/uvpc5WmZ4Q1lBzr/333NaFhM784gl2U+jzaOgPDmjOgZnhhCPtQ6jLNyLoHIJCzq/9NnaU2thEKugTOGQeDcxzXOuQdWvPnwAXE0M200breoUjYMJax27sD51ufwmDOjjeQNcZou3jyf5xN6xl6x8CDe2jZ+ZtUSa0yHlyLsb3NxQMYqRW2QnD2fee2cZg0nxU1BLi3EjogR44jWGIyFx7k+7hrvz079iJDduCxg7o3SwoZlwdpnqivJsZzTppOAksLuFUmk2EE7DYvnhnSzV0rqXYtQPpHVN/buICj0pgeCI9o5A6nMB
   lastname: Rodeghiero
   port: 7716
+  team: DDOS_Activity_Analysis
 jsadik:
   container:
     name: fdac22_jsadik
@@ -624,6 +662,7 @@ jsadik:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIERBmcumJz9qDwjbn4WZQNJIdYShCTBBigsPfzukHwu
   lastname: Sadik
   port: 7717
+  team: password_analysis
 jstaman:
   container:
     name: fdac22_jstaman
@@ -634,6 +673,7 @@ jstaman:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBmjpFIwOdfR6giu0AfETZ6MdpIIvcTpJGFw16fb3a18
   lastname: Staman
   port: 7718
+  team: NFL-upset-prediction
 jsun36:
   container:
     name: fdac22_jsun36
@@ -646,6 +686,7 @@ jsun36:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICkmqrxdOcS3mDMvzeaggXUtFgR7sc921Xsk+V/WLtuD
   lastname: Wu
   port: 7790
+  team: SpamMessageAnalysis
 klee50:
   container:
     name: fdac22_klee50
@@ -658,6 +699,7 @@ klee50:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDl0IJHra87l06bflIyamYuZ8EtDnMngffb4kCkqS/YulS4YBrFZp0LamcU3dv8YE8/Ryn9eCrn12vKUIngwXWr6PSQbehHdi1FdktJirkA5IlVXg3Vw9l9JV0GpQYeFGgyG1YBGsGXvyGnM6skhxgS84TdC2CuKkmc+8bvyEG8DY4uF2Fqs1Cy9X5nbi+hgojJT1EDJAG2w2DOQENHP4JulaWN/HjnRjfBXheqVyzEo6AowGsmblSz/hYpbclbjXJuxkfAA/LACmRsBZlcVO6o97G8ZwAGgZee4G4Ol+Mivpo9qTvCrR7R8tipkdzryImZL28lhOwLqQsdy9IOD3LYjfOWJmh0FeEdq17PX0RHPLbbIKdTh6ojc+HB6GU7vfVkJk/tys8fiz272c6ehRyh0CnIXAwFAQsJJ9xil4hA9r7hx+FTmWqv/OKQbyJLJJvOGYh4m47GfOov9QEBhIo+WFWLIBPCIsPIWB2QIE7+x/r8vkKhVdgBi+HyKQMhK9zZlSPbg9Ji0QETGNPpJnshGxA7VQGxo62cMYloC4ZLt7AOAdWU+CY9K66w4k7PkCVFmxIf7BzrZO232/htsGheCMNmJe6HA9PIcCgBetOlFoEUUZlj2qR0t3i3+aW8sGv+/GtGc6gxj4V7LgT9tc62pUkOCy8bpiT82XkxLfjHQw==
   lastname: Hughes
   port: 7756
+  team: NFL-upset-prediction
 kmaclin1:
   container:
     name: fdac22_kmaclin1
@@ -702,6 +744,7 @@ ljakstas:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK0MK2aBRTbJOhH7iah6fcfJCRimwsUWUG+ekVeF1gmU
   lastname: Jakstas
   port: 7720
+  team: UTK-ResearchComputing-Job-Trace-and-Storage-Analysis
 lpearcy1:
   container:
     name: fdac22_lpearcy1
@@ -712,6 +755,7 @@ lpearcy1:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMjPz7ujhuDRVirmAjUHphh89BGX/qsVoi1ZLzBmGiGB
   lastname: Pearcy
   port: 7744
+  team: animal_detection
 lsharpe8:
   container:
     name: fdac22_lsharpe8
@@ -733,6 +777,7 @@ lwrinkle:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDSySz31h/XwVlKkbLQWgk6VIkZZXrUy1F/fc0LMJASc++EfoMI3Eb77bxF3UqSd+8LhxaBJl/x4kuPxOAcubLAS+2k88rFPrsAR3oGjiY0PYeqU9xQ/vA8qH/X9Z1WVa8med77MNT2k2JjxqfLIK95rkfPc2ihMvsQgM5PKDu+IXoJNYwltmuNc51AfIbF3puwGS88uTY3cpe+zbmtzhsBbdPj865ygG8HezYcD2RnhuviNGfWfeCvMHwfnBmqjpBMUvxmX7+XHwAYqAf1kujOeyhHNTjx96jykcyaUm/2WJ17zaQYaN3hKxy2KyR2v0DIDYJbDGsAW0224UtzgfG/pOiT/8AM+4mp7s8BKE3z26QVi33+G1fDRyMMiLMnR55tsK0EpJ1xRrnvXDg5MlF4goTSZLLaHM7TfZwi70o68/kZgJQW7sjuJQGob8XBnPz96sN1/TE5QBq6nxI2OqD3eESa/meIEdFI51lTC74k7hOpI4C5bw5+945RAwEyGt8=
   lastname: Wrinkle
   port: 7722
+  team: reddit-analysis
 mdeleon1:
   container:
     name: fdac22_mdeleon1
@@ -755,6 +800,7 @@ mdenise:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIB8N332pzGU6r9ZxdDAJeNt5ZFhw2WolKI1QQ3neYHfq
   lastname: Denise
   port: 7724
+  team: CameraLensAnalysis
 mduraney:
   container:
     name: fdac22_mduraney
@@ -765,6 +811,7 @@ mduraney:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINzGnRAzJi71RPzQo4uCuB2/G1M1UJgaejpBlBl+iueP
   lastname: Duraney
   port: 7750
+  team: car_stats
 nbergman:
   container:
     name: fdac22_nbergman
@@ -798,6 +845,7 @@ npatel79:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDINcslbkKin+SpOGUKXV9JocJx086ERv4azZ9Dw0HTpkQ99qxo1vs5hfrcnb8VmzzKo9sVThbyDvPvlajJqTgkYU33BT+mNd+89FRrrNVi6P1MWUVc3bdBuAvt5An1hX/v1vgukNR6B5uhYlG0J1fMWg4plhH0n8+VTrnr9Ddr11vz+rQJulzJOYqYLTj39r4vQD5vf+jEpYU2joM7LsOjMmS2VSGtpcsg0GK3YUCoGkkbe6ATurzeGF04Cgx2bEHbxd5ifGx6enBcluha7aXTsE1wQVk+gjACGhDPul06BMuAHoWAFYMTwOrET63FaRwBSN59ZlsHpolIDo6KptFttUNOLBfTNn7Mq/OwzEmjed0R4cUnHC00KRydQj6f3WQwKdY+eK/l70BhzVRIBhurEuql8YYzEf98g/hVQGcxjjgulbuWAyz9663MahwErh3FtTViIyLUd0SHSZXUpzmDhK2ZX6fd980xM09BeFEJlnbzWe7Vs8hATcsiDvGo59k=
   lastname: Patel
   port: 7725
+  team: CameraLensAnalysis
 ntayefeh:
   container:
     name: fdac22_ntayefeh
@@ -809,6 +857,7 @@ ntayefeh:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINZI7wywvxB0a7WZ+fWbIltpk+IbO1xVmBXs4TcdbtzO
   lastname: Tayefeh
   port: 7768
+  team: CameraLensAnalysis
 oameli:
   container:
     name: fdac22_oameli
@@ -832,6 +881,7 @@ pattle:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII60Lnr5ce7QeLm49QepjR0uXPPAlhrObo85OSdOAFkz
   lastname: Attle
   port: 7760
+  team: ai-book
 pbowlin1:
   container:
     name: fdac22_pbowlin1
@@ -842,6 +892,7 @@ pbowlin1:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAcgbviwHCpxS49wc+rnnVGH3W+SaqkwZLmwuf3VMRPI
   lastname: Bowling
   port: 7726
+  team: password_analysis
 relgedaw:
   container:
     name: fdac22_relgedaw
@@ -852,6 +903,7 @@ relgedaw:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILFZd9ZkZFi0UAEUJGyZe3WiG/8Lnmu6neFYGOJJIaDQ
   lastname: Elgedawy
   port: 7775
+  team: Social_Media_Sentiment
 rlinder:
   container:
     name: fdac22_rlinder
@@ -875,6 +927,7 @@ robdgrif:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIG3M/NYwsKJZ2tTExbrT/oFbEXqGOSaqOO7ArNVSejCw
   lastname: Griffith
   port: 7776
+  team: GenrePopularity
 rpatel77:
   container:
     name: fdac22_rpatel77
@@ -886,6 +939,7 @@ rpatel77:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC2nTGw8SFrAZdCYSSgDwp9vdXfR5h/kFAsxOeK1VyodNQWJro7TeBdmrRzSY9hi/sJWUNyv+nVV4WILPw1uqg32Hf7x+ETYBSj8NXE3xBePj0+kLlYRZ3QtG687F3duTZUK9foDqRgwz8pNcHVJzUsfQR1BLhObwtIPQmOcaecEqGv20FmOcucd6ahHGT4soZF+3X+UEhdI+X4Gf5cpP/dPcBMI/Ntxl+TN7FcTA7umwmOTeE9uD/GoGCYTPBzfokyC2T812Zwaxx9XwHXfIpEgRasUJnC6C3kVsIvSaav3j0rmSe3ohgEm4ogzpvzdjHM5zmj2yr8synpNsRb3pfN
   lastname: Patel
   port: 7765
+  team: clickbait_detector
 rschenck:
   container:
     name: fdac22_rschenck
@@ -918,6 +972,7 @@ rsexton8:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINRg4UuEDW/rIo4WcoqZv5Q/BkbU1+6fNHT6/cLyluSA
   lastname: Sexton
   port: 7728
+  team: SpamMessageAnalysis
 rswan:
   container:
     name: fdac22_rswan
@@ -930,6 +985,7 @@ rswan:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAJGBDMpukqm2hlDjmHQtYBl0NIyWWxMB8LEfNyes8kW
   lastname: Swan
   port: 7794
+  team: NFLGamePrediction
 rwill166:
   container:
     name: fdac22_rwill166
@@ -942,6 +998,7 @@ rwill166:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFRd9JSh4hKcwgpN9MDrouMuttzMQuU+9z5m9JkBpPwm
   lastname: Williams
   port: 7736
+  team: Solar_Panel_Readings_Analysis_and_Prediction
 sblank11:
   container:
     name: fdac22_sblank11
@@ -955,6 +1012,7 @@ sblank11:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCwZOnlr9P3HlQsp3X3WYsLHpLnGPkNsAQ0GMk+FYYVyyCVa4n1yudvk7+GAMyXRC2Tf0HuCDuijDYz/lhQ+ZuhSrdpefYstMIMh24IlWlWBDGu9KQPib0DT7CM/ugxqHU33PwwGF9A7jME6qm3OPaNHRNAT5f9gvfUZfuQ9mYpWxWASX/vP7D5J0LhaB67g7NzyU8mADCVToKikX510DG02zF6epbep/iHKiELKCI9cU6xnX/cugwKKNCesotjKY0pzslX+nxkRL15/3ijQkD0WnfBw9nEhrK7iVQrY59Q5qUewLGxgM7ZoUViMhq5SFqKb9xtxoePHH4CaY75HNuQjzXqnJjPF01eRbrUNSLShI/SURIk6T/0nY8ps5cRgJJXMAkapukoH24AUgNFGD9uusdl/0ChicQPbQZ+HrnJE0G0a/lwFMhA21lyEf3/2xK4qTWKwvgIJqzTDBNkUiZFIDjScsFFLg3M5mYKnfESstxLou8bxM/vcfI/XEN8wWBmfj1EDU1T/yyOzR+cg6BbEYfqmQNFoi+ByqET5ZH8E1dJNXbBZV7YjwGVuF0Du5G3OY3ohJXUPGn3eS34GPR4DT2POs4KBlw8rRAfegAml+esgq5p56+xplhFTDm46u/uFBdfHr7a/HIRF3fuXn/mSg3VfzjaYeu7phtZa/aQCQ==
   lastname: Blankenship
   port: 7746
+  team: league_winrate_calculator
 shoque:
   container:
     name: fdac22_shoque
@@ -987,6 +1045,7 @@ smishr11:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCipFqVvPVf+zfuCebkGPAWpXtP8xZc27+iYnGgYCJE4w3l7ebaHj4snjcKhieRwnQHztbtdgtDGL77l4rF9jd9ydcH0j0SUgaqtTbN29auGl8ttOK1PxRHdtDhNTV2hXrJT0j2rbAfY4AWDsUFwLTNWzB0z//tpZnlb5wmwx90vmbOvgWmWmrFcOCNfnxRPnf8dMpPwEE0Hb8p8FM2tVcK2qQz+TOV5Z6ZJDGoBn8tz9MyXlR+qgDCsV+ZZxY8B1tYxpbM8xpdjUwvAPrDjcYHuXNvpXw9yWipQeuu10uM1vZpBPYdRNoQplvnhy6mKpzkIuFcYtB0buSmsLmNzMs0G+QBEK/wg01vhSx9sKYqDrTBQpoTEEdZYfHKSEIL9s2I1+vgtBJOFo3BaWeKF0KEkc1Bp7SYe4AOcc5OIngTDkyKEHlJogyqs0AyZId0+lh44C1te4V0Vx6eCJahNjxheYT+faqyDfffZwfOHY+fy2iA5lP3P0a5nUvgQepblTmufo/1wTum9Dkn4MSQ7Sls/3BXkWFZqhuZbXRt1FOPmZsJU8HfoNo3bYRaHzSHFKXmmSlfVU6CZ4nboWl7k0/W0qOPyfRUKylCxOhkpa1+5uuHxn9KBBPoLUgf24FnWfjinxrXvdi6sGoolUPOUGr/518kiBQHYb4+qjcUKzniWQ==
   lastname: Mishra
   port: 7729
+  team: Ages-and-Attitudes-Towards-Terror
 spate118:
   container:
     name: fdac22_spate118
@@ -999,6 +1058,7 @@ spate118:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIvAWRhx+iq4psT4yJB5k8yr9cy8OV3eVcJPLrfLwRON
   lastname: Patel
   port: 7747
+  team: Rating_day_trading
 spunjani:
   container:
     name: fdac22_spunjani
@@ -1043,6 +1103,7 @@ tcultice:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ/7WzESDgED3h2R4H8OStPajSnRnQW+SjOuc2XreHat
   lastname: Cultice
   port: 7732
+  team: driving_stress_detection_model
 tharshba:
   container:
     name: fdac22_tharshba
@@ -1056,6 +1117,7 @@ tharshba:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILkVflcL9YmLL66DT647dlCSWBCkoGWmCGiW/zNKwecH
   lastname: Harshbarger
   port: 7778
+  team: Ages-and-Attitudes-Towards-Terror
 tkhan7:
   container:
     name: fdac22_tkhan7
@@ -1076,6 +1138,7 @@ tneuefei:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMpcKgju8LBAptpTsPQUMarLaSTiYgZK35PLDg+g//Pm
   lastname: Neuefeind
   port: 7761
+  team: cardiac-health-analysis
 tnitzsch:
   container:
     name: fdac22_tnitzsch
@@ -1087,6 +1150,7 @@ tnitzsch:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOjMkl0nwHoFPfD4Fpho3cpMXNCHFKiXcQ5iXS9qmlzA
   lastname: Nitzsche
   port: 7779
+  team: league_winrate_calculator
 troger28:
   container:
     name: fdac22_troger28
@@ -1097,6 +1161,7 @@ troger28:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHJY6rZAXK11bu+LHsUOo8q7PD+tOJ3uxPhNBdi6S181
   lastname: Rogers
   port: 7733
+  team: baseball_over_the_years
 vbhupati:
   container:
     name: fdac22_vbhupati
@@ -1117,6 +1182,7 @@ vhanset:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII7xJeQUs6B7EImlKuK03aS1m317ceAYzt01GTUVEdi6
   lastname: Hanset
   port: 7796
+  team: Science_fiction_analysis
 vhazlewo:
   container:
     name: fdac22_vhazlewo
@@ -1127,6 +1193,7 @@ vhazlewo:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDqFH47GlPPG8mk7agpjrfG6AKNpBSsDraqUqrOBfmOvvsSBU0BUL4GZgY3Nst3U8XnlB919RK2FuURUqPkeZGNCwBi57Q0cPPNU5FJPar/95INah0hfR80lOK1W9tWcYzXpKZwvcxGtWtyoG/vsXOO8cnQ4+ukqzCdNa0SOF5GwjdS4kJUmpW2dFxUlmvS6RbbmZ8V9AVYvZQMv/0jCMSOSXFtaFQnWHDyLSqcNcOOONqPrEGWLUNzPJql266kdYWMAyPLfqOhdT1SRrveVI+shyxxscy/xqE9g7h2l6MgIudMKX/GYe9KIOX5+jk8EhOuTIENY1wOmTkFGI91essN
   lastname: Hazlewood
   port: 7766
+  team: UTK-ResearchComputing-Job-Trace-and-Storage-Analysis
 whannon1:
   container:
     name: fdac22_whannon1
@@ -1139,6 +1206,7 @@ whannon1:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDM9rNPbvlsHDeUxr0a3xCKtCkSoi94a7rKrpjn3l8P4eBVHlqgyhy6oX1lq1Ojz7kRdSPJP1fzknEnQ0f4HmzE/alYGY4mOadMsVbatQXVCLzwQffLSI7YuAvjVh47naKDZctP64P+qovwbmBSCyVPXLBNnIlnMrvLZS8B9VUfYnea/297Wd+f8PD2EFYbR8YQsJrJhSyprnx/TKSZ0KQg+IdkvoGvpGbH7I+wcKemEwrOKyGM9XcPsRckD0CpR5OOuEQzhjW5kUjdFWY4iL4iCordOhbDrOm0Zu9UW4buP2pnyj49UgshEexGBo865avZpoTB+1P7zTUWIE/Gu587kp0mI8ubvF/YAVOKEx1Jn6iKaoCPr0svd4nxYERjVglbD/IXi2Uw+aVYA8Ry2cg3oi638/B1F6omOeUf6yTQh/WugBtPlpSpYsHs7q0uOZRyws9+wXGMx2NpzVKvfdMK4Q/PiH9XE2nNkkp3OE09HxjuBdewcJslR7fecidmrnc=
   lastname: Hannon
   port: 7797
+  team: DDOS_Activity_Analysis
 wparham1:
   container:
     name: fdac22_wparham1
@@ -1149,6 +1217,7 @@ wparham1:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDBZQvudlEU2KXVuBblnjl+35ul+PvNFV+ZSlv4ED6flCx78vcXFv4uBL/p2eGk0C2F3JG1Mj4w92897xyf+ICb2Xfh8C1OwmF2h/ES7j7aT+9lNbpCvU6/4vrZ+JNIytRywC9xubtNQn1A2T4EjnEsv9GjaXyK7JOy8ukRI142nhHW4zUcT4F8fHaVHQO+RnUDpIqfdN+NyOJoe9sTJJPv6KIRZV0kgT6ffkyPnOc/nokZrADUkRGyJ/WnR4XDxNseoQ3nQffirLhwXZPBGNtLtxHiZOIwzcZJhsbd4y6xk+Zs8uDmJ76gK+pgjJxBghXpr6iZQxI3q/2I8ojoSbKa91tYl3xeAWpKM98jl2DjSnThnzpka3b4FfHSh2uMlMc0CV3bvdMtdG5evNdN4YA4D/ngxKifWy1SZsyYL0Gfp6YGY3Xyyijvah+1MTLdof+baPgOKR/JOsTw9LWzlPHwE8IiUO/kII2jBW3WgBP2JmQxck0f2O+AaBwtiVesoC0=
   lastname: Parham
   port: 7734
+  team: LeagueBuildCalculator
 yahmad1:
   container:
     name: fdac22_yahmad1
@@ -1172,6 +1241,7 @@ zhamm:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKU6Tq8OeFeyCln8WR2nXn1f6xOZ2nsi2MOVC4L2Kgi1
   lastname: Hamm
   port: 7798
+  team: UTK-ResearchComputing-Job-Trace-and-Storage-Analysis
 zhayes2:
   container:
     name: fdac22_zhayes2
@@ -1195,6 +1265,7 @@ zlim2:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAz8eKdTd2GwX49ck7LolM6q9+mfJybHA7VIicaRGF8d
   lastname: Lim
   port: 7780
+  team: CameraLensAnalysis
 zmalkmus:
   container:
     name: fdac22_zmalkmus
@@ -1206,6 +1277,7 @@ zmalkmus:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINA0zOcR7Ph2etU8cZYYJULjLnDxAw8N41s+nZ2Jk7Ru
   lastname: Malkmus
   port: 7735
+  team: league_winrate_calculator
 zwilli13:
   container:
     name: fdac22_zwilli13
@@ -1216,3 +1288,4 @@ zwilli13:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCkXx1brtkSvlzwlnYz+FnYTSRYQYz+VgSErOnVsS7w5QDDQROXPD6DNgcNcQYX0cW9ogKa8n/q8slietVbFryvGtWSYAWIDcTmaL7lf1qFyiKskCWSOHkpAQdr6lRnau1E+NNAkXmvZOiwTshMJh0No+j1zMm+souPjg+xl1MUY10g6GpyFxUNCcWILWx5xoWQ8Mc3DFPvrVZtsUuTHY38KG4tadZnjoevpvYMQdeO7vZNMcTR5r4SF7gPRecabIn8P/KneZUzVF3hOLzYbsW388GuwXiuo1M+RURG/Yegju1f+OnWvRH7t+eGjGyww2kRDVQ/oaRNJSxrcb2Fhs4yA1Wbt2NmJ0sqVs5/FTwkU9/HpqY22Buvj58a5UMuzQKfp1H1fpnH4QYLHiCbQGG/PcCpAmHe1eAX/upU1PJ3pBzg7z22bb3Fe92yqC0BJ4O0gujLtEcLEtiCGG3PzCYXNrsxx2i7IZ+KYOKwy2yIc8cjDoTcDNBLyCEQecMGqas=
   lastname: Williams
   port: 7803
+  team: Solar_Panel_Readings_Analysis_and_Prediction

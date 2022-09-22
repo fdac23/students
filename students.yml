@@ -766,6 +766,9 @@ mduraney:
   lastname: Duraney
   port: 7750
 nbergman:
+  container:
+    name: fdac22_nbergman
+    status: running
   firstname: Niklas
   github: nikbergman42
   keys:

@@ -37,7 +37,9 @@ NFL-upset-prediction:
 NFLGamePrediction:
   filename: NFLGamePrediction.md
   members: !!set
+    aphan2: null
     rswan: null
+    sjohn248: null
 Rating_day_trading:
   filename: Rating_day_trading.md
   members: !!set
@@ -49,6 +51,7 @@ Science_fiction_analysis:
   members: !!set
     aenzor: null
     chagens: null
+    nmize1: null
     vhanset: null
 Social_Media_Sentiment:
   filename: Social Media Sentiment.md
@@ -82,6 +85,14 @@ UTK-ResearchComputing-Job-Trace-and-Storage-Analysis:
     ljakstas: null
     vhazlewo: null
     zhamm: null
+Whale_Location_Analyzer:
+  filename: Whale_Location_Analyzer.md
+  members: !!set
+    abahour2: null
+    bschwar7: null
+    dhuang14: null
+    kmaclin1: null
+    yahmad1: null
 ai-book:
   filename: ai-book.md
   members: !!set
@@ -127,7 +138,7 @@ driving_stress_detection_model:
     tcultice: null
 foodprices:
   filename: foodprices.md
-  members: []
+  members: !!set {}
 league_winrate_calculator:
   filename: league_winrate_calculator.md
   members: !!set
@@ -135,6 +146,13 @@ league_winrate_calculator:
     sblank11: null
     tnitzsch: null
     zmalkmus: null
+nba-analytics:
+  filename: nba-analytics.md
+  members: !!set
+    cwang93: null
+    jmuncy2: null
+    mdeleon1: null
+    spunjani: null
 password_analysis:
   filename: password_analysis.md
   members: !!set

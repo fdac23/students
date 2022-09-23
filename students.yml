@@ -33,6 +33,7 @@ abahour2:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCWhRz5D7ZsSpIxMs2YRwPOa4PKBf3tsC0ccK19hsOf9SnqJhmgzZVt1WEwlinEEaeSniKdjP9pjpKFMRyYBgm+gezlFHjz5P8ZICSQxWhjzYi45sRoWXfTAT4bVFdS3kCMPmJtIMHGjkN7E0myPBjyX7Z72B8R3d74uxIJo0HTANYvoS2Tw47KjigjDTZQzrVKCI3sg6TXVFd9sfom0hiNiRhhtNph4nGlBUfIHUMsxgMAeB9+5T9XkZQkeYC78Atquogwop/ypBdZvj1H4DgsQ01mklX4HMsYyyVveGMJJNd3eGvjbzdx+kE491X3CQCj0ZuoqEaO9My8QqpIeWdtia7C1qhy6mcjB+Aq0KKH8X0bzuPdGDsa3bBU4K3uAx5oLmEMsam/0DylPgYXpoIF7oWAkYZ0wWc6R+XZfYsvNip5lwBnz7rpqbP3MrBQlL5ZaxAw8wbzp5RI5PtItR3yOFK1zNpgs3WjhhQ3uM03NSi+e39bRodjoztGWZCluvLG2GJTnwhu15TDJP0qgrwHmjwLnTGTe0e4wurr+ZB8Guh5ZMojMNB6GUiJQKEM8FGYtvgwqyL/YreHbYasra0HHEHdFjc1gJi7J0ARAmluE+RzrEC9EFAi9LAdpFRXIUQEwWekksKPWNd+VMvREvBngMlWr1cgToxIKHfjZbgqow==
   lastname: Bahour
   port: 7704
+  team: Whale_Location_Analyzer
 abrock14:
   container:
     name: fdac22_abrock14
@@ -133,6 +134,7 @@ aphan2:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDABUddk7Dx+zOL7I80U/U9UrsTGiFDYJYDG9G4UVuFgxbZhG4MSrh+00n0uVEsdVhAvGmfgThAql1MBEzkATvf9xPToPOFw1Zqxcczlnbi8e3ikOlEw2N6d0Biof6W2YEHJUjcWHrCYkh9vDssb4/tkSz9jh1QJYd+P6T9DrTh656VNvQx5b4u3FylNa/EkHdlswJ/jw9Ufkac6FrbXgqFRWzefkxOLOtj6XFzfZm+cNywFBy/DuRqqIVOilzF/tt/6iYssYOERZL/JhyRhB2wSvIEnTTGLI25C2SGF+l/x/yqvlxZJVkaS8NyOYkSHCe+mhlIOsDAaiHM7QKjIkB+X23MaB61IHTd5Olf2FPDvZ4oTTdv5rcctD35rstVxLYHmbzRo/oUngItyC4PK0FwYQjmQRBwa+EBP+M84fAJaJ2LN+X9nDBJQ4SfUOb7OivqKDIxew4u+iVsUhC7dwJSO1OnBAh8FPpTRPXRQAGxWWmv376UuYK6rKGkv7Uw4sM=
   lastname: Phan
   port: 7784
+  team: NFLGamePrediction
 audris:
   container:
     name: fdac22_audris
@@ -280,6 +282,7 @@ bschwar7:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCVUY3KUen9XKh/qmf4MFXJUFuThBgzSvGPzRhQZNGsN2h2StNCS6erC3glrShZsFOo+Am2kdakjP8Wb3SLHJWhDJVtP/b9ECqHxjAawoqoaZyH8CBXiHZwjnm2Rp7G4XE5wU5NWTwSTBisqHes4rqqZwgOpzhNSDsp8D5cXc+AZXXS/dHTJXvUqfzptp7Q8O88aCeE1xAcEgGzwoxihLInvqfhvW3jmH/qZjiCCZgcgrg1ZHyXb01N4MnG+V68/nSD2UhCOSatui3wF/twnweKwSitiSGIBL35kvSVLn3rhdU1rPgjlac39oOBV5ezWBtQrFRukXDhyTVrZtYGHBqehForcY0BAEO3q6vKQ0rD9Y5r7gUiWO9+m+KmGNqPqnhKLsmk0dN0F6Updg9TXcSlNe124GLodR/6HSSPVpEVxLTAmkSx7CrRgM4U0sWMUtqIOLyKMYKVyZTx1R3OwAxI1PSXuiD8djAhYIEv/gveOv7e9s/t0UBbYDj0VcRAKWTT5Rq/+z0QpvAsMJPKKn3aRj7H4A75pdiExQmSZ8KvMzkDhbQKjN+dlRANa1ZBk8vvLudjWmVRhyQonPMi+LBEj1YIq7/2yDGMbs/mU6Cfa3JKgLfrISxTo3QvSs87RU0nRsRtqUpSUsMEZ2jlUU5+ukobrcvQp4H9Wxe/KZ0ldQ==
   lastname: Schwartz
   port: 7772
+  team: Whale_Location_Analyzer
 cbeckfor:
   container:
     name: fdac22_cbeckfor
@@ -390,6 +393,7 @@ cwang93:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBCtnVdPVIgBOWDqB2ZkRXBli/eBX/z1Dkrdz5B30Su5
   lastname: Wang
   port: 7710
+  team: nba-analytics
 delzinga:
   container:
     name: fdac22_delzinga
@@ -414,6 +418,7 @@ dhuang14:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCki9JLsA/YCklbkzEcM/Rk7gnZpkpRX2h7kQ/WVod5mct8h8UZ5B+3YXmXCrS44JIcwDg+qZijKjC6xcSlsT/wgViiyH8ibg1ovWNozqpo4SOEC5AsPSu6vRI49YGY9XFr/vYNIvDxDskOCVZbGW5qpeymwGVkstlriOih3K5aTvIOJsEewClFACd2I231aa3SDzY1eYn2Tkau1yMhmn/77HpiXf9hPy3Wm5n7XAtkHL1DMaje9jhjK2Lz9zsHfkCdRdrymxQMmCnvSkM0hIFOekxVxASlPXkSE/aoy22FArvaKQaZpdt1B1qYs30LJGYaUtpaK/+Dperz4wGVaOx4MZdJPArya99HwI/QdEgdUSu1/bhOI3GINFqUtuSmxzUG6sfUZPREgSjqPpaPia3+qM3ByZieqxaqZVspxynuhK/Mnv+yvJmEUe+C501NDWF1OTLHmcAbxuchdMYq6tySXcRHzTvLIaFHc0cLQgm/LAiFXOI0/ZbXM7r0Ki6dEW8=
   lastname: Huang
   port: 7742
+  team: Whale_Location_Analyzer
 dscott57:
   container:
     name: fdac22_dscott57
@@ -640,6 +645,7 @@ jmuncy2:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBMklSR06SxAr84J/WGEpMvKfxiWCOYhg44LB+1KOIij
   lastname: Muncy
   port: 7807
+  team: nba-analytics
 jrodeghi:
   container:
     name: fdac22_jrodeghi
@@ -713,6 +719,7 @@ kmaclin1:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDckFtkv8UxZ/9ZfoUnY90l/58rkadiMtOkXFW7vr1Iz1+s2lEjJzR9CNQvTZmrd2RRImpSOrn0JnaifmKu5o5jEypuTri6m/4GhCKpIr9mkYDdGEZBTL1gR8mKfKJy+N0FsLCnl8wmdxXFxCEqgOYJX4hjQE9pJByAv0rVBQhTiEDmrag2I+8vrRSdvCN/vZ4Cx/W8ujhabY5PoQ6/6g/rjPl02XCVSCIrPQSzV7Eda/RJe7SnPuxWWi4+KAnQeMTRRgDQ370sZ6IsLlHZG61N0IXNJKJuRSn3lLQmvIHo549ub/YvLtIFi+VBJ1vk6/9jHzWTt5bv9xCXcxBSEqe7RzLa5YRwgIES8GVXkFB/di8RuuwXazk1scQPLNbdqHnbC++TNkUI6g1+qRaltmkZSw6HFFEZxYT8IAruEIWrHuV+XHiYQJfkTg1ktp4MVxd4Q2VxdrKhghTgEqux1/dmAuf9oxB1NNvElCdlZ+34yBHipfmIC4PnqOJdN2/k+48=
   lastname: Maclin
   port: 7719
+  team: Whale_Location_Analyzer
 kyumhan:
   container:
     name: fdac22_kyumhan
@@ -789,6 +796,7 @@ mdeleon1:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMedgcRvNkUMWrLNgBEHnG4iu9o/TIGXdjsW8fPyFBvo
   lastname: DeLeon
   port: 7723
+  team: nba-analytics
 mdenise:
   container:
     name: fdac22_mdenise
@@ -832,6 +840,7 @@ nmize1:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFXYgy/ZJtZnaBaG3MEvNU+nMyf/FoNkQttfIZgSWGox
   lastname: Mize
   port: 7792
+  team: Science_fiction_analysis
 npatel79:
   container:
     name: fdac22_npatel79
@@ -1033,6 +1042,7 @@ sjohn248:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDilNVNxyhl/qgXA8j86snCLR7UaKY8b+yNUHX4fJ4/7Ps0x5s2unbVgsJkKnJyok5/qa++1nA0sCS3DTDTvgP491cMXegnNzPcgimIDgffN2DhJWkm1Rc/OHzqoKsva7k3V4tKaA2WA7PXtuhe2bv1rd4lFwnXLhrQObtD1n8zZc84hbPXXi42Kq/FWNgWriCCt/MehSFReWCKEMW8+l96fhwJOpyUE+5/O7FbSkynIEHg2dCDVzGKx6dI4eyS/BMaMUK5y+L9IcYw6WS+CidsYtyCANj+zC/jmHLHsjS34/qNlecLF9dyObx612KzIgw2qfOsSS+yIrwKXW4YsfD/+9a0rSANVef81oGOB4y4ubeXWpzlFtECme1IqqbyXOwqQGWgRuda/NXpjolXH9Gx+F6ZPw/cFO3OPlbo/APrjPbCZ4NYw449RTu4GMfQHz+JWRGsFZIVrwcJ1rNaMr1QIEjE9GVPtkLR5MgXgQU1xBHFP43pvSBasMH+n5I3JEU=
   lastname: Johnson
   port: 7757
+  team: NFLGamePrediction
 smishr11:
   container:
     name: fdac22_smishr11
@@ -1069,6 +1079,7 @@ spunjani:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBpN0DDT/OchT+SQO0lHrHYLXadwLg0IXkI86wN2PmAG
   lastname: Punjani
   port: 7730
+  team: nba-analytics
 ssuresh6:
   container:
     name: fdac22_ssuresh6
@@ -1231,6 +1242,7 @@ yahmad1:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDPmRO7DhJ7zP7mktZrz0OKlrNX7EC+LfRm56kzJPhSIAfvfO8GkB3EV743Faw7wKHHeYQTD2YKt9Gdvbx7BKJdpYYOX45P18/2JPRL9sM3UqcsBoqKpW2GuP/lDEQlMdmPxxUBwsDTWlxu1XTGYTBreZHZ6V7op+AW9cM65q4Hlkr4lNXf0fJVfjd8pQjUzHY4nt2R4k1cgDvkjPYFkZZmhMHJfr8xzisVEDR0ssf2YaLcrQesl3dWMTg2zSc8RAAtIm1/jw8ctRymmYntRLtBjOhROMYKYFL68lvq8+Ul/S5h06bEuvdYTmE5A7lpwip3ULzamBiObK+9OrCY77/LlELKo4Db5jj1a1NlvgAwQ4QD1P7XO6+uWOY+xkUtu5/PXamL+ptXwiHhQM158eWcM3noiCa+Nhcc2CWNjhAEpLHbcBRgL160OudzHb0coLXLP+UHHSqB0sEq3YSb4E0lPnCDCAVkw7E+0aNB05R1b4chW6RBd8Ot4hyEgSKxlLniofvvYqAbbT4lOUPSWv7dToJZp3+dskpUhQ+gM9je07P9vlPgorcbic+RKdGXTtUvCOO5L+VZ2AodKRLQgsLSJO2u9rUxuqmCLUT/bsrrN115atisshA4kGjDdP6dSuZf4M9uqM94BPk256sjs6KzAykOCXcFDHrCz8FjPvHa+Q==
   lastname: Ahmad
   port: 7751
+  team: Whale_Location_Analyzer
 zhamm:
   container:
     name: fdac22_zhamm

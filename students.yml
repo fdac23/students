@@ -430,7 +430,7 @@ dscott57:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIENda1NGtY+Xl1BluYY/qH9z9ENLHK75SaDGDOj/lhNO
   lastname: Scott
   port: 7711
-  team: Social_Media_Sentiment
+  team: SocialMediaSentiment
 dseals3:
   container:
     name: fdac22_dseals3
@@ -530,7 +530,7 @@ hfarahat:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQClfvUUok+PzsL5OVQk0xqRGEx2DnQynLQ2iSoVz7g191WZMvNZ6CpZdxuwDRywCobucMZ35sM6aF+B94kGQdqhCsPwkMuNoKP0RIX7QaI5GuJO5A7oCbi73t48z+ckIggug+ZuXESLiwi2W1qbeVl2+fMmhE22xMbZNiA3KdsGOOqwMa52Lo20KpWao2leWYdXOtMTOv0smadECIuCPsB4tT7CiS2zfgLVM7wm7uf3dgBeKdP0ppYniTNNz7MzDPIatsEzYbg6TsCldvOvRVV9u/2DKraSMJ78OL7EdH/MsOayww1576+LFDA4YRt/wVgLO5V3hLz/rJ07JGjNsd4x
   lastname: Farahat
   port: 7787
-  team: Social_Media_Sentiment
+  team: SocialMediaSentiment
 hhaynie:
   container:
     name: fdac22_hhaynie
@@ -741,6 +741,7 @@ lgangula:
   keys: []
   lastname: Gangula
   port: 7805
+  team: SteamReviewAnalysis
 ljakstas:
   container:
     name: fdac22_ljakstas
@@ -912,7 +913,7 @@ relgedaw:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILFZd9ZkZFi0UAEUJGyZe3WiG/8Lnmu6neFYGOJJIaDQ
   lastname: Elgedawy
   port: 7775
-  team: Social_Media_Sentiment
+  team: SocialMediaSentiment
 rlinder:
   container:
     name: fdac22_rlinder
@@ -959,6 +960,7 @@ rschenck:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFkf902hb0jvP31ssg8/zoDAAsMx7WeyHOmh05RIP/+f
   lastname: Schenck
   port: 7745
+  team: SteamReviewAnalysis
 rseamons:
   container:
     name: fdac22_rseamons
@@ -970,6 +972,7 @@ rseamons:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDowdZSxgRnro+5QWVrYfDjUoLkjRD2kfFhqwKajFhZ5
   lastname: Seamons
   port: 7727
+  team: NFLGamePrediction
 rsexton8:
   container:
     name: fdac22_rsexton8

@@ -38,6 +38,7 @@ NFLGamePrediction:
   filename: NFLGamePrediction.md
   members: !!set
     aphan2: null
+    rseamons: null
     rswan: null
     sjohn248: null
 Rating_day_trading:
@@ -53,8 +54,8 @@ Science_fiction_analysis:
     chagens: null
     nmize1: null
     vhanset: null
-Social_Media_Sentiment:
-  filename: Social Media Sentiment.md
+SocialMediaSentiment:
+  filename: SocialMediaSentiment.md
   members: !!set
     dscott57: null
     hfarahat: null
@@ -77,6 +78,8 @@ SteamReviewAnalysis:
   members: !!set
     bmclaug6: null
     eander68: null
+    lgangula: null
+    rschenck: null
 UTK-ResearchComputing-Job-Trace-and-Storage-Analysis:
   filename: UTK-ResearchComputing-Job-Trace-and-Storage-Analysis.md
   members: !!set

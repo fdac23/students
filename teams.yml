@@ -41,6 +41,12 @@ NFLGamePrediction:
     rseamons: null
     rswan: null
     sjohn248: null
+Premier_League_Prediction:
+  filename: Premier_League_Prediction.md
+  members: !!set
+    clee95: null
+    jim5: null
+    kyumhan: null
 Rating_day_trading:
   filename: Rating_day_trading.md
   members: !!set

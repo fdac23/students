@@ -778,6 +778,7 @@ lsharpe8:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAog2M7Wdv2uttTSULbvpxkKWgHQUxS0mBWR1sBmFcLA
   lastname: Sharpe
   port: 7721
+  team: GenrePopularity
 lwrinkle:
   container:
     name: fdac22_lwrinkle

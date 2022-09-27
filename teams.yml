@@ -20,6 +20,7 @@ GenrePopularity:
   members: !!set
     cbrook53: null
     cearhear: null
+    lsharpe8: null
     robdgrif: null
 LeagueBuildCalculator:
   filename: LeagueBuildCalculator.md

@@ -249,6 +249,7 @@ bklein3:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJuts8e0nKtZHNjM3YtnX9c07syHYYvFx+xteN6hUCIs
   lastname: Klein
   port: 7701
+  team: WST
 bmclaug6:
   container:
     name: fdac22_bmclaug6

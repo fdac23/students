@@ -146,6 +146,12 @@ driving_stress_detection_model:
   members: !!set
     jclar168: null
     tcultice: null
+federated_learning:
+  filename: federated_learning.md
+  members: !!set
+    beken: null
+    friya: null
+    shoque: null
 foodprices:
   filename: foodprices.md
   members: !!set {}

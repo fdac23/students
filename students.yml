@@ -203,6 +203,7 @@ beken:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCrIme9YC6P208C1GlLmLtlpjIzUv6lHhZnKHsp+K/FsTcbydJfgImXDpHGGYOBbFhiQ93jSaP4zmzzssnaoOUCiGfFWuN9dSZ5sWuvu+nGvXXBUroykiKJE9FNuqZVrhBv04ht8Yz2eZYcK9plueRwVpdbDHVJXBZTL8loW5ngpf+e+NrDrdwKs3h6M0BmOjSHnOfNVbeQxbSLPWbxNHYzNm1DmuxkBM0418rDMgQVDpdxXP0Ny5rpMZS1ay9AvEJztZq4wStwT8rZCr619Vec9iW+w0FVnJ2utElOTUUgQ3v6Np61EbgbGWyaULqT2ufNDIsb1MRGucJwUNtwRHmfENXhBuif9eFsWs/1qF0lrguK8H0VyB1GZTSP7gT55B4pE0LghgNrnFtAGlw5eHe2YEuqTdew+0/j2Mjy0r6YYd2cEc5TxDujgITvOu7zncpLZHpkAI7nQ0UPGKdahjbOdBeJlVeSfnEFomsbYk7F2dVxyH0bNfxnCu3WidBE6hU=
   lastname: Eken
   port: 7737
+  team: federated_learning
 bgullet1:
   container:
     name: fdac22_bgullet1
@@ -509,6 +510,7 @@ friya:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBDJqV6reLy314HcvCB1TJc/+aF7o1k8t4sGPkdcPrdA
   lastname: Riya
   port: 7769
+  team: federated_learning
 gkirk:
   container:
     name: fdac22_gkirk
@@ -1039,6 +1041,7 @@ shoque:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID0xzhJht6wKupd/SE9tnA21J51unw9v0qkNzUNdwjh9
   lastname: Hoque
   port: 7777
+  team: federated_learning
 sjohn248:
   container:
     name: fdac22_sjohn248

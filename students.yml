@@ -192,6 +192,7 @@ bbutle11:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOZCCeVzzZqhdRz1AqUJ5cgdSjnVN8QjeB2qOtHsz/4K
   lastname: Butler
   port: 7785
+  team: travel__recommendations
 beken:
   container:
     name: fdac22_beken
@@ -444,6 +445,7 @@ dseals3:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDXn/9eBP83JxDpHU3no2s7to9KbJ5QwFygDwZacv6D+DCVnpAJ7jKEjgIuJEC83vFtKeFiflNb2njUfwAcyQLgUIlr2yPgvI+8zpjeJk/Tz9Czqex1+3zNx4SPTXFdvJR9TnIMVymCRhShloBgPomdhE0YJP2TN1tnDRFjhhcJZdw3qiP52Co+nDsGMzPuh5kEQ63LFm2RmjErSbXtMclqFInHxD4dTFaws5Y56/MxmfOVKk6qWJJi0M7Hd/BcwJIblr71C35XXtA8GCl8meF8uLILycj97SdWK056n9bh7P0iN5cO5Lx1teObRaNEoFr8BiopxIfvPDYZ5CAOkWX72eWXFhzCGxSk8acFKh0ED2wvK0y+zovxykh7nyvwS0u222iGu38FkCZzLXWuUdZE6HuywAovqDo3Fs1rAHM5HCOFnIZ9OvpGdpFni01Y1t9jbGwBPUc1hv3IjvbRj4i+dN4WDNUD7dTomefB1Ky8XYLehai3M47fN/DRjmabxLk=
   lastname: Seals
   port: 7755
+  team: travel__recommendations
 dwhite75:
   container:
     name: fdac22_dwhite75
@@ -887,6 +889,7 @@ oameli:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOhr9ULjQUua1pU4TVOq9yo+rYGLXx1p1xQ36gPzCtIT
   lastname: Ameli
   port: 7793
+  team: travel__recommendations
 pattle:
   container:
     name: fdac22_pattle
@@ -1150,6 +1153,7 @@ tkhan7:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPH8PDqW8hzfpN+uGDAc/nPnBVuk4pBuiYalGW13jt+H
   lastname: Khan
   port: 7748
+  team: travel__recommendations
 tneuefei:
   container:
     name: fdac22_tneuefei

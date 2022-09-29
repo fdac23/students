@@ -840,6 +840,7 @@ nbergman:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDUGt7oEhOfAk3SS06ujkzp0YIV+X2xx2bw/9cBmajKp
   lastname: Bergman
   port: 7808
+  team: Ages-and-Attitudes-Towards-Terror
 nmize1:
   container:
     name: fdac22_nmize1
@@ -1281,6 +1282,7 @@ zhayes2:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHDqPK6hmr97IFWh0I3F0uTRwI3121xglioGVtuNFUJB
   lastname: Hayes
   port: 7799
+  team: DDOS_Activity_Analysis
 zlim2:
   container:
     name: fdac22_zlim2

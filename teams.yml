@@ -1,6 +1,7 @@
 Ages-and-Attitudes-Towards-Terror:
   filename: Ages-and-Attitudes-Towards-Terror.md
   members: !!set
+    nbergman: null
     smishr11: null
     tharshba: null
 CameraLensAnalysis:
@@ -15,6 +16,7 @@ DDOS_Activity_Analysis:
   members: !!set
     jrodeghi: null
     whannon1: null
+    zhayes2: null
 GenrePopularity:
   filename: GenrePopularity.md
   members: !!set

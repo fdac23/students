@@ -1199,6 +1199,7 @@ vbhupati:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCB737PS2zMBLgzQ59MBEOLomjxktC89meHEhjaxG73FKzda3xGmhQ35vrarLKN7F/wLeFPxgMWfDH96hj51iJ477PZv+2UJAsxhkVL1LW7IhDggzSCcbb70QfNYZOEpL0Rex/7E7d7+PfInL0eidyuFOLJdlX1ugiTbu34K1JsT+DcHJH2kui+t7SzGJCbz+3eEuVj8VxPn+L3aU2gfNc4zaCgDyOoa7PevjJJCsxr97XwuIQwvAkf33W8O/OjorbnznRJQy1Ki+bJdJAboVr6FTg6IYXysxX5Laf/cqXtffmIsuRnQEtk5ecVZb5YrAxuMg28UlJyQKWEhY3GLWF1
   lastname: Bhupatiraju
   port: 7795
+  team: terrainwarning
 vhanset:
   container:
     name: fdac22_vhanset

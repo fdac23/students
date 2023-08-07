@@ -1,1 +1,0 @@
-Hello my name is Benjamin Schwartz. I am a senior majoring in computer science. In my free time I love to rock climb there are plenty of beautiful places all around Knoxvill to climb. My favoite place is called the Obed Wild Scenic River about one hour west of Knoxville. I am excited to learn more about collecting data and presenting it in useful and organized ways. 

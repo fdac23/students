@@ -1,1 +1,0 @@
-I am Tyler Cultice and I am a Ph.D. candidate at the EECS department. I previously came from University of Kentucky, College of Computer Engineering with Professor Dr. Himanshu Thapliyal. I am a GRFP fellow focusing on cybersecurity and quantum computing security.

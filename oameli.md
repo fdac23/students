@@ -1,1 +1,0 @@
-Hi! I am Shelah Ameli, a first year Master's student in Computer Science. I worked as a Software Engineer at Deloitte for about 2 years. I am interested in AI and Machine Learning, which is why I took this class. I enjoy reading novels and exercising in my spare time. I am excited to learn and get all this course can offer me.

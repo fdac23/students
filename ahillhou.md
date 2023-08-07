@@ -1,1 +1,0 @@
-My name is Andy Hillhouse, I play video games and do the occasional biking. With this course, I hope to learn effecient methods for webscraping, data collection, and how to display data in a meaningful manner. I think it will give me direction for what I want to do after college.

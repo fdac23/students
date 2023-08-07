@@ -1,1 +1,0 @@
-I am Rhema Linder, an additional instructor for this class. At UTK, I am a lecturer and course developer. My PhD in Computer Science is from Texas A&M in 2019. My specialization is in HCI and mixed-methods research. I study creativity, curation, data science, and want to create novel spaces for learning and fun. My skills and interests are esoteric.

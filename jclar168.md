@@ -1,1 +1,0 @@
-I am Joseph Clark. I am a PhD candidate in Computer Engineering at the University of Tennessee, Knoxville under Dr. Himanshu Thapiyal. I received my bachelor's degree in Computer Engineering from the University of Kentucky. My research interests include quantum computing and algorithm design.

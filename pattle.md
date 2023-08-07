@@ -1,1 +1,0 @@
-I am Paul Attle and I'm in my senior year of CS. I am taking this class because a friend recommended it and it looked interesting. My hobbies are motorcycles, movies, and video games. My interest in this class is learning more about how to collect data and what kind of information can be interpreted from the collection.

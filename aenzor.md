@@ -1,1 +1,0 @@
-I am Alexander Enzor. I am a senior in computer science. I worked on a data science project one summer where we collected trucking routes and their pricing information. I enjoy working on websites and digital design. I am looking forward to this course to learn more about data science. 

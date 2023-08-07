@@ -1,1 +1,0 @@
-I am Lily Sharpe, and I am a senior in Computer Science. Most of the coding I've done has been in the languages used at UT (primarily C/C++ but also assembly, Java, and Python), but this summer I also learned to program in JavaScript, HTML, CSS, and a little SQL. One of my main interests is instrumental music, especially classical and jazz.

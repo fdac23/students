@@ -1,1 +1,0 @@
-I am Nick Mize. I'm a senior in computer science. My interests include reading, video games, and modding electronics, which usually overlaps with gaming. I'm comfortable with C, C++, java and python. I'm taking this class to explore different fields of computer science.

@@ -1,1 +1,0 @@
-Hey, I am Brady McLaughlin and I am a senior studying computer science. I am the president of the UTK Esports club on campus and have a strong interest in analytical data surrounding games and esports. I'm looking forward to this course!

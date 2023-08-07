@@ -1,2 +1,0 @@
-Hi, my name is Swasti Mishra. I've worked in a couple of different industries/teams now, but my favorite so far has been Support Operations. What can I say- I like writing documentation!!
-Further, I have a lot of diverse interests, but right now I'm particularly interested in Computer Graphics and Linguistics. I'm hoping that through this course, I'll learn a little more about scouring language data or something like that, lol.

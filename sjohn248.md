@@ -1,1 +1,0 @@
-Hello my name is Seth Johnson and I am a senior Computer Science student. I am mostly interested in writing software and cybersecurity, however, I have an interest for many topics in the computer science field. 

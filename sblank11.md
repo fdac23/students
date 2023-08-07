@@ -1,1 +1,0 @@
-Hello my name is Susan Blankenship.  I am a senior undergrad in computer science participating in the 5 year masters program.  In my free time I make 3d models and dabble in unity game dev. I am taking this course to learn new skills to become more well rounded.  

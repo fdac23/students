@@ -1,1 +1,0 @@
-I am Charlotte Beckford and I am a second year graduate students in the Applied Mathematics PhD program. My research interests are Mathematical Ecology. In this course, I'm hoping to practice and improve my coding as well as improve my familiarity with Git.

@@ -1,1 +1,0 @@
-I am Lohith Gangula, and I am a senior at UTK majoring in Computer Science. I like coding and data analysis; specifically I like analyzing video game and sport data. I would like to create some sort of machine learning project focused on a sport, and am open to working with any sport.

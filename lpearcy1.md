@@ -1,1 +1,0 @@
-I am Leigh Pearcy and I am a fifth year PhD studetn in the math department. I am pursuing a concurrent master's degree in statistics. My research is in mathematical biology, with a focus on substance use epidemiology. I am generally interested in infectious disease modeling and data related to public health. I like knitting, boxing, and scuba diving.

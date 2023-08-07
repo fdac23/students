@@ -1,1 +1,0 @@
-I am Christopher Lee and I am a senior in computer science, minoring in cyber security and machine learning. I am interested in software development and some of my hobbies are bowling, frisbee golfing, and a few games. I hope be able to apply what I learn in this class to some of my hobbies in the future.

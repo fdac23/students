@@ -4,7 +4,7 @@ Q1: I am finding some of the directions in class very confusing, and
 I think it is because I do not understand the reasoning being some
 of the steps. 
 
-A: Please look at https://github.com/fdac22/lectures/blob/master/tools.pdf
+A: Please look at https://github.com/fdac23/lectures/blob/master/tools.pdf
 Some rationale is provided there
 
 Q2: Could you explain in more detail the overall objective of
@@ -61,14 +61,14 @@ You can check what keys your SSH agent has registered with `ssh-add -l`
 Here's an example: (replace my values with yours)
 
 ```ssh
-Host fdac22
+Host fdac23
   hostname da2.eecs.utk.edu
   Port 7701
   user bklein3
   LocalForward 8000 localhost:8888
   ForwardAgent yes
 ```
-Then you can simply type `ssh fdac22`, no extra options needed
+Then you can simply type `ssh fdac23`, no extra options needed
 
 ## **MacOS: No SSH keys are being forwarded?**
 You need to make sure you have an SSH agent running: <https://docs.github.com/en/enterprise-cloud@latest/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#adding-your-ssh-key-to-the-ssh-agent>

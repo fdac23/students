@@ -10,7 +10,7 @@ Please provide at least one sentence on your background and one sentence on your
 Please make sure there is a sentence I am Firstname Lastname' in your `utknetid.md`. Your utknetid is 
 the part of your email address that precedes "@vols.utk.edu".
 
-Follow the remaining instructions in [initial tasks](https://github.com/fdac22/news/blob/master/Preliminary.md)
+Follow the remaining instructions in [initial tasks](https://github.com/fdac23/news/blob/master/Preliminary.md)
 
 
 Information on forming teams

@@ -23,22 +23,24 @@ jobs:
         uses: tj-actions/changed-files@v37
         with:
           files_yaml: |
-            all:
+            everything:
               - '*'
             netids:
               - '[a-z]*.md'
 
       - name: List all changed files
         run: |
-          echo ${{ steps.changed-files.outputs }}
+          for file in ${{ steps.changed-files.outputs.everything_all_changed_files }}; do
+            echo "changed: $file"
+          done
 
       - name: Assert only one file was changed.
         # NOTE: Ensure all outputs are prefixed by the same key used above e.g. `test_(...)` | `doc_(...)` | `src_(...)` when trying to access the `any_changed` output.
-        if: steps.changed-files.outputs.all_changed_files_count != 1
+        if: steps.changed-files.outputs.everything_all_changed_files_count != 1
         run: |
           echo "::error::More than one file was changed." && exit 1
 
       - name: Assert file changed was a netid file.
-        if: steps.changed-files.outputs.netids_changed_files_count != 1
+        if: steps.changed-files.outputs.netids_all_changed_files_count != 1
         run: |
           echo "::error::Changed a file other than your netid markdown." && exit 1

@@ -23,4 +23,3 @@ with roboyml.open(studentfile) as students:
     if "github" not in students[netid]:
         students[netid]["github"] = args.github_login
 
-

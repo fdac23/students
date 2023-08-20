@@ -47,7 +47,9 @@ jobs:
 
       - name: Verify file using scripts
         run: |
+          python -m scripts.settings
           python -m scripts.student-names-from-bios
+          python -m scripts.assign-docker-ports && python -m scripts.make-ports-md > Ports.md
 
       - name: Show computed changes from script runs
         run: |

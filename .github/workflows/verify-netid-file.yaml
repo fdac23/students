@@ -23,7 +23,7 @@ jobs:
         uses: tj-actions/changed-files@v37
         with:
           files_yaml: |
-            everything:
+            all:
               - '*'
             netids:
               - '[a-z]*.md'

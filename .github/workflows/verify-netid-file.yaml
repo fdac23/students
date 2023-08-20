@@ -23,6 +23,8 @@ jobs:
         uses: tj-actions/changed-files@v37
         with:
           files_yaml: |
+            everything:
+              - '*'
             netids:
               - '[a-z]*.md'
 
@@ -37,7 +39,7 @@ jobs:
         if: steps.changed-files.outputs.all_changed_files_count != 1
         run: |
           echo "::error::More than one file was changed." && exit 1
-      
+
       - name: Assert file changed was a netid file.
         if: steps.changed-files.outputs.netids_changed_files_count != 1
         run: |

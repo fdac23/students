@@ -7,7 +7,7 @@ Please provide at least one sentence on your background and one sentence on your
 > and other industry labs for almost 30 years. I like coding and data analysis and, more generally, measuring 
 > things to understand them and would like to share my passion with you teaching this course. 
 
-Please make sure there is a sentence I am Firstname Lastname' in your `utknetid.md`. Your utknetid is 
+Please make sure you start with a sentence like 'I am Firstname Lastname' in your `utknetid.md`. Your utknetid is 
 the part of your email address that precedes "@vols.utk.edu".
 
 Follow the remaining instructions in [initial tasks](https://github.com/fdac23/news/blob/master/Preliminary.md)

@@ -48,3 +48,7 @@ jobs:
       - name: Verify file using scripts
         run: |
           python -m scripts.student-names-from-bios
+
+      - name: Show computed changes from script runs
+        run: |
+          git diff --patch

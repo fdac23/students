@@ -3,8 +3,8 @@ import re
 import os
 from pathlib import Path
 
-import roboyml
-from settings import *
+from . import roboyml
+from .settings import *
 
 find_name_re = r"^ *((Hi|Hey)!?,? |Hello[\., ]?(there)?,? ?)?(I'm |I am |[Mm]y name is )(?P<firstname>(([A-Z]\w+)[ ]?)+?)[ ](?P<lastname>[A-Z][\w\-]+)"
 

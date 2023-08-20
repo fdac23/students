@@ -4,8 +4,8 @@ import os
 from pathlib import Path
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 
-import roboyml
-from settings import *
+from . import roboyml
+from .settings import *
 
 env = Environment(
     loader=FileSystemLoader("templates"),

@@ -10,6 +10,8 @@ find_name_re = r"^ *((Hi|Hey)!?,? |Hello[\., ]?(there)?,? ?)?(I'm |I am |[Mm]y n
 
 with roboyml.open(studentfile) as students:
   for netid, student in students.items():
+    if "firstname" in students[netid] and "lastname" in students[netid]:
+      print(f"Already has name set, skipping: {netid}: {firstname} {lastname}")
     bio = Path(f"{netid}.md")
     if not bio.exists():
       print(f"ERROR: {netid}.md does not exist")

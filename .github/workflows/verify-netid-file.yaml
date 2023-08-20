@@ -30,9 +30,7 @@ jobs:
 
       - name: List all changed files
         run: |
-          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
-            echo "$file was changed"
-          done
+          echo ${{ steps.changed-files.outputs }}
 
       - name: Assert only one file was changed.
         # NOTE: Ensure all outputs are prefixed by the same key used above e.g. `test_(...)` | `doc_(...)` | `src_(...)` when trying to access the `any_changed` output.

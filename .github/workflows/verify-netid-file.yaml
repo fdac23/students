@@ -1,4 +1,4 @@
-name: CI
+name: Verify new student PRs
 
 permissions:
   actions: write

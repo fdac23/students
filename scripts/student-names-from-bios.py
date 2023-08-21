@@ -12,6 +12,7 @@ with roboyml.open(studentfile) as students:
   for netid, student in students.items():
     if "firstname" in students[netid] and "lastname" in students[netid]:
         print(f"Already has name set, skipping: {netid}: {students[netid]['firstname']} {students[netid]['lastname']}")
+        continue
     bio = Path(f"{netid}.md")
     if not bio.exists():
       raise FileNotFoundError(f"ERROR: {netid}.md does not exist")

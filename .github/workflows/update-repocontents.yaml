@@ -40,7 +40,8 @@ jobs:
         id: changed-files
         uses: tj-actions/changed-files@v37
         with:
-          base_sha: ${{ github.event.pull_request.head.sha }}
+          base_sha: ${{ github.event.pull_request.base.sha }}
+          since_last_remote_commit: true
           files_yaml: |
             everything:
               - '*'

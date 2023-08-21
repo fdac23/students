@@ -24,6 +24,7 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 20
+          ref: "${{ github.event.pull_request.merge_commit_sha }}"
 
       #- uses: jwalton/gh-find-current-pr@v1
       #  id: prfinder
@@ -59,6 +60,9 @@ jobs:
         if: steps.changed-files.outputs.netids_all_changed_files_count != 1
         run: |
           echo "::error::Changed a file other than your netid markdown." && exit 1
+
+      # SECURITY NOTE: don't run any in-repo scripts before this, due to checkout of remote code
+      # The above tests ensure only the markdown file was changed.
 
       - name: Verify file using scripts
         run: |

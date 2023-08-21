@@ -1,9 +1,9 @@
-name: CI
+name: After-merge student index update
 
 permissions:
   actions: write
   checks: write
-  contents: read
+  contents: write
   pull-requests: write
   statuses: write
 
@@ -15,11 +15,14 @@ on:
       - main
     paths:
       - '*.md'
+    types:
+      - closed
 
 jobs:
-  changed_only_netid:
+  if_merged:
     runs-on: ubuntu-latest
-    name: Test netid file
+    name: Update indexes on merge
+    if: github.event.pull_request.merged == true
     steps:
       - uses: actions/checkout@v3
         with:
@@ -60,7 +63,7 @@ jobs:
         run: |
           echo "::error::Changed a file other than your netid markdown." && exit 1
 
-      - name: Verify file using scripts
+      - name: Verify script settings
         run: |
           python -m scripts.settings
 
@@ -70,13 +73,14 @@ jobs:
 
       - name: Run scripts to update files
         run: |
+          python -m scripts.assign-docker-ports && python -m scripts.make-ports-md > Ports.md
           python -m scripts.student-names-from-bios
           python -m scripts.make-NetID2GHID > NetID2GHID.md
 
       - name: Show computed changes from script runs
         run: |
-          echo "## Change preview" >> FDAC_STUDENT_PR_CHANGES.comment
-          echo "Make sure your name and username are correct!" >> FDAC_STUDENT_PR_CHANGES.comment
+          echo "## Changes made" >> FDAC_STUDENT_PR_CHANGES.comment
+          echo "These changes are being committed:" >> FDAC_STUDENT_PR_CHANGES.comment
           echo "" >> FDAC_STUDENT_PR_CHANGES.comment
           echo '```patch' >> FDAC_STUDENT_PR_CHANGES.comment
           git diff --patch | tee -a FDAC_STUDENT_PR_CHANGES.comment
@@ -85,5 +89,10 @@ jobs:
 
       - uses: marocchino/sticky-pull-request-comment@v2
         with:
-          header: newstudent
+          header: newstudent-committed
           path: FDAC_STUDENT_PR_CHANGES.comment
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update student files after merge"
+          file_pattern: '*.md *.yml *.yaml'

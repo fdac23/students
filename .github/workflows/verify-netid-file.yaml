@@ -24,6 +24,8 @@ jobs:
       - run: |
           echo "pr merge_commit_sha: ${{ github.event.pull_request.merge_commit_sha }}"
           echo "pr_target merge_commit_sha: ${{ github.event.pull_request_target.merge_commit_sha }}"
+          echo "pr event data: ${{ toJson(github.event.pull_request) }}"
+          echo "pr_target event data: ${{ toJson(github.event.pull_request_target) }}"
 
       - uses: actions/checkout@v3
         with:

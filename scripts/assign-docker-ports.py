@@ -3,8 +3,8 @@ import re
 import os
 from pathlib import Path
 
-import roboyml
-from settings import *
+from . import roboyml
+from .settings import *
 
 # https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers
 # only game server stuff runs between 7700-7830, so this range should be safe

@@ -1,0 +1,101 @@
+name: After-merge student index update
+
+permissions:
+  actions: write
+  checks: write
+  contents: write
+  pull-requests: write
+  statuses: write
+
+on:
+  # Event `pull_request`: Compare the last commit of the main branch or last remote commit of the PR branch -> to the current commit of a PR branch.
+  pull_request:
+    branches:
+      - master
+      - main
+    paths:
+      - '*.md'
+    types:
+      - closed
+
+jobs:
+  if_merged:
+    runs-on: ubuntu-latest
+    name: Update indexes on merge
+    if: github.event.pull_request.merged == true
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 20
+
+      #- uses: jwalton/gh-find-current-pr@v1
+      #  id: prfinder
+
+      #- run: echo "Current PR is ${PR}"
+      #  #if: success() && steps.findPr.outputs.number
+      #  env:
+      #    PR_NUMBER: ${{ steps.findPr.outputs.pr }}
+
+      - name: Get the files that were changed.
+        id: changed-files
+        uses: tj-actions/changed-files@v37
+        with:
+          base_sha: ${{ github.event.pull_request.base.sha }}
+          files_yaml: |
+            everything:
+              - '*'
+            netids:
+              - '[a-z]*.md'
+
+      - name: List all changed files
+        run: |
+          for file in ${{ steps.changed-files.outputs.everything_all_changed_files }}; do
+            echo "changed: $file"
+          done
+
+      - name: Assert only one file was changed.
+        # NOTE: Ensure all outputs are prefixed by the same key used above e.g. `test_(...)` | `doc_(...)` | `src_(...)` when trying to access the `any_changed` output.
+        if: steps.changed-files.outputs.everything_all_changed_files_count != 1
+        run: |
+          echo "::error::More than one file was changed." && exit 1
+
+      - name: Assert file changed was a netid file.
+        if: steps.changed-files.outputs.netids_all_changed_files_count != 1
+        run: |
+          echo "::error::Changed a file other than your netid markdown." && exit 1
+
+      - name: Verify script settings
+        run: |
+          python -m scripts.settings
+
+      - name: Run script with netid and GH name
+        run: |
+          python -m scripts.pr_actions_handler ${{ github.event.pull_request.user.login }} ${{ steps.changed-files.outputs.netids_all_changed_and_modified_files }}
+
+      - name: Run scripts to update files
+        run: |
+          python -m scripts.assign-docker-ports && python -m scripts.make-ports-md > Ports.md
+          python -m scripts.student-names-from-bios
+          python -m scripts.make-NetID2GHID > NetID2GHID.md
+
+      - name: Show computed changes from script runs
+        run: |
+          echo "## Changes made" >> FDAC_STUDENT_PR_CHANGES.comment
+          echo "These changes are being committed:" >> FDAC_STUDENT_PR_CHANGES.comment
+          echo "" >> FDAC_STUDENT_PR_CHANGES.comment
+          echo '```patch' >> FDAC_STUDENT_PR_CHANGES.comment
+          git diff --patch | tee -a FDAC_STUDENT_PR_CHANGES.comment
+          echo '```' >> FDAC_STUDENT_PR_CHANGES.comment
+        id: gitdiff
+
+      - uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: newstudent-committed
+          path: FDAC_STUDENT_PR_CHANGES.comment
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Update student files after merge"
+          file_pattern: '*.md *.yml *.yaml'
+          skip_checkout: true
+          branch: ${{ github.base_ref }} # ensure it's committed to the base and not head

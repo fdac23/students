@@ -3,10 +3,10 @@ import re
 import os
 from pathlib import Path
 
-import roboyml
+from . import roboyml
 from github import Github
-from settings import *
-from gh_settings import *
+from .settings import *
+from .gh_settings import *
 
 merged_pulls = list(filter(lambda pull: pull.merged, class_repo.get_pulls(state="closed")))
 

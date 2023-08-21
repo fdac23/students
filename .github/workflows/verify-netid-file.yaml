@@ -72,22 +72,19 @@ jobs:
         run: |
           python -m scripts.student-names-from-bios
           python -m scripts.make-NetID2GHID > NetID2GHID.md
-          #python -m scripts.assign-docker-ports && python -m scripts.make-ports-md > Ports.md
 
       - name: Show computed changes from script runs
         run: |
-          echo "Change preview" >> FDAC_STUDENT_PR_CHANGES.patch
+          echo "## Change preview" >> FDAC_STUDENT_PR_CHANGES.patch
+          echo "Make sure your name and username are correct!" >> FDAC_STUDENT_PR_CHANGES.patch
           echo "" >> FDAC_STUDENT_PR_CHANGES.patch
           echo '```patch' >> FDAC_STUDENT_PR_CHANGES.patch
           git diff --patch | tee -a FDAC_STUDENT_PR_CHANGES.patch
           echo '```' >> FDAC_STUDENT_PR_CHANGES.patch
-        id: gifdiff
+        id: gitdiff
 
       - uses: marocchino/sticky-pull-request-comment@v2
         with:
           header: newstudent
           path: FDAC_STUDENT_PR_CHANGES.patch
 
-#  if_merged:
-#    if: github.event.pull_request.merged == true
-#    runs-on: ubuntu-latest

@@ -85,8 +85,6 @@ jobs:
             ${{ steps.gitdiff.outputs.out }}
             ```
 
-  if_merged:
-    if: github.event.pull_request.merged == true
-    runs-on: ubuntu-latest
-
-
+#  if_merged:
+#    if: github.event.pull_request.merged == true
+#    runs-on: ubuntu-latest

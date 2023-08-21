@@ -1,5 +1,8 @@
 name: CI
 
+permissions:
+  pull-requests: write
+
 on:
   # Event `pull_request`: Compare the last commit of the main branch or last remote commit of the PR branch -> to the current commit of a PR branch.
   pull_request:

@@ -6,6 +6,8 @@ on:
     branches:
       - master
       - main
+    paths:
+      - '/*.md'
 
 jobs:
   changed_only_netid:
@@ -15,6 +17,14 @@ jobs:
       - uses: actions/checkout@v3
         with:
           fetch-depth: 20
+
+      #- uses: jwalton/gh-find-current-pr@v1
+      #  id: prfinder
+
+      #- run: echo "Your PR is ${PR}"
+      #  if: success() && steps.findPr.outputs.number
+      #  env:
+      #    PR_NUMBER: ${{ steps.findPr.outputs.pr }}
 
       - name: Get the files that were changed.
         id: changed-files
@@ -54,9 +64,26 @@ jobs:
       - name: Run scripts to update files
         run: |
           python -m scripts.student-names-from-bios
-          python -m scripts.assign-docker-ports && python -m scripts.make-ports-md > Ports.md
           python -m scripts.make-NetID2GHID > NetID2GHID.md
+          #python -m scripts.assign-docker-ports && python -m scripts.make-ports-md > Ports.md
 
       - name: Show computed changes from script runs
         run: |
-          git diff --patch | tee GH_ACTIONS_NEWSTUDENT.patch
+          git diff --patch | tee -a "$GITHUB_OUTPUT"
+        id: gifdiff
+
+      - uses: marocchino/sticky-pull-request-comment@v2
+        with:
+          header: newstudent
+          message: |
+            Change preview
+
+            ```patch
+            ${{ steps.gitdiff.outputs.out }}
+            ```
+
+  if_merged:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+
+

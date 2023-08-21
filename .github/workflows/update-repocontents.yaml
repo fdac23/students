@@ -97,3 +97,4 @@ jobs:
         with:
           commit_message: "Update student files after merge"
           file_pattern: '*.md *.yml *.yaml'
+          skip_checkout: true

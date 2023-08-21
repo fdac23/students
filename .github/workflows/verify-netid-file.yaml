@@ -76,18 +76,17 @@ jobs:
 
       - name: Show computed changes from script runs
         run: |
-          git diff --patch | tee -a "$GITHUB_OUTPUT"
+          echo "Change preview" >> FDAC_STUDENT_PR_CHANGES.patch
+          echo "" >> FDAC_STUDENT_PR_CHANGES.patch
+          echo '```patch' >> FDAC_STUDENT_PR_CHANGES.patch
+          git diff --patch | tee -a FDAC_STUDENT_PR_CHANGES.patch
+          echo '```' >> FDAC_STUDENT_PR_CHANGES.patch
         id: gifdiff
 
       - uses: marocchino/sticky-pull-request-comment@v2
         with:
           header: newstudent
-          message: |
-            Change preview
-
-            ```patch
-            ${{ steps.gitdiff.outputs.out }}
-            ```
+          path: FDAC_STUDENT_PR_CHANGES.patch
 
 #  if_merged:
 #    if: github.event.pull_request.merged == true

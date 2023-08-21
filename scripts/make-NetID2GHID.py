@@ -16,5 +16,5 @@ template = env.get_template("NetID2GHID.md")
 
 with roboyml.open(studentfile) as students:
   print(template.render(students={
-    k: v for k, v in sorted(students.items(), key=lambda t: t[1]["port"])
+    k: v for k, v in sorted(students.items())
   }))

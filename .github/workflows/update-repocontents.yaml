@@ -98,3 +98,4 @@ jobs:
           commit_message: "Update student files after merge"
           file_pattern: '*.md *.yml *.yaml'
           skip_checkout: true
+          branch: ${{ github.base_ref }} # ensure it's committed to the base and not head

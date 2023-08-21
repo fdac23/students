@@ -3,3 +3,8 @@ audris:
   github: audrism
   lastname: Mockus
   port: 7700
+bklein3:
+  firstname: Ben
+  github: robobenklein
+  lastname: Klein
+  port: 7701

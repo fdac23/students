@@ -21,10 +21,17 @@ jobs:
     runs-on: ubuntu-latest
     name: Test netid file
     steps:
+      - run: |
+          echo "merge_commit_sha: ${{ github.event.pull_request.merge_commit_sha }}"
+
       - uses: actions/checkout@v3
         with:
           fetch-depth: 20
           ref: "${{ github.event.pull_request.merge_commit_sha }}"
+
+      - run: |
+          git show HEAD
+          ls -lah
 
       #- uses: jwalton/gh-find-current-pr@v1
       #  id: prfinder

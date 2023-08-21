@@ -14,8 +14,7 @@ with roboyml.open(studentfile) as students:
         print(f"Already has name set, skipping: {netid}: {students[netid]['firstname']} {students[netid]['lastname']}")
     bio = Path(f"{netid}.md")
     if not bio.exists():
-      print(f"ERROR: {netid}.md does not exist")
-      continue
+      raise FileNotFoundError(f"ERROR: {netid}.md does not exist")
     with bio.open('r') as f:
       bio_text = f.read()
     r_m = re.search(find_name_re, bio_text, flags=re.MULTILINE)

@@ -1,0 +1,1 @@
+My name is Andrew Rutter, I am a senior majoring in Computer Science. I took this class because it seems very unique within the UTK CS cirriculum. I am hoping to enter into the 5 year BS/MS program, so I am taking the 545 version of this class. Looking forward to this class!

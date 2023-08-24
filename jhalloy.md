@@ -1,0 +1,1 @@
+Hello, I am Julian Halloy and I am a senior computer science student. I have worked at Dynetics and Mclaurin Aerospace as a Software Engineering Intern. I like software engineering and have experience with software testing. I am interested in aerospace applications of computer science.

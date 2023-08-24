@@ -9,5 +9,6 @@
 |[@jkim172vols](https://github.com/jkim172vols)|jkim172|Jihun Kim|
 |[@Jxk0be](https://github.com/Jxk0be)|jshoffn3|Jake Shoffner|
 |[@manasIO](https://github.com/manasIO)|mtiwari|Manas Tiwari|
+|[@shervinshir](https://github.com/shervinshir)|sshiran1|Shervin Shirani|
 |[@tmvllrrl](https://github.com/tmvllrrl)|tvillarr|Michael Villarreal|
 

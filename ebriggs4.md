@@ -1,0 +1,1 @@
+My name is Erin Briggs and I am a senior computer science major with a cybersecurity minor. This past summer, I worked at Mohawk Industries designing an internal chatbot for the company under the Master Data Management team. I am very interested in cybersecurity and software development. I am excited to learn about digital archeology and grow within this course this semester.

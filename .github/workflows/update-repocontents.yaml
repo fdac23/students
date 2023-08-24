@@ -21,6 +21,7 @@ on:
 jobs:
   if_merged:
     runs-on: ubuntu-latest
+    concurrency: global
     name: Update indexes on merge
     if: github.event.pull_request.merged == true
     steps:

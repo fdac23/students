@@ -19,6 +19,7 @@ on:
 jobs:
   changed_only_netid:
     runs-on: ubuntu-latest
+    concurrency: global
     name: Test netid file
     steps:
       - run: |

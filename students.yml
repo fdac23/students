@@ -18,6 +18,11 @@ amistry2:
   github: ankitm28
   lastname: Mistry
   port: 7724
+andlrutt:
+  firstname: Andrew
+  github: andlrutt
+  lastname: Rutter
+  port: 7737
 audris:
   firstname: Audris
   github: audrism

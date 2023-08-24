@@ -138,6 +138,11 @@ san5:
   github: seoyoung16
   lastname: An
   port: 7725
+sjeroute:
+  firstname: Seth
+  github: sethjeroutek
+  lastname: Jeroutek
+  port: 7732
 skerzel:
   firstname: Sean
   github: skerzel

@@ -1,0 +1,1 @@
+Hi, my name is Zachary Perry. I am a senior majoring in computer science here at UT. I really enjoy backend programming, specifically creating APIs and different microservices. I am excited to take this class, as I have no idea what it is and love learning new things.

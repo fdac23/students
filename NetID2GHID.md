@@ -10,6 +10,7 @@
 |[@Jxk0be](https://github.com/Jxk0be)|jshoffn3|Jake Shoffner|
 |[@WindeezKC](https://github.com/WindeezKC)|kchrist|Kellan Christ|
 |[@manasIO](https://github.com/manasIO)|mtiwari|Manas Tiwari|
+|[@seanwilllaugh](https://github.com/seanwilllaugh)|slaughl2|Sean Laughlin|
 |[@shervinshir](https://github.com/shervinshir)|sshiran1|Shervin Shirani|
 |[@tmvllrrl](https://github.com/tmvllrrl)|tvillarr|Michael Villarreal|
 

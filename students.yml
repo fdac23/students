@@ -63,6 +63,11 @@ cheadri6:
   github: cheadri6
   lastname: Headrick
   port: 7738
+cshubert:
+  firstname: Clay
+  github: clayshubert
+  lastname: Shubert
+  port: 7765
 dwoun:
   firstname: DongJun
   github: djwoun

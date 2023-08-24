@@ -13,6 +13,7 @@
 |[@cfisher36](https://github.com/cfisher36)|cfishe36|Caleb Fisher|
 |[@cgraha37](https://github.com/cgraha37)|cgraha37|Christian Graham|
 |[@cheadri6](https://github.com/cheadri6)|cheadri6|Cory Headrick|
+|[@clayshubert](https://github.com/clayshubert)|cshubert|Clay Shubert|
 |[@djwoun](https://github.com/djwoun)|dwoun|DongJun Woun|
 |[@ebriggs4](https://github.com/ebriggs4)|ebriggs4|Erin Briggs|
 |[@ethanly333](https://github.com/ethanly333)|ely1|Ethan Ly|

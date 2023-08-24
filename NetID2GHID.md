@@ -42,6 +42,7 @@
 |[@WindeezKC](https://github.com/WindeezKC)|kchrist|Kellan Christ|
 |[@kcraddoc](https://github.com/kcraddoc)|kcraddoc|Kevin Craddock|
 |[@kpatel68](https://github.com/kpatel68)|kpatel68|Karan Patel|
+|[@lbower10](https://github.com/lbower10)|lbower10|Logan Bowers|
 |[@LoganOneal](https://github.com/LoganOneal)|loneal7|Logan Oneal|
 |[@Manan-dev](https://github.com/Manan-dev)|mpatel65|Manan Patel|
 |[@mpuryear99](https://github.com/mpuryear99)|mpuryea2|Matthew Puryear|

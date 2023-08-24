@@ -1,0 +1,1 @@
+I am Shervin Shirani and I am a senior at UT studying computer science and minoring in machine learning, entrepreneurship, and Heath IBEP . I have interned at several companies including Bridgestone, CGI, TVA, and ORNL. I enjoy coding, data analysis, and learning more about the numerous areas in computer science so I can have a broader knowledge base.

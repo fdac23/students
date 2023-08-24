@@ -10,6 +10,7 @@
 |[@Finli-Hill](https://github.com/Finli-Hill)|fhill5|Finli Hill|
 |[@hcurl](https://github.com/hcurl)|hcurl|Hayden Curl|
 |[@bolophil](https://github.com/bolophil)|hnguye48|Alex Nguyen|
+|[@jchen125](https://github.com/jchen125)|jchen125|Jiawei Chen|
 |[@jacob-hawkins](https://github.com/jacob-hawkins)|jhawki41|Jacob Hawkins|
 |[@jkim172vols](https://github.com/jkim172vols)|jkim172|Jihun Kim|
 |[@Jxk0be](https://github.com/Jxk0be)|jshoffn3|Jake Shoffner|

@@ -188,6 +188,11 @@ kchrist:
   github: WindeezKC
   lastname: Christ
   port: 7711
+kcraddoc:
+  firstname: Kevin
+  github: kcraddoc
+  lastname: Craddock
+  port: 7764
 kpatel68:
   firstname: Karan
   github: kpatel68

@@ -38,6 +38,7 @@
 |[@juliasteed](https://github.com/juliasteed)|jsteed|Julia Steed|
 |[@jovanyoshioka](https://github.com/jovanyoshioka)|jyoshiok|Jovi Yoshioka|
 |[@WindeezKC](https://github.com/WindeezKC)|kchrist|Kellan Christ|
+|[@kcraddoc](https://github.com/kcraddoc)|kcraddoc|Kevin Craddock|
 |[@kpatel68](https://github.com/kpatel68)|kpatel68|Karan Patel|
 |[@LoganOneal](https://github.com/LoganOneal)|loneal7|Logan Oneal|
 |[@Manan-dev](https://github.com/Manan-dev)|mpatel65|Manan Patel|

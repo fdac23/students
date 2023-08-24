@@ -1,0 +1,1 @@
+My name is Ryan Carnes and I am a undergraduate senior studying for my Bachelors of Computer Science at UTK. I plan on graduating in spring 2024. I enjoy coding in C++ but am also looking forward to using primarily python this semester.

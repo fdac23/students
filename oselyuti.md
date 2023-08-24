@@ -1,0 +1,2 @@
+My name is Oleksiy Selyutin but I go by Alex. I am an undergraduate senior studying Computer Science, planning to graduate in December of this year.
+I have not worked a lot with big data but I am interested in learning about data, processing it, and then using it for various purposes that may help businessess or individuals achieve their goals in a more efficient manner. I am also interested in Data Science and would like to get some academic exposure to it before I graduate.

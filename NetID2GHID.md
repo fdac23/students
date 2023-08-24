@@ -24,6 +24,7 @@
 |[@juliasteed](https://github.com/juliasteed)|jsteed|Julia Steed|
 |[@WindeezKC](https://github.com/WindeezKC)|kchrist|Kellan Christ|
 |[@kpatel68](https://github.com/kpatel68)|kpatel68|Karan Patel|
+|[@mpuryear99](https://github.com/mpuryear99)|mpuryea2|Matthew Puryear|
 |[@manasIO](https://github.com/manasIO)|mtiwari|Manas Tiwari|
 |[@ritoxyapher](https://github.com/ritoxyapher)|rlau|Ricky Lau|
 |[@seoyoung16](https://github.com/seoyoung16)|san5|Seoyoung An|

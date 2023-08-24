@@ -93,6 +93,11 @@ jskupien:
   github: jskupien24
   lastname: Skupien
   port: 7714
+jsteed:
+  firstname: Julia
+  github: juliasteed
+  lastname: Steed
+  port: 7727
 kchrist:
   firstname: Kellan
   github: WindeezKC

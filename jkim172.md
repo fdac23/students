@@ -1,0 +1,1 @@
+I am Jihun Kim and I am an undergraduate student majoring in Computer Science and minoring in Cybersecurity and Machine Learning. I was born in South Korea and came to Clarksville, TN, US in 2017. I love dealing with programming because I love making my creatures and feel happy to see them work well. Also, I love listening to music or playing games in my free time. 

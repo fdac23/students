@@ -13,6 +13,7 @@
 |[@hcurl](https://github.com/hcurl)|hcurl|Hayden Curl|
 |[@bolophil](https://github.com/bolophil)|hnguye48|Alex Nguyen|
 |[@NutsRobin](https://github.com/NutsRobin)|jbower31|Justin Bowers|
+|[@jbrouss2](https://github.com/jbrouss2)|jbrouss2|Juliana Broussard|
 |[@jchen125](https://github.com/jchen125)|jchen125|Jiawei Chen|
 |[@jacob-hawkins](https://github.com/jacob-hawkins)|jhawki41|Jacob Hawkins|
 |[@jhulen](https://github.com/jhulen)|jhulen|Jennifer Maranville|

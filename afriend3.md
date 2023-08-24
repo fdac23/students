@@ -1,0 +1,1 @@
+I am Drew Friend and I am a Computer Science senior. I am from just north of Cincinnati, Ohio. I am interested in and am persuing SNNs and neuromorphic technology, as well as robotics. I was reccomended this class by a past student and the data analytic topics specifically seem very useful to learn.

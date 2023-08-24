@@ -1,0 +1,1 @@
+I am Kevin Craddock, a 5th year undergraduate CS student due to a deal I made with the Air Force to extend my graduation by a year. I have limited experience in the topics covered in this class and love cybersecurity / Cyber Defense in the military.

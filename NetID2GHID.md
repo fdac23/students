@@ -54,6 +54,7 @@
 |[@sethjeroutek](https://github.com/sethjeroutek)|sjeroute|Seth Jeroutek|
 |[@skerzel](https://github.com/skerzel)|skerzel|Sean Kerzel|
 |[@seanwilllaugh](https://github.com/seanwilllaugh)|slaughl2|Sean Laughlin|
+|[@smistry4](https://github.com/smistry4)|smistry1|Shivam Mistry|
 |[@shervinshir](https://github.com/shervinshir)|sshiran1|Shervin Shirani|
 |[@tokey-tahmid](https://github.com/tokey-tahmid)|ttahmid|Tokey Tahmid|
 |[@tmvllrrl](https://github.com/tmvllrrl)|tvillarr|Michael Villarreal|

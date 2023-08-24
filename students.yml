@@ -178,6 +178,11 @@ nshoap:
   github: noahshoap
   lastname: Shoap
   port: 7741
+oselyuti:
+  firstname: Oleksiy
+  github: oselyuti
+  lastname: Selyutin
+  port: 7745
 rlau:
   firstname: Ricky
   github: ritoxyapher

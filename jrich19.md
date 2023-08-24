@@ -1,0 +1,1 @@
+I am Josephine Rich and I am a senior studying computer science. I have worked at Acato and Northrop Grumman. I currently am doing a part-time internship at McLaurin Aerospace. I like software development and robotics. I am specifcally interested in human-robot interactions.

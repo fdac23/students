@@ -143,6 +143,11 @@ jkim172:
   github: jkim172vols
   lastname: Kim
   port: 7707
+jmcelr10:
+  firstname: John
+  github: jmtn
+  lastname: McElroy
+  port: 7758
 jrich19:
   firstname: Josephine
   github: jrichcodes

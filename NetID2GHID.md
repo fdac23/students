@@ -44,6 +44,7 @@
 |[@manasIO](https://github.com/manasIO)|mtiwari|Manas Tiwari|
 |[@noahshoap](https://github.com/noahshoap)|nshoap|Noah Shoap|
 |[@oselyuti](https://github.com/oselyuti)|oselyuti|Oleksiy Selyutin|
+|[@Ryan-Carnes-01](https://github.com/Ryan-Carnes-01)|rcarnes|Ryan Carnes|
 |[@ritoxyapher](https://github.com/ritoxyapher)|rlau|Ricky Lau|
 |[@rrosenb4](https://github.com/rrosenb4)|rrosenb4|Matthew Rosenbalm|
 |[@seoyoung16](https://github.com/seoyoung16)|san5|Seoyoung An|

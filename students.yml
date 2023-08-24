@@ -218,6 +218,11 @@ oselyuti:
   github: oselyuti
   lastname: Selyutin
   port: 7745
+rcarnes:
+  firstname: Ryan
+  github: Ryan-Carnes-01
+  lastname: Carnes
+  port: 7759
 rlau:
   firstname: Ricky
   github: ritoxyapher

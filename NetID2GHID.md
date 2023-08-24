@@ -9,6 +9,7 @@
 |[@jacob-hawkins](https://github.com/jacob-hawkins)|jhawki41|Jacob Hawkins|
 |[@jkim172vols](https://github.com/jkim172vols)|jkim172|Jihun Kim|
 |[@Jxk0be](https://github.com/Jxk0be)|jshoffn3|Jake Shoffner|
+|[@jskupien24](https://github.com/jskupien24)|jskupien|Jack Skupien|
 |[@WindeezKC](https://github.com/WindeezKC)|kchrist|Kellan Christ|
 |[@manasIO](https://github.com/manasIO)|mtiwari|Manas Tiwari|
 |[@seanwilllaugh](https://github.com/seanwilllaugh)|slaughl2|Sean Laughlin|

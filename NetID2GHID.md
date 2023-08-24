@@ -43,5 +43,6 @@
 |[@skerzel](https://github.com/skerzel)|skerzel|Sean Kerzel|
 |[@seanwilllaugh](https://github.com/seanwilllaugh)|slaughl2|Sean Laughlin|
 |[@shervinshir](https://github.com/shervinshir)|sshiran1|Shervin Shirani|
+|[@tokey-tahmid](https://github.com/tokey-tahmid)|ttahmid|Tokey Tahmid|
 |[@tmvllrrl](https://github.com/tmvllrrl)|tvillarr|Michael Villarreal|
 

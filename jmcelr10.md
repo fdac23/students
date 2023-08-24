@@ -1,0 +1,1 @@
+I am John McElroy, and I'm a senior in Computer Science. The only thing that I know about data science is how to block tracking scripts on the Internet. I'm excited to find out about how data is handled and used in modern computing.

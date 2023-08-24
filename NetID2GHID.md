@@ -25,6 +25,7 @@
 |[@NutsRobin](https://github.com/NutsRobin)|jbower31|Justin Bowers|
 |[@jbrouss2](https://github.com/jbrouss2)|jbrouss2|Juliana Broussard|
 |[@jchen125](https://github.com/jchen125)|jchen125|Jiawei Chen|
+|[@jhalloy](https://github.com/jhalloy)|jhalloy|Julian Halloy|
 |[@jacob-hawkins](https://github.com/jacob-hawkins)|jhawki41|Jacob Hawkins|
 |[@jhulen](https://github.com/jhulen)|jhulen|Jennifer Maranville|
 |[@jkim172vols](https://github.com/jkim172vols)|jkim172|Jihun Kim|

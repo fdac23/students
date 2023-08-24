@@ -53,6 +53,7 @@
 |[@shervinshir](https://github.com/shervinshir)|sshiran1|Shervin Shirani|
 |[@tokey-tahmid](https://github.com/tokey-tahmid)|ttahmid|Tokey Tahmid|
 |[@tmvllrrl](https://github.com/tmvllrrl)|tvillarr|Michael Villarreal|
+|[@fzbowers](https://github.com/fzbowers)|vpk542|Fatima Bowers|
 |[@wcuny](https://github.com/wcuny)|wcuny|Will Cuny|
 |[@wfortner](https://github.com/wfortner)|wfortner|Wesley Fortner|
 |[@xzl263](https://github.com/xzl263)|xzl263|Jonathan Graham|

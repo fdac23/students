@@ -1,0 +1,2 @@
+I am Mason Stott, and I am a senior in computer science. I have done undergraduate research in neuromorphic computing, and am currently interning at Oak Ridge National Lab developing 3D simulations in the Unity game engine.
+I have done video game development as a hobby for years (mostly in Unreal and Unity), and hope to do that for a career, or at least something similar like simulators. I love basketball, video games, poker, and dungeons and dragons.

@@ -29,6 +29,7 @@
 |[@mpuryear99](https://github.com/mpuryear99)|mpuryea2|Matthew Puryear|
 |[@manasIO](https://github.com/manasIO)|mtiwari|Manas Tiwari|
 |[@ritoxyapher](https://github.com/ritoxyapher)|rlau|Ricky Lau|
+|[@rrosenb4](https://github.com/rrosenb4)|rrosenb4|Matthew Rosenbalm|
 |[@seoyoung16](https://github.com/seoyoung16)|san5|Seoyoung An|
 |[@sethjeroutek](https://github.com/sethjeroutek)|sjeroute|Seth Jeroutek|
 |[@skerzel](https://github.com/skerzel)|skerzel|Sean Kerzel|

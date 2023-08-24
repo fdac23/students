@@ -38,6 +38,11 @@ bklein3:
   github: robobenklein
   lastname: Klein
   port: 7701
+bmarth:
+  firstname: Brandon
+  github: Brandon-Marth
+  lastname: Marth
+  port: 7747
 bnd674:
   firstname: Thomas
   github: tlstommy

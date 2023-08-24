@@ -8,6 +8,7 @@
 |[@audrism](https://github.com/audrism)|audris|Audris Mockus|
 |[@braxtonhaynie](https://github.com/braxtonhaynie)|bhaynie|Braxton Haynie|
 |[@robobenklein](https://github.com/robobenklein)|bklein3|Ben Klein|
+|[@Brandon-Marth](https://github.com/Brandon-Marth)|bmarth|Brandon Marth|
 |[@tlstommy](https://github.com/tlstommy)|bnd674|Thomas Smith|
 |[@cfisher36](https://github.com/cfisher36)|cfishe36|Caleb Fisher|
 |[@cgraha37](https://github.com/cgraha37)|cgraha37|Christian Graham|

@@ -1,4 +1,1 @@
 I am Jake Shoffner and I am a senior in computer science in the 5 Year MS/BS program. I have worked as a research assistant in condensed matter physics, teaching assistant for DATA201, and am currently working as a software engineer at KUB. I have taken a lot of statistics classes in the arts and sciences department, as well as data mining last semester with Dr. Taufer. I like researching machine learning related topics, especially thing like machine learning in chess.
-
-I am Justin McKnight, a senior Computer Science student at UTK. I like researching topics in machine learning, especially related to machine learning in chess.
-

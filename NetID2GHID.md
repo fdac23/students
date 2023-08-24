@@ -6,6 +6,7 @@
 |[@ankitm28](https://github.com/ankitm28)|amistry2|Ankit Mistry|
 |[@andlrutt](https://github.com/andlrutt)|andlrutt|Andrew Rutter|
 |[@audrism](https://github.com/audrism)|audris|Audris Mockus|
+|[@braxtonhaynie](https://github.com/braxtonhaynie)|bhaynie|Braxton Haynie|
 |[@robobenklein](https://github.com/robobenklein)|bklein3|Ben Klein|
 |[@tlstommy](https://github.com/tlstommy)|bnd674|Thomas Smith|
 |[@cfisher36](https://github.com/cfisher36)|cfishe36|Caleb Fisher|

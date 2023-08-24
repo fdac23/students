@@ -1,0 +1,1 @@
+I am Jonathan Skeen and I'm from Morristown, Tennessee and I'm currently an undergraduate senior. I'm majoring in computer science and minoring in cyberscecurity and machine learning. I have many interests from cars to video games to technology. This course seems interesting and different from many other courses provided for computer science students.

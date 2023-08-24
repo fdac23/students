@@ -1,0 +1,1 @@
+I am DongJun Woun and I am a senior majoring computer science at the University of Tennessee. I have had the opportunity to research support vector machines and quantum annealing at the Oak Ridge National Laboratory. I enjoy data science and machine learning. Besides such, I enjoy playing video games, working out at the gym, and listening to music. 

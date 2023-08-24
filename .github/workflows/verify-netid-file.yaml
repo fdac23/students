@@ -24,13 +24,16 @@ jobs:
       - run: |
           echo "pr merge_commit_sha: ${{ github.event.pull_request.merge_commit_sha }}"
           echo "pr_target merge_commit_sha: ${{ github.event.pull_request_target.merge_commit_sha }}"
+          echo "fork: ${{github.event.pull_request.head.repo.full_name}}"
+          echo "head: ${{github.event.pull_request.head.ref}}"
           echo "pr event data: ${{ toJson(github.event.pull_request) }}"
           echo "pr_target event data: ${{ toJson(github.event.pull_request_target) }}"
 
       - uses: actions/checkout@v3
         with:
           fetch-depth: 20
-          ref: "${{ github.event.pull_request.merge_commit_sha }}"
+          ref: ${{github.event.pull_request.head.ref}}
+          repository: ${{github.event.pull_request.head.repo.full_name}}
 
       - run: |
           git show HEAD

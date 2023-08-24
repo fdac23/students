@@ -13,6 +13,11 @@ bklein3:
   github: robobenklein
   lastname: Klein
   port: 7701
+bnd674:
+  firstname: Thomas
+  github: tlstommy
+  lastname: Smith
+  port: 7709
 hnguye48:
   firstname: Alex
   github: bolophil

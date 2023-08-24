@@ -1,0 +1,1 @@
+I am Ricky Lau and I'm a senior computer science major. I decided to go with computer science as my major since I've always been on the computer since I was little and am interested in problem solving. 

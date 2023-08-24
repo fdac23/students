@@ -42,6 +42,7 @@
 |[@Manan-dev](https://github.com/Manan-dev)|mpatel65|Manan Patel|
 |[@mpuryear99](https://github.com/mpuryear99)|mpuryea2|Matthew Puryear|
 |[@manasIO](https://github.com/manasIO)|mtiwari|Manas Tiwari|
+|[@Wangmmstar](https://github.com/Wangmmstar)|mwang43|Mengjun Wang|
 |[@nolanaskew](https://github.com/nolanaskew)|naskew|Nolan Askew|
 |[@noahshoap](https://github.com/noahshoap)|nshoap|Noah Shoap|
 |[@oselyuti](https://github.com/oselyuti)|oselyuti|Oleksiy Selyutin|

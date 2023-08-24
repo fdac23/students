@@ -14,6 +14,7 @@
 |[@cheadri6](https://github.com/cheadri6)|cheadri6|Cory Headrick|
 |[@djwoun](https://github.com/djwoun)|dwoun|DongJun Woun|
 |[@ebriggs4](https://github.com/ebriggs4)|ebriggs4|Erin Briggs|
+|[@ethanly333](https://github.com/ethanly333)|ely1|Ethan Ly|
 |[@VaughanEric](https://github.com/VaughanEric)|evaugha3|Eric Vaughan|
 |[@Finli-Hill](https://github.com/Finli-Hill)|fhill5|Finli Hill|
 |[@hcurl](https://github.com/hcurl)|hcurl|Hayden Curl|

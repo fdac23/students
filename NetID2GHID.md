@@ -9,6 +9,7 @@
 |[@tlstommy](https://github.com/tlstommy)|bnd674|Thomas Smith|
 |[@cfisher36](https://github.com/cfisher36)|cfishe36|Caleb Fisher|
 |[@cgraha37](https://github.com/cgraha37)|cgraha37|Christian Graham|
+|[@djwoun](https://github.com/djwoun)|dwoun|DongJun Woun|
 |[@VaughanEric](https://github.com/VaughanEric)|evaugha3|Eric Vaughan|
 |[@Finli-Hill](https://github.com/Finli-Hill)|fhill5|Finli Hill|
 |[@hcurl](https://github.com/hcurl)|hcurl|Hayden Curl|

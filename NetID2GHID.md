@@ -42,6 +42,7 @@
 |[@ritoxyapher](https://github.com/ritoxyapher)|rlau|Ricky Lau|
 |[@rrosenb4](https://github.com/rrosenb4)|rrosenb4|Matthew Rosenbalm|
 |[@seoyoung16](https://github.com/seoyoung16)|san5|Seoyoung An|
+|[@sarhuang](https://github.com/sarhuang)|shuang24|Sarah Huang|
 |[@sethjeroutek](https://github.com/sethjeroutek)|sjeroute|Seth Jeroutek|
 |[@skerzel](https://github.com/skerzel)|skerzel|Sean Kerzel|
 |[@seanwilllaugh](https://github.com/seanwilllaugh)|slaughl2|Sean Laughlin|

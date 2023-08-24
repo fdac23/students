@@ -29,6 +29,7 @@
 |[@jacob-hawkins](https://github.com/jacob-hawkins)|jhawki41|Jacob Hawkins|
 |[@jhulen](https://github.com/jhulen)|jhulen|Jennifer Maranville|
 |[@jkim172vols](https://github.com/jkim172vols)|jkim172|Jihun Kim|
+|[@jking148](https://github.com/jking148)|jking148|Jacob King|
 |[@jmtn](https://github.com/jmtn)|jmcelr10|John McElroy|
 |[@jrichcodes](https://github.com/jrichcodes)|jrich19|Josephine Rich|
 |[@Jxk0be](https://github.com/Jxk0be)|jshoffn3|Jake Shoffner|

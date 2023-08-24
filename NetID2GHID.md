@@ -38,6 +38,7 @@
 |[@WindeezKC](https://github.com/WindeezKC)|kchrist|Kellan Christ|
 |[@kpatel68](https://github.com/kpatel68)|kpatel68|Karan Patel|
 |[@LoganOneal](https://github.com/LoganOneal)|loneal7|Logan Oneal|
+|[@Manan-dev](https://github.com/Manan-dev)|mpatel65|Manan Patel|
 |[@mpuryear99](https://github.com/mpuryear99)|mpuryea2|Matthew Puryear|
 |[@manasIO](https://github.com/manasIO)|mtiwari|Manas Tiwari|
 |[@noahshoap](https://github.com/noahshoap)|nshoap|Noah Shoap|

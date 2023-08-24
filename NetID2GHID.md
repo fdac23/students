@@ -21,6 +21,7 @@
 |[@hcurl](https://github.com/hcurl)|hcurl|Hayden Curl|
 |[@hdehler](https://github.com/hdehler)|hdehler|Harrison Dehler|
 |[@bolophil](https://github.com/bolophil)|hnguye48|Alex Nguyen|
+|[@jacob-armiger](https://github.com/jacob-armiger)|jarmiger|Jacob Armiger|
 |[@NutsRobin](https://github.com/NutsRobin)|jbower31|Justin Bowers|
 |[@jbrouss2](https://github.com/jbrouss2)|jbrouss2|Juliana Broussard|
 |[@jchen125](https://github.com/jchen125)|jchen125|Jiawei Chen|

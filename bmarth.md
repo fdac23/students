@@ -1,0 +1,1 @@
+Hello, I am Brandon Marth a senior computer science major. I mainly interested in machine learning currently but want to experiment with other topics to see if I enjoy them more. I really enjoy chess and am interested in how machine learning and data science can be applied to chess.

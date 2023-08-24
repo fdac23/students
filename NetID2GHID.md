@@ -18,6 +18,7 @@
 |[@VaughanEric](https://github.com/VaughanEric)|evaugha3|Eric Vaughan|
 |[@Finli-Hill](https://github.com/Finli-Hill)|fhill5|Finli Hill|
 |[@hcurl](https://github.com/hcurl)|hcurl|Hayden Curl|
+|[@hdehler](https://github.com/hdehler)|hdehler|Harrison Dehler|
 |[@bolophil](https://github.com/bolophil)|hnguye48|Alex Nguyen|
 |[@NutsRobin](https://github.com/NutsRobin)|jbower31|Justin Bowers|
 |[@jbrouss2](https://github.com/jbrouss2)|jbrouss2|Juliana Broussard|

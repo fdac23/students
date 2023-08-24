@@ -88,6 +88,11 @@ hcurl:
   github: hcurl
   lastname: Curl
   port: 7716
+hdehler:
+  firstname: Harrison
+  github: hdehler
+  lastname: Dehler
+  port: 7746
 hnguye48:
   firstname: Alex
   github: bolophil

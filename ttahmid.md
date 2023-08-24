@@ -1,0 +1,1 @@
+Hi, I am Tokey Tahmid, a CS Master's student. I work as a GRA at ICL (Innovative Computing Lab) under Dr. Piotr Luszczek. My research interests are in AI, Reinforcement Learning, High-performance Computing. From this course, my expectation is building a good foundation in Computer archeology and a good grade.

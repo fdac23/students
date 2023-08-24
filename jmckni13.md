@@ -1,0 +1,1 @@
+I am Justin McKnight, a senior Computer Science student and UTK. I like researching topics in machine learning and neural networks.

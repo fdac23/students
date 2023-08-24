@@ -1,0 +1,1 @@
+I am Seth Jeroutek and am a senior in computer engineering, pursuing a minor in cybersecurity and later a master's degree. I have worked on various personal projects in the past few years along with an internship. I am interested primarily in embedded systems design and cybersecurity, but through taking this course I am seeking to (maybe) broaden my scope past that.

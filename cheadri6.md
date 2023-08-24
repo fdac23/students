@@ -1,0 +1,1 @@
+I am Cory Headrick and I am a senior in Computer Science. I hope to be a game developer when I graduate. I am interested in machine learning applications in video games and game development environments.

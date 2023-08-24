@@ -23,6 +23,7 @@
 |[@Jxk0be](https://github.com/Jxk0be)|jshoffn3|Jake Shoffner|
 |[@jskupien24](https://github.com/jskupien24)|jskupien|Jack Skupien|
 |[@juliasteed](https://github.com/juliasteed)|jsteed|Julia Steed|
+|[@jovanyoshioka](https://github.com/jovanyoshioka)|jyoshiok|Jovi Yoshioka|
 |[@WindeezKC](https://github.com/WindeezKC)|kchrist|Kellan Christ|
 |[@kpatel68](https://github.com/kpatel68)|kpatel68|Karan Patel|
 |[@mpuryear99](https://github.com/mpuryear99)|mpuryea2|Matthew Puryear|

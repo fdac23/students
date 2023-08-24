@@ -113,6 +113,11 @@ jsteed:
   github: juliasteed
   lastname: Steed
   port: 7727
+jyoshiok:
+  firstname: Jovi
+  github: jovanyoshioka
+  lastname: Yoshioka
+  port: 7734
 kchrist:
   firstname: Kellan
   github: WindeezKC

@@ -2,6 +2,7 @@
 |----|------|----|
 |[@afranz125](https://github.com/afranz125)|afranz1|Anna Franz|
 |[@Drew-Friend](https://github.com/Drew-Friend)|afriend3|Drew Friend|
+|[@ankitm28](https://github.com/ankitm28)|amistry2|Ankit Mistry|
 |[@audrism](https://github.com/audrism)|audris|Audris Mockus|
 |[@robobenklein](https://github.com/robobenklein)|bklein3|Ben Klein|
 |[@tlstommy](https://github.com/tlstommy)|bnd674|Thomas Smith|

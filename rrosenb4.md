@@ -1,0 +1,1 @@
+I am Matthew Rosenbalm and I am a CS undergrad in my final year. I spent my sophmore year as an undergraduate research assistant in the now defunct PAIRS lab, and have spent the last year as a software engineering intern at TVA for a year. I hope to learn something about data recovery in this class.

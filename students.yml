@@ -163,6 +163,11 @@ jmcelr10:
   github: jmtn
   lastname: McElroy
   port: 7758
+jmckni13:
+  firstname: Justin
+  github: JMcknight75
+  lastname: McKnight
+  port: 7768
 jrich19:
   firstname: Josephine
   github: jrichcodes

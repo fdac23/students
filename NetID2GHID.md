@@ -13,6 +13,7 @@
 |[@bolophil](https://github.com/bolophil)|hnguye48|Alex Nguyen|
 |[@jchen125](https://github.com/jchen125)|jchen125|Jiawei Chen|
 |[@jacob-hawkins](https://github.com/jacob-hawkins)|jhawki41|Jacob Hawkins|
+|[@jhulen](https://github.com/jhulen)|jhulen|Jennifer Maranville|
 |[@jkim172vols](https://github.com/jkim172vols)|jkim172|Jihun Kim|
 |[@Jxk0be](https://github.com/Jxk0be)|jshoffn3|Jake Shoffner|
 |[@jskupien24](https://github.com/jskupien24)|jskupien|Jack Skupien|

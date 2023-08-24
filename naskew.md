@@ -1,0 +1,1 @@
+I am Nolan Askew and I am a senior majoring in computer science. I have interned at Warner Bros. Discovery as a software engineering intern, and have interests in full stack website development. I am also an executive board member of the Hack4Impact club at UTK. 

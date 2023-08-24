@@ -1,0 +1,1 @@
+I am Logan Oneal amd I am a senior undergraduate student studying computer science. From this class, I want to learn how to better understand data and model information. I enjoy application development and am interested in getting more into ML / data science to build new projects. 

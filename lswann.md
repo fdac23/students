@@ -1,2 +1,3 @@
-Hello! My name is Lilian Swann. I am a senior here at UT, I'm majoring in CS and minoring in graphic design. This past summer I was in intern at ORNL and the summer befor I interned at Fermilab. 
-I'm still discovering my interestest, but this past summer I worked in both cyber security and web development and I enjoyed both areas. 
+Hello! My name is Lilian Swann. I am a senior here at UT, majoring in CS and minoring in graphic design. This past summer I interned at ORNL and the summer before I interned at Fermilab. 
+I'm still discovering my interests, but this past summer I worked in both cyber security and web development and I enjoyed both areas. 
+I wanted to take this class for a few reasons. First, I am interested in learning how to properly handle data so I can know what to do (and what not to do) for all my future projects. I am also interested in cyber security and part of that involves digging up and restoring potentially lost data. And last, I wanted to take this class because I haven't had a class like it yet. 

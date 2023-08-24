@@ -4,6 +4,7 @@
 |[@audrism](https://github.com/audrism)|audris|Audris Mockus|
 |[@robobenklein](https://github.com/robobenklein)|bklein3|Ben Klein|
 |[@tlstommy](https://github.com/tlstommy)|bnd674|Thomas Smith|
+|[@cfisher36](https://github.com/cfisher36)|cfishe36|Caleb Fisher|
 |[@Finli-Hill](https://github.com/Finli-Hill)|fhill5|Finli Hill|
 |[@hcurl](https://github.com/hcurl)|hcurl|Hayden Curl|
 |[@bolophil](https://github.com/bolophil)|hnguye48|Alex Nguyen|

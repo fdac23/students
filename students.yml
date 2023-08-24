@@ -23,6 +23,11 @@ fhill5:
   github: Finli-Hill
   lastname: Hill
   port: 7713
+hcurl:
+  firstname: Hayden
+  github: hcurl
+  lastname: Curl
+  port: 7716
 hnguye48:
   firstname: Alex
   github: bolophil

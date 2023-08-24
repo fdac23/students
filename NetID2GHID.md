@@ -5,6 +5,7 @@
 |[@robobenklein](https://github.com/robobenklein)|bklein3|Ben Klein|
 |[@tlstommy](https://github.com/tlstommy)|bnd674|Thomas Smith|
 |[@Finli-Hill](https://github.com/Finli-Hill)|fhill5|Finli Hill|
+|[@hcurl](https://github.com/hcurl)|hcurl|Hayden Curl|
 |[@bolophil](https://github.com/bolophil)|hnguye48|Alex Nguyen|
 |[@jacob-hawkins](https://github.com/jacob-hawkins)|jhawki41|Jacob Hawkins|
 |[@jkim172vols](https://github.com/jkim172vols)|jkim172|Jihun Kim|

@@ -1,0 +1,1 @@
+My name is Julia Steed and I'm a senior in CS doing the 5 year MS/BS program. I do undergraduate research in machine learning and I worked as an embedded software engineering intern at Garmin this summer. I am interested in machine learning and cybersecurity.

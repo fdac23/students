@@ -1,5 +1,6 @@
 |GitHub|netid|name|
 |----|------|----|
+|[@afranz125](https://github.com/afranz125)|afranz1|Anna Franz|
 |[@Drew-Friend](https://github.com/Drew-Friend)|afriend3|Drew Friend|
 |[@audrism](https://github.com/audrism)|audris|Audris Mockus|
 |[@robobenklein](https://github.com/robobenklein)|bklein3|Ben Klein|

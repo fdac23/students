@@ -31,6 +31,7 @@
 |[@jovanyoshioka](https://github.com/jovanyoshioka)|jyoshiok|Jovi Yoshioka|
 |[@WindeezKC](https://github.com/WindeezKC)|kchrist|Kellan Christ|
 |[@kpatel68](https://github.com/kpatel68)|kpatel68|Karan Patel|
+|[@LoganOneal](https://github.com/LoganOneal)|loneal7|Logan Oneal|
 |[@mpuryear99](https://github.com/mpuryear99)|mpuryea2|Matthew Puryear|
 |[@manasIO](https://github.com/manasIO)|mtiwari|Manas Tiwari|
 |[@noahshoap](https://github.com/noahshoap)|nshoap|Noah Shoap|

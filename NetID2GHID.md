@@ -51,4 +51,5 @@
 |[@tmvllrrl](https://github.com/tmvllrrl)|tvillarr|Michael Villarreal|
 |[@wfortner](https://github.com/wfortner)|wfortner|Wesley Fortner|
 |[@xzl263](https://github.com/xzl263)|xzl263|Jonathan Graham|
+|[@ZacPerry-dev](https://github.com/ZacPerry-dev)|zperry4|Zachary Perry|
 

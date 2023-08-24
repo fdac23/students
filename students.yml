@@ -28,6 +28,11 @@ audris:
   github: audrism
   lastname: Mockus
   port: 7700
+azeng2:
+  firstname: Andy
+  github: Poor-Him
+  lastname: Zeng
+  port: 7766
 bhaynie:
   firstname: Braxton
   github: braxtonhaynie

@@ -21,6 +21,7 @@
 |[@jhulen](https://github.com/jhulen)|jhulen|Jennifer Maranville|
 |[@jkim172vols](https://github.com/jkim172vols)|jkim172|Jihun Kim|
 |[@Jxk0be](https://github.com/Jxk0be)|jshoffn3|Jake Shoffner|
+|[@jskeen6](https://github.com/jskeen6)|jskeen6|Jonathan Skeen|
 |[@jskupien24](https://github.com/jskupien24)|jskupien|Jack Skupien|
 |[@juliasteed](https://github.com/juliasteed)|jsteed|Julia Steed|
 |[@jovanyoshioka](https://github.com/jovanyoshioka)|jyoshiok|Jovi Yoshioka|

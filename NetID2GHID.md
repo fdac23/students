@@ -22,6 +22,7 @@
 |[@kpatel68](https://github.com/kpatel68)|kpatel68|Karan Patel|
 |[@manasIO](https://github.com/manasIO)|mtiwari|Manas Tiwari|
 |[@ritoxyapher](https://github.com/ritoxyapher)|rlau|Ricky Lau|
+|[@seoyoung16](https://github.com/seoyoung16)|san5|Seoyoung An|
 |[@seanwilllaugh](https://github.com/seanwilllaugh)|slaughl2|Sean Laughlin|
 |[@shervinshir](https://github.com/shervinshir)|sshiran1|Shervin Shirani|
 |[@tmvllrrl](https://github.com/tmvllrrl)|tvillarr|Michael Villarreal|

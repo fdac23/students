@@ -1,0 +1,1 @@
+Hello, I am Brandon Marth a senior computer science major. I mainly interested in web development currently but want to experiment with other topics to see if I enjoy them more. I currently don't know much about data science but want to learn more about the topic.

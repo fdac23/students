@@ -83,6 +83,11 @@ ebriggs4:
   github: ebriggs4
   lastname: Briggs
   port: 7739
+echavez2:
+  firstname: Emanuel
+  github: beanh0le
+  lastname: Chavez
+  port: 7769
 ely1:
   firstname: Ethan
   github: ethanly333

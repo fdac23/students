@@ -17,6 +17,7 @@
 |[@clayshubert](https://github.com/clayshubert)|cshubert|Clay Shubert|
 |[@djwoun](https://github.com/djwoun)|dwoun|DongJun Woun|
 |[@ebriggs4](https://github.com/ebriggs4)|ebriggs4|Erin Briggs|
+|[@beanh0le](https://github.com/beanh0le)|echavez2|Emanuel Chavez|
 |[@ethanly333](https://github.com/ethanly333)|ely1|Ethan Ly|
 |[@VaughanEric](https://github.com/VaughanEric)|evaugha3|Eric Vaughan|
 |[@Finli-Hill](https://github.com/Finli-Hill)|fhill5|Finli Hill|

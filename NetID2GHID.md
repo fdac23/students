@@ -1,5 +1,6 @@
 |GitHub|netid|name|
 |----|------|----|
+|[@Drew-Friend](https://github.com/Drew-Friend)|afriend3|Drew Friend|
 |[@audrism](https://github.com/audrism)|audris|Audris Mockus|
 |[@robobenklein](https://github.com/robobenklein)|bklein3|Ben Klein|
 |[@bolophil](https://github.com/bolophil)|hnguye48|Alex Nguyen|

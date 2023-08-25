@@ -1,1 +1,1 @@
-
+My name is Lu Liu, and I'm from Denver, Colorado. I'm a first-year PhD student majoring in CS. I got my Bachelor's degree from Indiana University, and my Master's degree from Northeastern University. Currently, I am working on cybersecurity research with Dr.Kim, especially in the area of usable security. 

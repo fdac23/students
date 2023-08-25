@@ -353,6 +353,11 @@ wfortner:
   github: wfortner
   lastname: Fortner
   port: 7750
+wquesinb:
+  firstname: William
+  github: williamques
+  lastname: Quesinberry
+  port: 7773
 xzl263:
   firstname: Jonathan
   github: xzl263

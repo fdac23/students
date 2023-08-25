@@ -71,6 +71,7 @@
 |[@fzbowers](https://github.com/fzbowers)|vpk542|Fatima Bowers|
 |[@wcuny](https://github.com/wcuny)|wcuny|Will Cuny|
 |[@wfortner](https://github.com/wfortner)|wfortner|Wesley Fortner|
+|[@williamques](https://github.com/williamques)|wquesinb|William Quesinberry|
 |[@xzl263](https://github.com/xzl263)|xzl263|Jonathan Graham|
 |[@ZacPerry-dev](https://github.com/ZacPerry-dev)|zperry4|Zachary Perry|
 

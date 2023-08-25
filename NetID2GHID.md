@@ -5,6 +5,7 @@
 |[@alay10](https://github.com/alay10)|alay10|Andrew Lay|
 |[@ankitm28](https://github.com/ankitm28)|amistry2|Ankit Mistry|
 |[@andlrutt](https://github.com/andlrutt)|andlrutt|Andrew Rutter|
+|[@arshita08](https://github.com/arshita08)|asharm42|Arshita Sharma|
 |[@audrism](https://github.com/audrism)|audris|Audris Mockus|
 |[@Poor-Him](https://github.com/Poor-Him)|azeng2|Andy Zeng|
 |[@braxtonhaynie](https://github.com/braxtonhaynie)|bhaynie|Braxton Haynie|

@@ -1,0 +1,1 @@
+I am Zavier Miller. I am a senior studying computer science here at UTK. After I graduate, I am going to go into software engineering. I love writing scalable and maintainable code and mastering dope tricks on my kendama.

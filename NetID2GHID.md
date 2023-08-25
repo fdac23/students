@@ -74,5 +74,6 @@
 |[@wfortner](https://github.com/wfortner)|wfortner|Wesley Fortner|
 |[@williamques](https://github.com/williamques)|wquesinb|William Quesinberry|
 |[@xzl263](https://github.com/xzl263)|xzl263|Jonathan Graham|
+|[@zaviermiller](https://github.com/zaviermiller)|zmille10|Zavier Miller|
 |[@ZacPerry-dev](https://github.com/ZacPerry-dev)|zperry4|Zachary Perry|
 

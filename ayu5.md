@@ -1,0 +1,1 @@
+I am Alex Yu, and I am currently a senior computer science student. I have been learning computer science for 5 years now, and am now taking the digital archaeology class because I think it sounds interesting. In my free time, I like to play games of all types, from card games to video games.

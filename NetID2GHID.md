@@ -75,6 +75,7 @@
 |[@fzbowers](https://github.com/fzbowers)|vpk542|Fatima Bowers|
 |[@wcuny](https://github.com/wcuny)|wcuny|Will Cuny|
 |[@wfortner](https://github.com/wfortner)|wfortner|Wesley Fortner|
+|[@wouyang2](https://github.com/wouyang2)|wouyang2|Weilin Ouyang|
 |[@williamques](https://github.com/williamques)|wquesinb|William Quesinberry|
 |[@xzl263](https://github.com/xzl263)|xzl263|Jonathan Graham|
 |[@zaviermiller](https://github.com/zaviermiller)|zmille10|Zavier Miller|

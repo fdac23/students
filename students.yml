@@ -373,6 +373,11 @@ wfortner:
   github: wfortner
   lastname: Fortner
   port: 7750
+wouyang2:
+  firstname: Weilin
+  github: wouyang2
+  lastname: Ouyang
+  port: 7779
 wquesinb:
   firstname: William
   github: williamques

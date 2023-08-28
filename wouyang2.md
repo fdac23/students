@@ -1,0 +1,1 @@
+I am Weilin Ouyang and I am a senior majoring in Computer Science. I have worked in a boba shop as a part time job for two years and currently, I begin my career in school as a research assistance. I like coding and learing new stuff. Data analysis is a field that I am not familiar with at all, I hope I can enjoy the process of learning. 

@@ -38,6 +38,11 @@ audris:
   github: audrism
   lastname: Mockus
   port: 7700
+ayu5:
+  firstname: Alex
+  github: tehwarriorfesh
+  lastname: Yu
+  port: 7778
 azeng2:
   firstname: Andy
   github: Poor-Him

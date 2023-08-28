@@ -8,6 +8,7 @@
 |[@andlrutt](https://github.com/andlrutt)|andlrutt|Andrew Rutter|
 |[@arshita08](https://github.com/arshita08)|asharm42|Arshita Sharma|
 |[@audrism](https://github.com/audrism)|audris|Audris Mockus|
+|[@tehwarriorfesh](https://github.com/tehwarriorfesh)|ayu5|Alex Yu|
 |[@Poor-Him](https://github.com/Poor-Him)|azeng2|Andy Zeng|
 |[@braxtonhaynie](https://github.com/braxtonhaynie)|bhaynie|Braxton Haynie|
 |[@robobenklein](https://github.com/robobenklein)|bklein3|Ben Klein|

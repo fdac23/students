@@ -25,6 +25,7 @@
 |[@VaughanEric](https://github.com/VaughanEric)|evaugha3|Eric Vaughan|
 |[@Finli-Hill](https://github.com/Finli-Hill)|fhill5|Finli Hill|
 |[@masonhyman-school](https://github.com/masonhyman-school)|gbb823|Mason Hyman|
+|[@gjur1](https://github.com/gjur1)|gjur1|Gitasuk Arthur Jur|
 |[@hcurl](https://github.com/hcurl)|hcurl|Hayden Curl|
 |[@hdehler](https://github.com/hdehler)|hdehler|Harrison Dehler|
 |[@haoyuli102](https://github.com/haoyuli102)|hli102|Haoyu Li|

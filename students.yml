@@ -173,6 +173,11 @@ gbb823:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICfT4ke8qKXACBfvRqRKyiB959XqYZUkR5km8d+NGyMh
   lastname: Hyman
   port: 7771
+gjur1:
+  firstname: Gitasuk Arthur
+  github: gjur1
+  lastname: Jur
+  port: 7784
 hcurl:
   firstname: Hayden
   github: hcurl

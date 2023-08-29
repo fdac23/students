@@ -72,6 +72,7 @@
 |[@seanwilllaugh](https://github.com/seanwilllaugh)|slaughl2|Sean Laughlin|
 |[@smistry4](https://github.com/smistry4)|smistry1|Shivam Mistry|
 |[@shervinshir](https://github.com/shervinshir)|sshiran1|Shervin Shirani|
+|[@tusharpanumatcha](https://github.com/tusharpanumatcha)|tpanumat|Tushar Krishna Panumatcha|
 |[@tokey-tahmid](https://github.com/tokey-tahmid)|ttahmid|Tokey Tahmid|
 |[@tmvllrrl](https://github.com/tmvllrrl)|tvillarr|Michael Villarreal|
 |[@fzbowers](https://github.com/fzbowers)|vpk542|Fatima Bowers|

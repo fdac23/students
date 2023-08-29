@@ -513,6 +513,11 @@ sshiran1:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOJQz/sUe8IUYTsufj+VDFcQHr5+GGPSnVnwGXnTUSvW
   lastname: Shirani
   port: 7710
+tpanumat:
+  firstname: Tushar Krishna
+  github: tusharpanumatcha
+  lastname: Panumatcha
+  port: 7782
 ttahmid:
   firstname: Tokey
   github: tokey-tahmid

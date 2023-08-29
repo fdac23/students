@@ -27,6 +27,7 @@
 |[@masonhyman-school](https://github.com/masonhyman-school)|gbb823|Mason Hyman|
 |[@hcurl](https://github.com/hcurl)|hcurl|Hayden Curl|
 |[@hdehler](https://github.com/hdehler)|hdehler|Harrison Dehler|
+|[@haoyuli102](https://github.com/haoyuli102)|hli102|Haoyu Li|
 |[@bolophil](https://github.com/bolophil)|hnguye48|Alex Nguyen|
 |[@jacob-armiger](https://github.com/jacob-armiger)|jarmiger|Jacob Armiger|
 |[@Jonnyboy2025](https://github.com/Jonnyboy2025)|jblackab|John Blackaby|

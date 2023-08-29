@@ -62,6 +62,7 @@
 |[@nolanaskew](https://github.com/nolanaskew)|naskew|Nolan Askew|
 |[@noahshoap](https://github.com/noahshoap)|nshoap|Noah Shoap|
 |[@oselyuti](https://github.com/oselyuti)|oselyuti|Oleksiy Selyutin|
+|[@AniGP](https://github.com/AniGP)|pgajjala|Anirudh Gajjala|
 |[@Ryan-Carnes-01](https://github.com/Ryan-Carnes-01)|rcarnes|Ryan Carnes|
 |[@ritoxyapher](https://github.com/ritoxyapher)|rlau|Ricky Lau|
 |[@rrosenb4](https://github.com/rrosenb4)|rrosenb4|Matthew Rosenbalm|

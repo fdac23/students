@@ -17,12 +17,13 @@ Place this token in the environment or `.env` file as `GITHUB_TOKEN=xxx`
 
 Run `python -m scripts.gh_settings` to verify the token has more than 60 ratelimit. (Should be a few thousand for a user token)
 
-# Ports.md
+# Ports.md & NetID2GHID.md
 
 This is normally done automatically, but can be run manually:
 
 ```bash
 python -m scripts.make-ports-md > Ports.md
+python -m scripts.make-NetID2GHID > NetID2GHID.md
 ```
 
 # SSH keys

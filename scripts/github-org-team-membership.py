@@ -3,10 +3,10 @@ import re
 import os
 from pathlib import Path
 
-import roboyml
+from . import roboyml
 from github import Github
-from settings import *
-from gh_settings import *
+from .settings import *
+from .gh_settings import *
 
 org_members = list(class_org.get_members())
 students_team = class_org.get_team_by_slug("students")

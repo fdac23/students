@@ -400,6 +400,11 @@ mpuryea2:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJoYR8n7Twi5VaJcJV3FfcO4h2K2MpTiKkuuqearz3lt
   lastname: Puryear
   port: 7730
+mstott3:
+  firstname: Mason
+  github: Aristottle
+  lastname: Stott
+  port: 7781
 mtiwari:
   firstname: Manas
   github: manasIO

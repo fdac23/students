@@ -56,6 +56,7 @@
 |[@LoganOneal](https://github.com/LoganOneal)|loneal7|Logan Oneal|
 |[@Manan-dev](https://github.com/Manan-dev)|mpatel65|Manan Patel|
 |[@mpuryear99](https://github.com/mpuryear99)|mpuryea2|Matthew Puryear|
+|[@Aristottle](https://github.com/Aristottle)|mstott3|Mason Stott|
 |[@manasIO](https://github.com/manasIO)|mtiwari|Manas Tiwari|
 |[@Wangmmstar](https://github.com/Wangmmstar)|mwang43|Mengjun Wang|
 |[@nolanaskew](https://github.com/nolanaskew)|naskew|Nolan Askew|

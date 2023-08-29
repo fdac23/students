@@ -1,11 +1,11 @@
 Quick copy-paste in order: (assuming your `python` is 3.6+)
 
 ```bash
-python scripts/netid-github-link.py
-python scripts/student-names-from-bios.py
-python scripts/assign-docker-ports.py
-python scripts/make-ports-md.py > Ports.md
-python scripts/get-ssh-keys.py
+python -m scripts.netid-github-link
+python -m scripts.student-names-from-bios
+python -m scripts.assign-docker-ports
+python -m scripts.make-ports-md > Ports.md
+python -m scripts.get-ssh-keys
 # on da2: (remember to commit/push/pull this repo with new changes)
 sudo python3 scripts/da2/create-user-home-dirs.py
 python3 scripts/da2/create-docker-containers.py
@@ -14,9 +14,9 @@ python3 scripts/da2/create-docker-containers.py
 # Ordering for populating students.yml
 
 ```bash
-python scripts/netid-github-link.py # makes calls to github api, sets 'github' and creates netids in students.yml
-python scripts/student-names-from-bios.py # reads bio markdown files to get 'firstname' 'lastname'
-python scripts/assign-docker-ports.py # assigns ports to students for their docker containers
+python -m scripts.netid-github-link # makes calls to github api, sets 'github' and creates netids in students.yml
+python -m scripts.student-names-from-bios # reads bio markdown files to get 'firstname' 'lastname'
+python -m scripts.assign-docker-ports # assigns ports to students for their docker containers
 ```
 
 # Ports.md
@@ -24,7 +24,7 @@ python scripts/assign-docker-ports.py # assigns ports to students for their dock
 Updating the markdown file with data from the yml:
 
 ```bash
-python scripts/make-ports-md.py > Ports.md
+python -m scripts.make-ports-md > Ports.md
 ```
 
 # SSH keys
@@ -32,7 +32,7 @@ python scripts/make-ports-md.py > Ports.md
 Pulls SSH keys from the github api for each student and puts the keys in the students.yml:
 
 ```bash
-python scripts/get-ssh-keys.py
+python -m scripts.get-ssh-keys
 ```
 
 # da2 admin actions

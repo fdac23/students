@@ -176,6 +176,8 @@ gbb823:
 gjur1:
   firstname: Gitasuk Arthur
   github: gjur1
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPKLH/rx4XDTwrfaJL8HUmjRuQng8ute3krFYMDKRNgm
   lastname: Jur
   port: 7784
 hcurl:

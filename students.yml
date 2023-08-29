@@ -91,6 +91,7 @@ bmarth:
   github: Brandon-Marth
   keys:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAYKWcTbSNNONbCLNYVvCkscyAw1rLxg7ZWoGx4U4pEY
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN+kaGbzIMqXTy4eKO+SIw19EmAsNFuwRbSHL1xioIF7
   lastname: Marth
   port: 7747
 bnd674:
@@ -149,7 +150,7 @@ ely1:
   firstname: Ethan
   github: ethanly333
   keys:
-  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC+lKQC1hPYZHT22v04bZSdcyNoQC74T/9ov89L64T55M35dXgJw0us6woG0zXf9R9smiknroUfjOt7We4m/d4jCnvtCkwZ9EM2ykn4kz/HSTYw/Ug0LsLdt5f514NIJc50OGRJgi7/IUlK9rsyMnqBovMEh+N5WpcnRXu7hsKcoKBtrvhMGl0GlC9gOObQBRqCOvRjYEmp2EBIwOz7WmLE7so+Bq07B2wUgib/ehTheYjdHhp6289KZe5DajVAUZ4UH5MsahC7Kwp2UfaG9I2kI3ND2DohF9jWEbDlhiIsrOVOOdQDh1XT8wgVo0Z1wexd9jPYQwg4CYdEwzLfVuT2c9dIV5n2sQeGKQlqessILTSZOLAfQgK6jSFI8VNfQFnP01wkBpYSoyByfsp2eOltNnWNt57GFbwRQSsStG8VtYuphv9+wcOUS1Zvl0jGiBJnBaXMciCC7KjyfavtEOoXGiWMNVDFE8882I6AKi6Pr3smt6ZSuthjMAtXLUPuPfc=
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID3jU/udnN9YoEa5GvwVoQXyg2gTsjH8QxpaSth84m5w
   lastname: Ly
   port: 7743
 evaugha3:
@@ -403,6 +404,10 @@ mpuryea2:
 mstott3:
   firstname: Mason
   github: Aristottle
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILnmFJ2vlD7hB/FJHUFIHwkWTqhCMxvYx6gGno6sjSNe
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBNpv33+k3Ix+aVntQYH1pcSk1AQZ/nzKKNMBiZa/OJD
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHBzxeTz7HQ1/xgaZ+sZhVviJfSWO7iLeMgytn34inY5
   lastname: Stott
   port: 7781
 mtiwari:
@@ -448,6 +453,8 @@ oselyuti:
 pgajjala:
   firstname: Anirudh
   github: AniGP
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFBoS0KSgKUMjWmvIkEpiC6vYYsdQHv49aJBIUNLF17N
   lastname: Gajjala
   port: 7783
 rcarnes:
@@ -521,6 +528,8 @@ sshiran1:
 tpanumat:
   firstname: Tushar Krishna
   github: tusharpanumatcha
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIO1O5+H4qHTZJI0IuVD9eWACDHDgC2dszzf7H4BJye2+
   lastname: Panumatcha
   port: 7782
 ttahmid:

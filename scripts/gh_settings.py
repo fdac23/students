@@ -14,3 +14,4 @@ class_repo = class_org.get_repo("students")
 if __name__ == "__main__":
     print(f"org: {class_org}")
     print(f"repo: {class_repo}")
+    print(f"Ratelimit: {gh.rate_limiting}")

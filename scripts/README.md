@@ -11,6 +11,14 @@ sudo python3 scripts/da2/create-user-home-dirs.py
 python3 scripts/da2/create-docker-containers.py
 ```
 
+# Setup
+
+Generate a token on github that has permissions to manage orgs, repos, etc.
+
+Place this token in the environment or `.env` file as `GITHUB_TOKEN=xxx`
+
+Run `python -m scripts.gh_settings` to verify the token has more than 60 ratelimit. (Should be a few thousand for a user token)
+
 # Ordering for populating students.yml
 
 ```bash

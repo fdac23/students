@@ -207,6 +207,11 @@ hnguye48:
   keys: []
   lastname: Nguyen
   port: 7706
+ipelton:
+  firstname: Imani
+  github: bepri
+  lastname: Pelton
+  port: 7785
 jarmiger:
   firstname: Jacob
   github: jacob-armiger

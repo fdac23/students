@@ -30,6 +30,7 @@
 |[@hdehler](https://github.com/hdehler)|hdehler|Harrison Dehler|
 |[@haoyuli102](https://github.com/haoyuli102)|hli102|Haoyu Li|
 |[@bolophil](https://github.com/bolophil)|hnguye48|Alex Nguyen|
+|[@bepri](https://github.com/bepri)|ipelton|Imani Pelton|
 |[@jacob-armiger](https://github.com/jacob-armiger)|jarmiger|Jacob Armiger|
 |[@Jonnyboy2025](https://github.com/Jonnyboy2025)|jblackab|John Blackaby|
 |[@NutsRobin](https://github.com/NutsRobin)|jbower31|Justin Bowers|

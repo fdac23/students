@@ -1,7 +1,8 @@
 afranz1:
   firstname: Anna
   github: afranz125
-  keys: []
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAoKKznDWzw0/FPOJ4qiOkeuO3sx9NQXLv9p3PxQsHoM
   lastname: Franz
   port: 7719
 afriend3:
@@ -210,6 +211,11 @@ hnguye48:
 ipelton:
   firstname: Imani
   github: bepri
+  keys:
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDYQ4JPvaCfyc4cMXfzAcdZlSzyI7V6Kqjbx2IDoXV7ZA8n7xRJ4JklxD3EU4yd/SXgbFsfLJWAyNme4L8f6ZCJcJhevhZGYIVSOP7uO83PMKpmuyE0R67OTMGPFx0SvlGjxNF0Yck715svwIvTJFefESgqUWFovmJ17Rlc4yWKQGfwkMEIpiS9G1OGUYUqjtwP1wt3MS8MULAGap4/gheckdttyk8zqAoPLQZSyb7PRSjroQfdvzyMOMkKqBL/H0HartKnEyM93Neuc2r+WsNlI8IG/JMK/93AZdIGAb4z+hE7VsiwNsEicuP03JMryMrgpWe2XkMydj0Bf1xe701ClvoLV7FGFLTzAunRCM+h6QVJdaT8+fTmAK2rPAcseri29uWdtLx+db4TWW4IuLPIkxqnedj1LJMiNv2MHXz+s9OWrDD4U/YlNY5ywxppvAvM2HPEdcU+T9msoN8OsMd5/lp8UB2bcqfF8VVY3dl6YYfmZ0hXb2a+KNULfinMWrk=
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDDi0ByhyEmlcuaXHE2+eNGFOzy81SYjlvwLu0oa7MYd8RHJoSSaeCJpLjNpn6ZA0GANG4QLsK8AZ7367/pqpjGE/mpUyezVd7okpv7yQLdXMLYQuwdO7x950Elszp/TuObGSqj/4H53BPuA1I2BqXSv3coQ01t4vLQssCrWrsCMbgJcSRdlxmUGlvBOnNigrIifgNo8URyhZE3j59n+JneQ389Uk+/rtMXdDuslqFnIJ2GLVXwjGKZDLTmIvUh6jDTj/m6HCSbsyd54fM85B2bT3r3h0gTRCI0EYKs6Bb1IQbWlbs+90M9+0cpXqvHap37T7uHq7SdcY9RtO5++4ntflsCpdhmEDNpGXjWJ+/AiY1qi3BrDRrw2TyLHSjFCkM8l7zLs42SOYppOX+NCks9IIHQGufAkEY2mN5mLcotpxwF1F8w1W5TqdubG5pybYaQUjgQ+/Fuqeko1qr+9cNg6cTudCMIJE3zU8+U3i51i0JIpIzF1sxOXzC2hxpG6Lg8lA5GLqVmmkG/oRoqFTNjv/Ca5Lqn92+XpDrCbAoPMEFTIL1Eu1N4FObHKXlE/kvWBPh2bqRkQhu43H2R6lK/o10wJwErQG/xH2+a2U5GYkoK3kAvg7E/XXIMmgqv4ceU/cFcVAZlheJy0WR9YeoQrzsbwwJ31LHD6ECVQT76rQ==
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC3b+l3rZzRQ1gdO1+qn3S+ZFonk8aOQVt0zgcJm+lrMTn7fCBCQFF5AJ0s001oXoXfzdXTjzi25zU6Z1aGcaiZT3xn3f2ojZzYVVqFSCvJ0lxuoEv3/AVGPIzg9k1Bof52eNSb/jBAOKyiC20HWL/fAlOdsZwAbjfExGF6XRAnwWNprO7uqMRwAG9hqKLiT/rjXgPiOpsIGgcE+jXJzhvlItT1ewhPEEaNuyXVgu4ViE36/bLmM6mLSBhxDi+h/u/bn9YS8+8bf++qgC5rWR9XcJ6FQqcliRNtOwwTb8zxuIB763LbCDzN/vFA7f1bV11pQMnfA1LI8+4yeyv4MyLo+mGgZ/QIYGXEfLZF4QWfRoxDdDVUTpvxZ330xtBLoCna7ibCb6VU0oKmgW6NzjV8SPui5xJT9TNJld74U8CFzVylAt+aovCYyLDcSUiyX9Ke/NQMfCyRphMNmiyOz953bCQgkdKNh8lw83BK8jCXXNebIYslNVx14Wfit/uvfdVnB7lx/wxLW+/aNf3iPP+8s0bVN3OoeRPlS/EdD/TnBvqGMjUrCw3bthG45lDezL/d5LbyMC8YcPhwe5JyBUuRfuHza4ehWtUay7ubQ2WP6WtVb/+xS7A2iPAbrk/0b/uaXuOgQAygWj2F+cgXbV0dO+JRNO0l92WC2jJ+bkX2bw==
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDXELkLlJmtgUZIjbiYFgV4/eCLfM5l5NHuGPnznbG/KXNQrc3jyTCz6tFHvlrGnLz7/IU9/z5L3pAzh1xZkAxq9Y6i2jA95ecIlEGWdTTkV6IjjCFE2O0YbZQDVSqIifVUew27J0qNGnkAisIdtjwgZxPe9NBH+btTHepSUPmmHdm57jcCJ9OSiQ6ZI5BnVg3cPx9p+sS/uMVglse67CqgCWHBvAGvXU6LbKXvWuo9ktLdzrXxhDgWnJDNdGhX/dFD2j4qDuHuslnEXPF5MPcP4BMKPzklWdDrWasi6bOpDDqcm/ucAJMFdn3z6/zfs50Vvrme1UmoWvcAvHFzBo8eFRV5lTLyGr1DZ7jQjzjHMvcXRtVuuzWOFNrnyaVag2ipcRM5oabIRM4cVLZ/1eWCIXl4ufQ6FmLdaF7vdrx7DzsZ0THnaICLHJu5Nykd6rKVZxZvDx5AD8P69tvu2czO383uLqZVmneEuBCoPViYpR6NMKlDOTaZWn8IIONNXts=
   lastname: Pelton
   port: 7785
 jarmiger:
@@ -235,7 +241,8 @@ jbower31:
 jbrouss2:
   firstname: Juliana
   github: jbrouss2
-  keys: []
+  keys:
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDL4yNHAA7UOnvjx2sHe/61a1Ci/tgBTAy1atgE+tppxqe5me+5HsPvpxng+oVkzAzc4TYyVAmVaHn9d2IhV9g9Qry7EdTarKt0qfJm+XWUmWQ3o+KTpl7AXLbE54SaO+NpGh2Scp2sxLLTbb5z1ha4atX2IhpvJQUjjOmT1cWzGdPJoX1+cOc4tD/hmXFeiY7Ua7nDlYzAw0X75Fd8/J5En7HLxH/uFsPuPV5SMbL4A8vCPExeTBCanniCvaoHMmm0G7R7qxOMGV0Eg02+1dqufrUqOOauxApz9u9FICu4uwfDzmmFp9Y+4IcMfmqapvuNdgP3tCxs6QkHfeZ7Yvnh
   lastname: Broussard
   port: 7728
 jchen125:
@@ -371,6 +378,7 @@ kpatel68:
   keys:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC1rHT8vLpCChKh+2XygIE1QBFPNBBQedSkwDdsouULWTj4voIkR4Vgqz6gXLVvpCeDnsePPywCTIvv5iwl43FqbwWVKvnsmhs3r3Wf5+sxbMTiS2lGBId8Q89qu/OnwwYevZD8Hgrsm6RxuiSt04bASCbCW8qvHYfCucNcozrq29fPGCY3Eg7ZpIE1gkHbYnA/KIuZFf/dL+gIQ86p2RXqtkAQ9HJeNCBXMN9HXPlVLBgvFs0eZFWaqV8HEHnlj8Afv2jAlZdZBaqYCKEIox3cNmCfr3l2tA+G4EpIh5Qsv3Vy9zGLWXyDjugMKTaijrk9O06N9IfFCpgeqB6LwDRqUStTyvuxppdl5vwxe3NJdsIGSIWdcwX2t7Lm8NOwd+waNcrDJmfN7itGfKyhVXwJmrdMQa1ZNw7x5RQTCaRq4Gujr8KPYizqk0pc5LjSKw7lPKfYsVGuBhzYAHMwjVjxjZKHqK/i+04BI60YW6atulcFwuG89MNO+JXPHW8Pawc=
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDp6qmY3U+KSIsaeDf3ilTlc5ORATSmISfsiRrPBe9sPEPLneb4nkWBvr21/SHk86MCzM/TmGqFvbtcYqY+cS0fG0BZklKYOvOFXWvttz8sxLecVBGT00zjnGsEJV0rbwlDLBzoiI9i5Z9jRdTFB8KIoM+ablBDwJkcf/vtJCvsjr1OimqN1XJb7Aj7TaPARj3RSJnyQjF+JFoktt9DjG1466YW+3fUPdr/k1SDo6SLPMTJKDhu3VB+gGp0yZDfiqBg/8CrLG3rIsuhs/4h3IRYdabrlU6UvEVNyHYUwVVbwD4nU+oFkLXH1D8DVy0t42YmTi9z1WEY0+sZ5AKbrSvRmtQXLWa5ZUXI7WHkDC/Z52f61/ja+jIG8gJVOwhzVeWjQdTbMC3RQyi8VD3trWWagjwsBz445bHwTiCTfd/Lr0xd0XEunIgWadzBPw/whVWMjYsJB7opaphnmAzlJrQwzsjDzM8BLtuuuwmkX+W1VBNO+rmll4VHVcYE591jh1c=
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC7DM61mCT4ECPLdBAuinXiTGx60lr6/+ag/gNlSPnQUZBSpAHfNsqw2iSpttsZQYbWDtLyY8FFBiRa7c/cKuuGC+Zcv72Cuf0VerutfVn5AXKfM4UYV2z9dINLCyNLDo5Az0eyiGs/Wlpzfp8VV+311rIlhJoxK0xykkiHmt9H0WeXwlSl42Q5jsi+Wftwcg1njmyb5fo6g0yAF15NuE19kk1piyJl+bNPz/QQNZvagRPX8f6PlwjcfTkIgivPqf2v5l2StACGm9C16YdFB8tNLbBhPBzfjrixVnEtyZezMyqhHVyOA2abgWM4GygkmDYIKrE6S5XJXY0cVcJ3Nfuz
   lastname: Patel
   port: 7715
 lbower10:
@@ -478,6 +486,7 @@ rcarnes:
 rgarg4:
   firstname: Radhika
   github: rgarg4
+  keys: []
   lastname: Garg
   port: 7786
 rlau:
@@ -527,6 +536,13 @@ slaughl2:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHnNz2d6n+eeQ4C44EJQk7zEesgd7O5s0GHhfThQIkIJ
   lastname: Laughlin
   port: 7712
+smalluri:
+  firstname: Saish
+  github: SAISH-MALLURI
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICCUsu9Du7+o8vQZhPNSeqh3A2SgGxmfSCNErwMExEW7
+  lastname: Malluri
+  port: 7787
 smistry1:
   firstname: Shivam
   github: smistry4

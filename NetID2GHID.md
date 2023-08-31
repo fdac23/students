@@ -74,6 +74,7 @@
 |[@sethjeroutek](https://github.com/sethjeroutek)|sjeroute|Seth Jeroutek|
 |[@skerzel](https://github.com/skerzel)|skerzel|Sean Kerzel|
 |[@seanwilllaugh](https://github.com/seanwilllaugh)|slaughl2|Sean Laughlin|
+|[@SAISH-MALLURI](https://github.com/SAISH-MALLURI)|smalluri|Saish Malluri|
 |[@smistry4](https://github.com/smistry4)|smistry1|Shivam Mistry|
 |[@shervinshir](https://github.com/shervinshir)|sshiran1|Shervin Shirani|
 |[@tusharpanumatcha](https://github.com/tusharpanumatcha)|tpanumat|Tushar Krishna Panumatcha|

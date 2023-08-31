@@ -13,7 +13,7 @@ client = docker.from_env()
 # reference start:
 # docker run -i -d --name $n -p $p:22  -v /data:/local -v /home/$n:/home/$n -v /data/shared:/data -w /home/$n audris/jupyter-r:latest /bin/startsvc.sh $n
 
-container_name_fmt = "fdac22_{0}"
+container_name_fmt = "fdac_{0}"
 
 running_containers = client.containers.list(all=True)
 

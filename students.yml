@@ -402,6 +402,11 @@ loneal7:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAJjwYegLWPrBiVJKGoE23e/f8x4tHZU0SCVkGn+jAN2
   lastname: Oneal
   port: 7742
+lswann:
+  firstname: Lilian
+  github: lvswann
+  lastname: Swann
+  port: 7788
 mpatel65:
   firstname: Manan
   github: Manan-dev

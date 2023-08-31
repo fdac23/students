@@ -56,6 +56,7 @@
 |[@lbower10](https://github.com/lbower10)|lbower10|Logan Bowers|
 |[@Mirandalllll](https://github.com/Mirandalllll)|lliu58|Lu Liu|
 |[@LoganOneal](https://github.com/LoganOneal)|loneal7|Logan Oneal|
+|[@lvswann](https://github.com/lvswann)|lswann|Lilian Swann|
 |[@Manan-dev](https://github.com/Manan-dev)|mpatel65|Manan Patel|
 |[@mpuryear99](https://github.com/mpuryear99)|mpuryea2|Matthew Puryear|
 |[@Aristottle](https://github.com/Aristottle)|mstott3|Mason Stott|

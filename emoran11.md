@@ -1,0 +1,1 @@
+I am Bear Moran. I am a senior in computer science and math at UTK. I have work experience with deep learning at Oak Ridge National Laboratory. I have interests in Christian apologetics, piano, and software development. I want to get more GitHub and machine learning experience out of this course.

@@ -167,6 +167,11 @@ ely1:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAID3jU/udnN9YoEa5GvwVoQXyg2gTsjH8QxpaSth84m5w
   lastname: Ly
   port: 7743
+emoran11:
+  firstname: Bear
+  github: emoran11
+  lastname: Moran
+  port: 7789
 evaugha3:
   firstname: Eric
   github: VaughanEric

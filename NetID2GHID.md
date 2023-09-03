@@ -22,6 +22,7 @@
 |[@ebriggs4](https://github.com/ebriggs4)|ebriggs4|Erin Briggs|
 |[@beanh0le](https://github.com/beanh0le)|echavez2|Emanuel Chavez|
 |[@ethanly333](https://github.com/ethanly333)|ely1|Ethan Ly|
+|[@emoran11](https://github.com/emoran11)|emoran11|Bear Moran|
 |[@VaughanEric](https://github.com/VaughanEric)|evaugha3|Eric Vaughan|
 |[@Finli-Hill](https://github.com/Finli-Hill)|fhill5|Finli Hill|
 |[@masonhyman-school](https://github.com/masonhyman-school)|gbb823|Mason Hyman|

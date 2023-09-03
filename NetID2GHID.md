@@ -82,6 +82,7 @@
 |[@tusharpanumatcha](https://github.com/tusharpanumatcha)|tpanumat|Tushar Krishna Panumatcha|
 |[@tokey-tahmid](https://github.com/tokey-tahmid)|ttahmid|Tokey Tahmid|
 |[@tmvllrrl](https://github.com/tmvllrrl)|tvillarr|Michael Villarreal|
+|[@1264089591](https://github.com/1264089591)|twu21|Tianhao Wu|
 |[@fzbowers](https://github.com/fzbowers)|vpk542|Fatima Bowers|
 |[@wcuny](https://github.com/wcuny)|wcuny|Will Cuny|
 |[@wfortner](https://github.com/wfortner)|wfortner|Wesley Fortner|

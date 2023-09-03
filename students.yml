@@ -435,6 +435,11 @@ loneal7:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAJjwYegLWPrBiVJKGoE23e/f8x4tHZU0SCVkGn+jAN2
   lastname: Oneal
   port: 7742
+lsmit248:
+  firstname: Laura
+  github: LSmith2174
+  lastname: Smith
+  port: 7791
 lswann:
   firstname: Lilian
   github: lvswann

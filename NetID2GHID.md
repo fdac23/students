@@ -57,6 +57,7 @@
 |[@lbower10](https://github.com/lbower10)|lbower10|Logan Bowers|
 |[@Mirandalllll](https://github.com/Mirandalllll)|lliu58|Lu Liu|
 |[@LoganOneal](https://github.com/LoganOneal)|loneal7|Logan Oneal|
+|[@LSmith2174](https://github.com/LSmith2174)|lsmit248|Laura Smith|
 |[@lvswann](https://github.com/lvswann)|lswann|Lilian Swann|
 |[@Manan-dev](https://github.com/Manan-dev)|mpatel65|Manan Patel|
 |[@mpuryear99](https://github.com/mpuryear99)|mpuryea2|Matthew Puryear|

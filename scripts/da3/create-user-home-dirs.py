@@ -24,17 +24,18 @@ with roboyml.open(studentfile, readonly=True) as students:
     set_file_owner_to_student(da_home_dir / ".ssh", group=netid)
     (da_home_dir / ".ssh").chmod(0o700)
 
+    # NOTE: unsupported depending on home NFS mount type since move to ishia + tighter security controls
     # set selinux context for their dir:
-    subprocess.check_output(
-        f"chcon -u system_u -t user_home_t '{da_home_dir}'",
-        stderr=subprocess.STDOUT,
-        shell=True
-    )
-    subprocess.check_output(
-        f"chcon -u system_u -t ssh_home_t '{da_home_dir / '.ssh'}'",
-        stderr=subprocess.STDOUT,
-        shell=True
-    )
+    #subprocess.check_output(
+    #    f"chcon -u system_u -t user_home_t '{da_home_dir}'",
+    #    stderr=subprocess.STDOUT,
+    #    shell=True
+    #)
+    #subprocess.check_output(
+    #    f"chcon -u system_u -t ssh_home_t '{da_home_dir / '.ssh'}'",
+    #    stderr=subprocess.STDOUT,
+    #    shell=True
+    #)
 
     # derp: it's readonly since running as root
     # student["homedir"] = da_home_dir

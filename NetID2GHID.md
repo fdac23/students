@@ -49,7 +49,6 @@
 |[@jskeen6](https://github.com/jskeen6)|jskeen6|Jonathan Skeen|
 |[@jskupien24](https://github.com/jskupien24)|jskupien|Jack Skupien|
 |[@juliasteed](https://github.com/juliasteed)|jsteed|Julia Steed|
-|[@jovanyoshioka](https://github.com/jovanyoshioka)|jyoshiok|Jovi Yoshioka|
 |[@WindeezKC](https://github.com/WindeezKC)|kchrist|Kellan Christ|
 |[@kcraddoc](https://github.com/kcraddoc)|kcraddoc|Kevin Craddock|
 |[@Knuchols](https://github.com/Knuchols)|knuchol1|Katie Nuchols|
@@ -60,7 +59,6 @@
 |[@LSmith2174](https://github.com/LSmith2174)|lsmit248|Laura Smith|
 |[@lvswann](https://github.com/lvswann)|lswann|Lilian Swann|
 |[@Manan-dev](https://github.com/Manan-dev)|mpatel65|Manan Patel|
-|[@mpuryear99](https://github.com/mpuryear99)|mpuryea2|Matthew Puryear|
 |[@Aristottle](https://github.com/Aristottle)|mstott3|Mason Stott|
 |[@manasIO](https://github.com/manasIO)|mtiwari|Manas Tiwari|
 |[@Wangmmstar](https://github.com/Wangmmstar)|mwang43|Mengjun Wang|

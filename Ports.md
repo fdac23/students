@@ -30,11 +30,9 @@
 |7727|jsteed|
 |7728|jbrouss2|
 |7729|alay10|
-|7730|mpuryea2|
 |7731|skerzel|
 |7732|sjeroute|
 |7733|dwoun|
-|7734|jyoshiok|
 |7735|rrosenb4|
 |7736|jskeen6|
 |7737|andlrutt|

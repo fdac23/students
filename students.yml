@@ -382,12 +382,6 @@ jsteed:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDtnGNwwpMo60JWXzaiXRScuFEVdSKSlkZANZCV8XzKsCQKk5f+dDHmTLshFPcXtAHXatZyiu27fj5fZL2m9E/9h3kEVfqeMnZhhEpby/VkTRJborZBLPFckzOvDAya4MsCpUmsPK+YJIkoYXAfX1hV8CH1oi+OAUCUsSv1tZij8tpdVQeTEKeirI49vJnTTQpQOBulvN4n43lHRSs/izKab0CA9+CFUtmrkeRQTSY+7Rf9bI7jJK3+5FAzamGsfvDB7VEoXD0cNY95qd5LODShEIhKlv1AxVAFuEOn1ExpIGcnRfOPxnnJkMxYIoWzPwi4oOa/mutiMYEfdZN2X9uHhxr7pmScV1euaouuaZgQ7P8X7ixkY65lwDBx11fETw05EnoowRU4C7F6+4zFrOyxfjezVR4/EAMHlgKmSG1an4Fz5d4dcglkVcrcwcyqffL63sR2fCqXx/uCZtW8ojMKEFu3Cf/1/w/mZjHU+ngraGs4D8GY0AfZ+HPVf73ADUU=
   lastname: Steed
   port: 7727
-jyoshiok:
-  firstname: Jovi
-  github: jovanyoshioka
-  keys: []
-  lastname: Yoshioka
-  port: 7734
 kchrist:
   firstname: Kellan
   github: WindeezKC
@@ -466,13 +460,6 @@ mpatel65:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFe6gnvpVm/os+xyQbBurE7yBGprtu5frMePuH30Q4RS
   lastname: Patel
   port: 7756
-mpuryea2:
-  firstname: Matthew
-  github: mpuryear99
-  keys:
-  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJoYR8n7Twi5VaJcJV3FfcO4h2K2MpTiKkuuqearz3lt
-  lastname: Puryear
-  port: 7730
 mstott3:
   firstname: Mason
   github: Aristottle

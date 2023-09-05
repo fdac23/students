@@ -414,6 +414,11 @@ kpatel68:
   - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCxH5MhlyYrlWTnrSddEn/Ezq7efl711EKGo2fX2YcVxxUfHsXA0KMw7+Kzbvanli/iKUD5osZ5gmGd+E62HZgouUZKWLTey43hf25Ni56oad8njCOzC0BmAHs/VCe6+v1gPAkshjmkJyYRXlfXLjvm+99wtm3GWt8ZdftoH+Ckr4pF1JmC2GrF0V+DnejMb8vLReSgpQN8bEjaZ7e2EF6+5KF+5brXfmk6Krxulz/DDG9Siu32HUinXcwcsxr6MSK3NDqDGV4ahzjkyGRL6LvEjBPqQ/I9zaKTFb6A6RfOCVGW/MgD7ICR9BCVOPo0RgQEd6vI59EJ4uUr6sxkWeJyCjC9cY3QaHr2qu/Poh4l5QmP3Uxd/BeWSVTIOXNFEzv414PkkMNay5Vm58dHBlf7Q6D4xnjnOtp181zuSsnMXGXjjwcNJXGIggSE15oUwLrTq+o3FM1wSxg8qH/LAyXhwqSK30TX4V3rQfy1g2iPEi7esqXTHgSCNiYkp/xcoj0=
   lastname: Patel
   port: 7715
+kzeligow:
+  firstname: Kuba
+  github: huncfut
+  lastname: Zeligowski
+  port: 7792
 lbower10:
   firstname: Logan
   github: lbower10

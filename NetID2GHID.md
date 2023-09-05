@@ -53,6 +53,7 @@
 |[@kcraddoc](https://github.com/kcraddoc)|kcraddoc|Kevin Craddock|
 |[@Knuchols](https://github.com/Knuchols)|knuchol1|Katie Nuchols|
 |[@kpatel68](https://github.com/kpatel68)|kpatel68|Karan Patel|
+|[@huncfut](https://github.com/huncfut)|kzeligow|Kuba Zeligowski|
 |[@lbower10](https://github.com/lbower10)|lbower10|Logan Bowers|
 |[@Mirandalllll](https://github.com/Mirandalllll)|lliu58|Lu Liu|
 |[@LoganOneal](https://github.com/LoganOneal)|loneal7|Logan Oneal|

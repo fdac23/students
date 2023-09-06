@@ -265,7 +265,7 @@ jblackab:
   firstname: John
   github: Jonnyboy2025
   keys:
-  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAX5gOfH01r2nBId53eiC2KkuhzMhpVxHbN6UNsfsz0Y
+  - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDsIwx8WXownLDhSQRjUffn4wj7GZuk5mfPmYZm/37owmEQqd9xmYrTMhhCANkkm6GC7v2w+ETbCUNE9EAI4B7NH3S6ZjK977EnSax/LxI38L13YEXB4Pr+KmrAQFbMyZ/66tHaxduTvLG/dUhD5pDIeX2UhAnkRj95yDu59vIt7XVC6PznoBGBE5VYqj0uJ4yLRA6TcCOd08CPiC/qvCac7s5X+8o4k2uqLbhVVSofnRLsPJyRtyq9P/OzmN54Fb0YUeBo9x+aJF51WjXGzVTk8kujZ9dTo0Hq6FExyY134kch/1f6wkKU/J++sNQ7vHji/SjyGGIxgefj0vYIUrXAKHlUbMJrFety/DHy+mgeX6ZM72pSQoOxcvQPQezLejDcPpVQsiNRvMxrAa9EgE0Ztxmk2Ac38Lh210BhqCOgN3AOxpGSQVmeLCCEpieEHXrrAHeMMOWueYBDekcr3nc9nwAUu4CnY566z+koyLClQgTRNfO+LjKye8qyImJFcB8=
   lastname: Blackaby
   port: 7777
 jbower31:
@@ -555,7 +555,7 @@ rgarg4:
   firstname: Radhika
   github: rgarg4
   keys:
-  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN7zz2/bBh+QvH4FtzXMguA43zkS/NFYvwtWrfGTPAMx
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICgl75OwIFdBgi88jY6u84lKIXKgPWOXMNUVv1lDwjqB
   lastname: Garg
   port: 7786
 rlau:

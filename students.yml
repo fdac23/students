@@ -204,7 +204,8 @@ gbb823:
 gjur1:
   firstname: Gitasuk Arthur
   github: gjur1
-  keys: []
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMbfnTnGW/w8Qaf6Q0uvLWuMbQMNEARl3Y084bz9zmod
   lastname: Jur
   port: 7784
 hcurl:
@@ -332,12 +333,15 @@ jking148:
   github: jking148
   keys:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJsd7fV9mEUewbtMTjiL5MoQi/+yyrOp7zniBJZ/ROah
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKcXoqof9X8MmR4zmaIzX1d6E2upxTdjxyv64PBNIzSQ
   lastname: King
   port: 7763
 jmcelr10:
   firstname: John
   github: jmtn
-  keys: []
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILbIpAMBPZRZm0S7TZKb2zSRiLwKV6Klm/iObhapzW0W
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOUZay8FD6HGyouTFWwpvjx0q0CVDAvQ9J5XNkMlThZl
   lastname: McElroy
   port: 7758
 jmckni13:
@@ -650,7 +654,8 @@ tvillarr:
 twu21:
   firstname: Tianhao
   github: '1264089591'
-  keys: []
+  keys:
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIN45dKdhJ/5OhcThqnSVoNY71iht3Q2VKdW4T4wO3BUi
   lastname: Wu
   port: 7790
 vpk542:

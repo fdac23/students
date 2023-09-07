@@ -11,6 +11,7 @@ afriend3:
   github: Drew-Friend
   keys:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINmSfc99ziJEWlPA8sIzrtKKjaQL8jsuy0J/lBHwvP5K
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJACo666PpBVrtTRncWrTvl2DyFGe2fGlaEBbd7rHfM1
   lastname: Friend
   port: 7708
 agreer26:
@@ -316,7 +317,6 @@ jhulen:
   firstname: Jennifer
   github: jhulen
   keys:
-  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFFZZNFQAHU9h1xXY5pKdmaT5PzVbmnQyr2YR+iiypBz
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOSrwlcKgr86W8SbiK9cII8+nsFtBJdh/kSXHzE3Gurt
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDH9VTp+dillUc7Se8EQvdMGgKbZsJEUlJBiwTtzRT5g
   lastname: Maranville
@@ -491,6 +491,8 @@ mstott3:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILnmFJ2vlD7hB/FJHUFIHwkWTqhCMxvYx6gGno6sjSNe
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBNpv33+k3Ix+aVntQYH1pcSk1AQZ/nzKKNMBiZa/OJD
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHBzxeTz7HQ1/xgaZ+sZhVviJfSWO7iLeMgytn34inY5
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDVqCcqDaxW0pO5XmXkRPSgGEBa26H4ByTodhUhWSGvw
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF4Dnx9iHifSLKflW/jBrb5O1jLKcltrRQc+IMVS0sgk
   lastname: Stott
   port: 7781
 mtiwari:
@@ -527,6 +529,7 @@ nshoap:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFHpT5pA31hiivFSBOjak/wUk4hmeRyiTNr5UycA0sGs
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIF/fD8MMPKpN4V+H8+tNtTxlrGKoEjdoKJN5wrrLa47O
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBZkHbn0sf6xifXj03GBUMf8RTsRNpTPCtQJDFLvGKKS
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKdbxAEowGlWJKKNPV487etrul2vJiVE2fbM2usugZWs
   lastname: Shoap
   port: 7741
 oselyuti:
@@ -597,6 +600,7 @@ skerzel:
   github: skerzel
   keys:
   - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOBxun/DGVXOWCkyEeXq9KRf1UJsMItTxEiGk3P05dBE
+  - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPwgYpkzCriBcWi+CVSwvvvBOzxUGGDXpVmTO4zIfDeC
   lastname: Kerzel
   port: 7731
 slaughl2:
